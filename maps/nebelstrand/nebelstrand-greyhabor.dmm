@@ -1,0 +1,568 @@
+"aa" = (/obj/abstract/level_data_spawner/nebelstrand_greyharbor,/turf/floor/natural/sand/water/deep,/area/nebelstrand/outside/ocean)
+"ak" = (/turf/floor/natural/mud,/area/nebelstrand/outside)
+"ap" = (/obj/effect/floor_decal/industrial/outline/red,/obj/structure/reagent_dispensers/barrel/ebony/oil,/turf/floor/wood/maple,/area/nebelstrand/storehouse)
+"aq" = (/obj/structure/wall_sconce/lantern,/turf/floor/wood/maple,/area/nebelstrand/outside)
+"aG" = (/turf/wall/brick/basalt/shutter,/area/nebelstrand/castle_walls)
+"aI" = (/turf/floor/natural/mud/water,/area/nebelstrand/outside)
+"aP" = (/obj/structure/working/loom/ebony,/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"aQ" = (/obj/structure/wall_sconce/lantern,/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"aW" = (/obj/structure/railing/mapped/wooden/walnut{dir = 4},/turf/floor/natural/grass,/area/nebelstrand/outside)
+"aX" = (/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10; start_lit = 1},/turf/floor/natural/path/granite,/area/nebelstrand/outside)
+"aZ" = (/turf/floor/wood/maple,/area/nebelstrand/outside/ocean)
+"bh" = (/obj/structure/closet/crate/chest/ebony,/obj/item/harpoon,/obj/item/harpoon,/turf/floor/wood/maple,/area/nebelstrand/fishermen_wharf)
+"bn" = (/turf/floor/natural/path/basalt,/area/nebelstrand/castle_walls)
+"bo" = (/obj/structure/railing/mapped/wooden/walnut{dir = 8},/turf/floor/natural/grass,/area/nebelstrand/outside)
+"bp" = (/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/natural/path/basalt,/area/nebelstrand/outside)
+"bt" = (/turf/floor/natural/sand/water/deep,/area/nebelstrand/outside/ocean)
+"bJ" = (/obj/structure/table/woodentable/ebony,/obj/item/bladed/knife,/obj/abstract/exterior_marker/inside,/turf/floor/wood/maple,/area/nebelstrand/outside)
+"bL" = (/obj/structure/table/marble,/obj/item/chems/glass/handmade/jar,/obj/item/chems/glass/handmade/jar,/obj/item/knife/kitchen/cleaver/bronze,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"bM" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/pen/fancy/quill,/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"bN" = (/turf/wall/log/ebony,/area/nebelstrand/fog_finders)
+"cb" = (/obj/effect/floor_decal/spline/plain/yellow,/obj/structure/railing/mapped/wooden/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside/ocean)
+"cc" = (/obj/structure/wall_sconce/lantern,/turf/floor/natural/sand/water/deep,/area/nebelstrand/outside/ocean)
+"cf" = (/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"cv" = (/obj/structure/bed/chair/wood/ebony{dir = 1},/turf/floor/wood/maple,/area/nebelstrand/storehouse)
+"cy" = (/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/storehouse)
+"cJ" = (/obj/effect/floor_decal/industrial/outline/red,/obj/structure/reagent_dispensers/barrel/ebony,/turf/floor/wood/maple,/area/nebelstrand/storehouse)
+"cZ" = (/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"di" = (/obj/effect/floor_decal/industrial/outline/red,/turf/floor/wood/maple,/area/nebelstrand/storehouse)
+"dm" = (/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/mug/wood,/obj/item/chems/glass/handmade/mug/wood,/obj/item/chems/glass/handmade/mug/wood,/obj/item/chems/glass/handmade/mug/wood,/obj/structure/rack/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"dA" = (/obj/abstract/landmark/start/nebelstrand/wharf_laborer,/turf/floor/wood/maple,/area/nebelstrand/harbormaster)
+"dB" = (/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/storehouse)
+"dC" = (/obj/structure/table/marble,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"dN" = (/obj/structure/table/woodentable/ebony,/obj/item/chems/glass/handmade/bowl/wood,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"dR" = (/turf/floor/natural/path/basalt,/area/nebelstrand/fog_finders/porch)
+"dT" = (/turf/floor/natural/path/basalt,/area/nebelstrand/fishermen_wharf)
+"ee" = (/obj/structure/bed/chair/wood/ebony,/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"; dir = 8},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"ej" = (/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/lighthouse)
+"el" = (/obj/item/pen/fancy/quill,/obj/structure/table/woodentable_reinforced/ebony,/turf/floor/wood/maple,/area/nebelstrand/harbormaster)
+"eu" = (/obj/effect/floor_decal/spline/plain/beige{dir = 1},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"ew" = (/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"; dir = 4},/turf/floor/wood/maple,/area/nebelstrand/fog_finders/porch)
+"ex" = (/obj/effect/floor_decal/spline/plain/yellow,/obj/effect/floor_decal/spline/plain/beige,/obj/structure/railing/mapped/wooden/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside/ocean)
+"eA" = (/obj/structure/wall_sconce/lantern{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"eC" = (/obj/structure/reagent_dispensers/barrel/ebony/water,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"eL" = (/obj/structure/door/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside)
+"eP" = (/obj/structure/bed/chair/bench/ebony,/obj/structure/noticeboard{default_pixel_y = 27},/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"eT" = (/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"fk" = (/obj/structure/table/woodentable/ebony,/obj/item/chems/cooking_vessel/pot/iron,/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"fr" = (/obj/effect/floor_decal/spline/plain/yellow,/obj/effect/floor_decal/spline/plain/beige,/turf/floor/wood/maple,/area/nebelstrand/outside)
+"fx" = (/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"; dir = 10},/turf/floor/wood/maple,/area/nebelstrand/fog_finders/porch)
+"fz" = (/obj/effect/floor_decal/spline/plain/yellow,/obj/effect/floor_decal/spline/plain/beige,/obj/effect/floor_decal/corner/beige/bordercorner{dir = 8},/obj/structure/railing/mapped/wooden/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside/ocean)
+"fH" = (/obj/effect/floor_decal/industrial/outline/red,/obj/structure/rack/ebony,/turf/floor/wood/maple,/area/nebelstrand/storehouse)
+"fI" = (/turf/floor/natural/grass,/area/nebelstrand/castle_walls)
+"fO" = (/turf/floor/natural/path/running_bond/basalt,/area/nebelstrand/outside)
+"ge" = (/obj/structure/bed/chair/wood/ebony,/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"},/obj/abstract/landmark/start/nebelstrand/smuggler,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"gg" = (/obj/effect/floor_decal/spline/plain/beige,/turf/floor/wood/maple,/area/nebelstrand/outside)
+"gh" = (/obj/structure/table/woodentable/ebony,/obj/item/stack/medical/ointment/crafted/five,/obj/item/stack/medical/bandage/crafted/five,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"gi" = (/obj/structure/fence/door/opened{dir = 8},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/castle_walls)
+"gs" = (/obj/structure/table/woodentable/ebony,/turf/floor/wood/maple,/area/nebelstrand/fishermen_wharf)
+"gB" = (/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/lighthouse)
+"gF" = (/turf/wall/log/ebony/shutter,/area/nebelstrand/storehouse)
+"gQ" = (/obj/item/food/butchery/meat/chicken,/obj/item/food/butchery/meat/chicken,/obj/item/food/butchery/haunch/side,/obj/item/food/butchery/haunch/shoulder,/obj/item/food/butchery/cutlet/raw,/obj/item/food/butchery/cutlet/raw,/obj/structure/reagent_dispensers/barrel/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"he" = (/obj/structure/rack/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/lighthouse)
+"hh" = (/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"; dir = 5},/turf/floor/wood/maple,/area/nebelstrand/fog_finders/porch)
+"hj" = (/obj/abstract/exterior_marker/inside,/turf/floor/natural/path/basalt,/area/nebelstrand/outside)
+"hn" = (/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"; dir = 6},/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"; dir = 5},/turf/floor/wood/maple,/area/nebelstrand/fog_finders/porch)
+"hq" = (/obj/structure/wall_sconce/lantern{dir = 4},/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"hE" = (/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10},/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"hL" = (/obj/abstract/landmark/lock_preset/nebelstrand/inn_interior,/obj/structure/door/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/fog_finders)
+"hM" = (/obj/structure/table/woodentable/ebony,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"iq" = (/turf/wall/log/ebony,/area/nebelstrand/inn)
+"iy" = (/obj/structure/barricade{icon = 'maps/nebelstrand/icons/misc.dmi'; icon_state = "ship-tile"; max_health = 500; current_health = 500; name = "retaining wall"; material_alteration = /decl/material/solid/stone/granite; material = /decl/material/solid/stone/granite; dir = 8},/turf/floor/natural/sand/water/deep,/area/nebelstrand/outside/ocean)
+"iE" = (/obj/structure/closet/crate/chest,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/pen/fancy/quill,/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"iP" = (/obj/structure/wall_sconce/lantern{dir = 4; start_lit = 1},/turf/floor/wood/maple,/area/nebelstrand/storehouse)
+"iT" = (/obj/structure/door/walnut{dir = 4},/turf/floor/straw,/area/nebelstrand/farmhouse)
+"iU" = (/obj/structure/table/woodentable/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside)
+"ja" = (/obj/structure/table/woodentable/ebony,/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10; start_lit = 1},/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"ji" = (/obj/effect/floor_decal/spline/plain/yellow{dir = 1},/obj/effect/floor_decal/spline/plain/beige{dir = 1},/obj/effect/floor_decal/corner/beige/bordercorner{dir = 1},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"jj" = (/obj/structure/bed/chair/bench/ebony,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"jk" = (/obj/structure/bed/chair/wood/ebony{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"jF" = (/obj/structure/bed/chair/wood/ebony{dir = 1},/turf/floor/natural/path/running_bond/basalt,/area/nebelstrand/outside)
+"jL" = (/obj/structure/wall_sconce/lantern{dir = 4; start_lit = 1},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"kp" = (/obj/effect/floor_decal/spline/plain/beige{dir = 6},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"ku" = (/obj/structure/reagent_dispensers/barrel/ebony,/obj/item/food/grown/potato,/obj/item/food/grown/potato,/obj/item/food/grown/potato,/obj/item/food/grown/carrot,/obj/item/food/grown/carrot,/obj/item/food/grown/carrot,/obj/item/food/grown/cabbage,/obj/item/food/grown/cabbage,/obj/item/food/grown/cabbage,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"kz" = (/turf/unsimulated/dark_filler,/area/nebelstrand/outside)
+"kC" = (/obj/structure/table/woodentable/ebony,/obj/item/stack/material/plank/mapped/ebony/five,/turf/floor/natural/mud,/area/nebelstrand/outside)
+"kO" = (/obj/structure/door/ebony{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"kW" = (/obj/structure/closet/crate/chest,/turf/floor/wood/maple,/area/nebelstrand/outside)
+"lf" = (/turf/wall/brick/granite,/area/nebelstrand/outside)
+"lh" = (/obj/structure/railing/mapped/wooden/walnut{dir = 1},/obj/structure/railing/mapped/wooden/walnut{dir = 4},/turf/floor/natural/grass,/area/nebelstrand/outside)
+"ll" = (/obj/structure/reagent_dispensers/well/wall_fountain/mapped,/turf/floor/natural/dirt,/area/nebelstrand/outside)
+"lC" = (/obj/effect/floor_decal/spline/plain/beige,/obj/effect/floor_decal/corner/beige/bordercorner{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"lE" = (/turf/floor/natural/grass,/area/nebelstrand/outside)
+"lP" = (/obj/structure/stairs/long/west{color = "#39342c"},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/castle_walls)
+"lS" = (/obj/structure/fire_source/stove,/obj/item/stack/material/log/mapped/walnut/twenty,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"lU" = (/obj/structure/drying_rack,/obj/abstract/exterior_marker/inside,/turf/floor/wood/maple,/area/nebelstrand/outside)
+"mc" = (/obj/structure/door/ebony,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"mh" = (/obj/structure/noticeboard{default_pixel_y = 27},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/castle_walls)
+"mm" = (/obj/effect/floor_decal/spline/plain/beige{dir = 10},/obj/effect/floor_decal/corner/beige/bordercorner{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"mF" = (/obj/effect/floor_decal/spline/plain/beige{dir = 5},/obj/effect/floor_decal/corner/beige/bordercorner{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"mJ" = (/obj/structure/bed/chair/wood/ebony{dir = 1},/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"},/turf/floor/wood/maple,/area/nebelstrand/fog_finders/porch)
+"mK" = (/obj/structure/bed/chair/wood/ebony{dir = 1},/obj/abstract/landmark/start/nebelstrand/bellkeeper,/obj/structure/railing/mapped/wooden/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/lighthouse)
+"mX" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/chems/glass/handmade/cup/wood,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"mZ" = (/turf/unsimulated/dark_filler,/area/nebelstrand/outside/ocean)
+"na" = (/obj/effect/floor_decal/floordetail{dir = 4; icon = 'icons/obj/stairs.dmi'; icon_state = null; color = "#d2bc9d"},/obj/effect/floor_decal/spline/plain/beige,/turf/floor/wood/maple,/area/nebelstrand/outside)
+"nc" = (/obj/structure/table/woodentable/ebony,/obj/structure/wall_sconce/lantern,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"nd" = (/obj/structure/bed/chair/bench/pew/mahogany{dir = 1},/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"nl" = (/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10; start_lit = 1},/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"; dir = 9},/turf/floor/wood/maple,/area/nebelstrand/fog_finders/porch)
+"ny" = (/obj/structure/meat_hook,/obj/abstract/exterior_marker/inside,/turf/floor/wood/maple,/area/nebelstrand/outside)
+"nD" = (/obj/effect/decal/cleanable/blood/drip,/turf/floor/natural/path/basalt,/area/nebelstrand/outside)
+"nH" = (/obj/structure/reagent_dispensers/barrel/ebony/oil,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"nI" = (/obj/effect/floor_decal/spline/plain/beige{dir = 8},/obj/effect/floor_decal/corner/beige/bordercorner{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"nJ" = (/obj/structure/table/woodentable_reinforced/ebony/walnut,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/castle_walls)
+"nL" = (/obj/structure/table/woodentable/ebony,/turf/floor/straw,/area/nebelstrand/farmhouse)
+"nO" = (/obj/structure/door/ebony{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"nQ" = (/obj/structure/table/woodentable/ebony,/obj/item/chems/cooking_vessel/skillet/iron,/obj/item/chems/glass/handmade/bowl/wood,/obj/item/chems/glass/handmade/bowl/wood,/obj/item/chems/glass/handmade/bowl/wood,/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/cup/wood,/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"oe" = (/obj/structure/coatrack,/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"og" = (/obj/effect/floor_decal/spline/plain/yellow{dir = 1},/obj/effect/floor_decal/spline/plain/beige{dir = 1},/obj/abstract/landmark/start/nebelstrand/traveller/learned,/turf/floor/wood/maple,/area/nebelstrand/outside)
+"oo" = (/obj/effect/floor_decal/industrial/outline/red,/obj/structure/closet/crate/chest,/turf/floor/wood/maple,/area/nebelstrand/storehouse)
+"oF" = (/obj/item/stack/material/plank/mapped/ebony/five,/turf/floor/natural/mud,/area/nebelstrand/outside)
+"oM" = (/obj/structure/closet/crate/chest,/obj/effect/floor_decal/industrial/outline/red,/turf/floor/wood/maple,/area/nebelstrand/storehouse)
+"pd" = (/obj/structure/railing/mapped/wooden/walnut{dir = 4},/turf/floor/natural/dirt,/area/nebelstrand/outside)
+"pe" = (/obj/structure/door/basalt{dir = 4},/turf/floor/natural/path/basalt,/area/nebelstrand/castle_walls)
+"pf" = (/obj/structure/noticeboard{default_pixel_y = 27},/turf/floor/wood/maple,/area/nebelstrand/harbormaster)
+"ph" = (/obj/effect/floor_decal/spline/plain/beige{dir = 6},/turf/floor/wood/maple,/area/nebelstrand/outside/ocean)
+"pB" = (/obj/effect/decal/cleanable/blood/drip,/turf/floor/natural/dirt,/area/nebelstrand/outside)
+"pM" = (/obj/structure/reagent_dispensers/barrel/ebony/wine,/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"pU" = (/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"pW" = (/turf/wall/log/ebony,/area/nebelstrand/farmhouse)
+"qh" = (/obj/structure/reagent_dispensers/barrel/ebony/water,/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"qm" = (/turf/floor/carpet/red,/area/nebelstrand/outside)
+"qr" = (/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"qu" = (/obj/structure/bed/chair/bench/ebony{dir = 8},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/castle_walls)
+"qv" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/paper,/obj/item/paper,/obj/item/paper,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/lighthouse)
+"qy" = (/obj/structure/barricade{icon = 'maps/nebelstrand/icons/retaining_wall.dmi'; icon_state = "west"; color = "#615f5f"; max_health = 500; current_health = 500; name = "retaining wall"; material_alteration = /decl/material/solid/stone/granite; material = /decl/material/solid/stone/granite},/turf/floor/natural/path/basalt,/area/nebelstrand/outside)
+"qG" = (/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"; dir = 6},/turf/floor/wood/maple,/area/nebelstrand/fog_finders/porch)
+"qU" = (/obj/structure/closet/cabinet/wooden/ebony,/obj/item/clothing/suit/armor/forged/breastplate,/obj/item/clothing/pants/trousers/braies,/obj/item/bladed/longsword,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/castle_walls)
+"rq" = (/obj/item/chems/glass/handmade/bowl/wood,/obj/item/chems/glass/handmade/bowl/wood,/obj/item/chems/glass/handmade/bowl/wood,/obj/item/chems/glass/handmade/bowl/wood,/obj/item/chems/glass/handmade/bowl/wood,/obj/structure/rack/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"rD" = (/obj/machinery/portable_atmospherics/hydroponics/soil,/turf/floor/natural/mud,/area/nebelstrand/outside)
+"rS" = (/obj/structure/door/walnut,/obj/abstract/landmark/lock_preset/nebelstrand/shrine,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/outside)
+"sa" = (/obj/effect/floor_decal/corner/beige/bordercorner{dir = 1},/obj/effect/floor_decal/spline/plain/beige{dir = 1},/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"se" = (/obj/structure/fire_source/fireplace/basalt,/obj/item/stack/material/log/mapped/walnut/twenty,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"sh" = (/turf/wall/log/ebony/shutter,/area/nebelstrand/fishermen_wharf)
+"sB" = (/obj/structure/railing/mapped/wooden/ebony{dir = 4},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/lighthouse)
+"sS" = (/obj/effect/decal/cleanable/blood,/turf/floor/natural/dirt,/area/nebelstrand/outside)
+"te" = (/obj/effect/floor_decal/corner/beige/bordercorner{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"tp" = (/obj/effect/floor_decal/corner/beige/bordercorner{dir = 1},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"tq" = (/obj/effect/floor_decal/spline/plain/yellow{dir = 1},/obj/effect/floor_decal/spline/plain/beige{dir = 1; layer = 2.5},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"ty" = (/obj/effect/floor_decal/spline/plain/beige{dir = 5},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"tA" = (/obj/structure/railing/mapped/wooden/ebony{dir = 8},/obj/structure/railing/mapped/wooden/ebony{dir = 4},/obj/effect/floor_decal/spline/plain/beige{dir = 8},/obj/effect/floor_decal/spline/plain/beige{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/outside/ocean)
+"tH" = (/obj/structure/bed/chair/wood/ebony{dir = 8},/obj/abstract/landmark/start/nebelstrand/shipwright,/turf/floor/wood/maple,/area/nebelstrand/outside)
+"tM" = (/obj/structure/reagent_dispensers/well/mapped,/obj/abstract/exterior_marker/inside,/turf/floor/natural/path/basalt,/area/nebelstrand/outside)
+"tQ" = (/obj/structure/reagent_dispensers/barrel/ebony/oil,/obj/structure/railing/mapped/wooden/ebony{dir = 4},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/castle_walls)
+"tT" = (/obj/structure/wall_sconce/lantern,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/castle_walls)
+"tV" = (/obj/structure/bed/chair/wood/ebony{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"uc" = (/obj/structure/door/walnut,/obj/abstract/landmark/lock_preset/nebelstrand/shrine,/turf/floor/natural/path/basalt,/area/nebelstrand/outside)
+"ue" = (/obj/structure/door/ebony,/turf/floor/wood/maple,/area/nebelstrand/storehouse)
+"ui" = (/obj/structure/barricade{icon = 'maps/nebelstrand/icons/ship.dmi'; icon_state = "edging"; max_health = 500; current_health = 500; name = "ship"; material_alteration = /decl/material/solid/stone/granite; material = /decl/material/solid/stone/granite; dir = 8; layer = 4; pixel_y = -448},/obj/structure/barricade{icon = 'maps/nebelstrand/icons/ship.dmi'; icon_state = "shadow"; max_health = 500; current_health = 500; name = "ship"; material_alteration = /decl/material/solid/stone/granite; material = /decl/material/solid/stone/granite; dir = 8; layer = 4; pixel_y = -448},/turf/floor/natural/sand/water/deep,/area/nebelstrand/outside/ocean)
+"uk" = (/obj/structure/stairs/north{color = "#39342c"},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/lighthouse)
+"ul" = (/obj/structure/bed/chair/bench/ebony,/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"un" = (/obj/structure/flora/stump/tree/dead,/turf/floor/natural/grass/wild,/area/nebelstrand/outside)
+"uy" = (/obj/effect/decal/cleanable/blood,/turf/floor/natural/path/granite,/area/nebelstrand/outside)
+"uL" = (/obj/structure/closet/crate/chest,/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"uU" = (/obj/structure/table/woodentable_reinforced/ebony,/turf/floor/wood/maple,/area/nebelstrand/harbormaster)
+"uV" = (/obj/structure/bed/simple/ebony,/obj/item/bedsheet/yellowed,/obj/abstract/landmark/start/nebelstrand/fogfinder,/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"vb" = (/obj/structure/table/woodentable_reinforced/ebony,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"vd" = (/obj/structure/reagent_dispensers/barrel/ebony/oil,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/outside)
+"vn" = (/obj/structure/bed/chair/wood/ebony{dir = 1},/obj/abstract/landmark/start/nebelstrand/fogfinder,/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"vt" = (/turf/wall/log/ebony/shutter,/area/nebelstrand/fog_finders)
+"vx" = (/obj/effect/floor_decal/spline/plain/beige{dir = 9},/obj/effect/floor_decal/corner/beige/bordercorner{dir = 1},/obj/structure/railing/mapped/wooden/ebony{dir = 1},/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/outside/ocean)
+"vG" = (/obj/structure/fire_source/kiln/oven,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/outside)
+"vQ" = (/turf/wall/brick/granite,/area/nebelstrand/storehouse)
+"vW" = (/obj/structure/wall_sconce/lantern{start_lit = 1},/turf/floor/wood/maple,/area/nebelstrand/fishermen_wharf)
+"vX" = (/turf/wall/brick/granite/shutter,/area/nebelstrand/outside)
+"vY" = (/obj/structure/bed/chair/wood/ebony{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"wb" = (/obj/effect/floor_decal/spline/plain/beige{dir = 1},/obj/effect/floor_decal/spline/plain/beige{dir = 5},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"wh" = (/obj/structure/bed/chair/wood/ebony,/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"; dir = 9},/turf/floor/wood/maple,/area/nebelstrand/fog_finders/porch)
+"wr" = (/obj/structure/railing/mapped/wooden/walnut{dir = 4},/obj/structure/produce_bin/walnut,/turf/floor/natural/dirt,/area/nebelstrand/outside)
+"wt" = (/obj/structure/table/woodentable/ebony,/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"; dir = 8},/turf/floor/wood/maple,/area/nebelstrand/fog_finders/porch)
+"wB" = (/obj/structure/barricade{icon = 'maps/nebelstrand/icons/misc.dmi'; icon_state = "ship-tile"; max_health = 500; current_health = 500; name = "retaining wall"; material_alteration = /decl/material/solid/stone/granite; material = /decl/material/solid/stone/granite},/turf/floor/natural/sand/water/deep,/area/nebelstrand/outside/ocean)
+"wE" = (/obj/effect/floor_decal/spline/plain/beige{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/outside/ocean)
+"wG" = (/obj/effect/floor_decal/spline/plain/beige{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/outside/ocean)
+"wR" = (/obj/structure/fence,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/castle_walls)
+"wS" = (/obj/structure/closet/crate/chest/ebony,/turf/floor/wood/maple,/area/nebelstrand/fishermen_wharf)
+"xc" = (/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10},/turf/floor/natural/path/basalt,/area/nebelstrand/outside)
+"xj" = (/turf/floor/natural/sand,/area/nebelstrand/storehouse)
+"xr" = (/obj/structure/railing/mapped/wooden/walnut{dir = 8},/turf/floor/natural/path/granite,/area/nebelstrand/outside)
+"xz" = (/obj/structure/railing/mapped/wooden/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/lighthouse)
+"xC" = (/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/fog_finders)
+"xS" = (/obj/structure/table/woodentable/ebony,/obj/item/flame/candle/handmade,/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"ya" = (/obj/structure/flora/stump/tree/maple,/turf/floor/natural/grass,/area/nebelstrand/outside)
+"ym" = (/obj/structure/table/woodentable_reinforced/mahogany,/obj/item/flame/candle/handmade,/turf/floor/carpet/red,/area/nebelstrand/outside)
+"yv" = (/turf/wall/brick/basalt/shutter{shutter_state = 1},/area/nebelstrand/outside)
+"yw" = (/obj/structure/bed/chair/wood/ebony{dir = 1},/obj/structure/wall_sconce/lantern{dir = 8; start_lit = 1},/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"yA" = (/obj/structure/bed/chair/wood/ebony,/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"zk" = (/turf/floor/straw,/area/nebelstrand/farmhouse)
+"zp" = (/obj/structure/bed/simple/ebony,/obj/abstract/landmark/start/nebelstrand/shrine_attendant,/obj/item/bedsheet/furs,/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"zr" = (/obj/structure/table/woodentable/ebony,/turf/floor/natural/dirt,/area/nebelstrand/outside)
+"zy" = (/obj/structure/bed/chair/wood/ebony{dir = 1},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/castle_walls)
+"zB" = (/turf/wall/log/ebony/shutter,/area/nebelstrand/harbormaster)
+"zG" = (/obj/structure/bed/simple/ebony/cloth,/obj/item/bedsheet/yellowed,/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"zL" = (/obj/structure/table/woodentable_reinforced/ebony,/turf/floor/wood/maple,/area/nebelstrand/storehouse)
+"zX" = (/obj/structure/reagent_dispensers/barrel/ebony/oil,/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"Ak" = (/obj/structure/bed/chair/wood/ebony{dir = 4},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/castle_walls)
+"Av" = (/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"Aw" = (/turf/floor/wood/maple,/area/nebelstrand/fishermen_wharf)
+"Az" = (/turf/wall/log/ebony,/area/nebelstrand/outside)
+"AM" = (/obj/structure/door/walnut,/obj/abstract/landmark/lock_preset/nebelstrand/shrine,/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"AQ" = (/obj/structure/table/woodentable/ebony,/obj/item/food/grown/potato,/obj/item/food/grown/potato,/obj/item/food/grown/carrot,/obj/item/food/grown/carrot,/obj/item/food/grown/cabbage,/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"AV" = (/obj/structure/door/ebony,/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"Bb" = (/turf/floor/natural/sand,/area/nebelstrand/outside/ocean)
+"Bc" = (/obj/structure/closet/crate/chest/ebony,/turf/floor/wood/maple,/area/nebelstrand/harbormaster)
+"Bd" = (/obj/structure/flora/tree/dead/mahogany,/turf/floor/natural/dirt,/area/nebelstrand/outside)
+"Bh" = (/turf/floor/natural/dirt,/area/nebelstrand/outside)
+"Bk" = (/obj/structure/table/woodentable/ebony,/obj/item/chems/glass/handmade/bottle/beer,/obj/item/chems/glass/handmade/bottle/beer,/obj/item/chems/glass/handmade/bottle/beer,/obj/item/chems/glass/handmade/bottle/beer,/obj/item/chems/glass/handmade/bottle/beer,/obj/abstract/landmark/organize/horizontal,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"Bp" = (/obj/structure/fire_source/kiln/oven,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"Bx" = (/turf/floor/natural/grass/wild,/area/nebelstrand/outside)
+"BG" = (/turf/floor/wood/maple,/area/nebelstrand/fog_finders/porch)
+"BJ" = (/obj/effect/floor_decal/spline/plain/beige{dir = 9},/obj/effect/floor_decal/corner/beige/bordercorner{dir = 1},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"BN" = (/obj/structure/bed/chair/wood/ebony{dir = 1},/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"; dir = 10},/turf/floor/wood/maple,/area/nebelstrand/fog_finders/porch)
+"BS" = (/obj/structure/closet/cabinet/wooden/ebony,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"Co" = (/obj/structure/table/woodentable/ebony,/obj/item/fishing_rod,/obj/abstract/exterior_marker/inside,/turf/floor/wood/maple,/area/nebelstrand/outside)
+"Cs" = (/obj/structure/railing/mapped/wooden/walnut{dir = 1},/turf/floor/natural/grass,/area/nebelstrand/outside)
+"Ct" = (/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"Cv" = (/obj/structure/bed/simple/ebony,/obj/item/bedsheet/furs,/turf/floor/wood/maple,/area/nebelstrand/outside)
+"Cx" = (/obj/structure/table/marble,/obj/item/chems/glass/beaker/bowl,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"CB" = (/obj/abstract/landmark/start/nebelstrand/bartender,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"CP" = (/turf/wall/brick/granite,/area/nebelstrand/fog_finders)
+"CT" = (/obj/structure/reagent_dispensers/barrel/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"Df" = (/obj/structure/door/ebony{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/storehouse)
+"Dk" = (/obj/structure/bed/chair/wood/ebony{dir = 8},/obj/abstract/landmark/start/nebelstrand/dockmaster,/turf/floor/wood/maple,/area/nebelstrand/harbormaster)
+"Do" = (/obj/structure/door/ebony{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/harbormaster)
+"Ds" = (/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"; dir = 9},/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"; dir = 10},/turf/floor/wood/maple,/area/nebelstrand/fog_finders/porch)
+"DJ" = (/obj/structure/wall_sconce/lantern,/obj/structure/table/marble,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"DP" = (/obj/structure/working/spinning_wheel/twisting_bench/ebony,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/outside)
+"DR" = (/turf/wall/brick/granite/shutter,/area/nebelstrand/fishermen_wharf)
+"DT" = (/obj/effect/floor_decal/spline/plain/yellow{dir = 1},/obj/effect/floor_decal/spline/plain/beige{dir = 1},/obj/structure/wall_sconce/lantern{dir = 4},/obj/structure/railing/mapped/wooden/ebony{dir = 1},/turf/floor/wood/maple,/area/nebelstrand/outside/ocean)
+"DX" = (/obj/structure/bed/chair/wood/ebony,/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"; dir = 1},/turf/floor/wood/maple,/area/nebelstrand/fog_finders/porch)
+"Ed" = (/obj/structure/table/woodentable/ebony,/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"Ee" = (/turf/wall/log/ebony/shutter,/area/nebelstrand/inn)
+"Er" = (/obj/structure/wall_sconce/lantern{start_lit = 1},/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"EE" = (/obj/structure/fire_source/fireplace/basalt,/obj/item/stack/material/log/mapped/walnut/twenty,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/storehouse)
+"EG" = (/obj/structure/bed/chair/wood/ebony{dir = 1},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"EL" = (/obj/structure/reagent_dispensers/barrel/ebony/beer,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"EP" = (/obj/structure/reagent_dispensers/barrel/ebony/beer,/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"EV" = (/obj/structure/table/woodentable/ebony,/obj/item/flame/candle/handmade,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"Ff" = (/turf/floor/natural/sand/water,/area/nebelstrand/outside)
+"Fg" = (/obj/structure/bed/simple/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside)
+"Fj" = (/obj/structure/door/ebony{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"Fn" = (/obj/structure/bed/simple/ebony/cloth,/obj/abstract/landmark/start/nebelstrand/shrine_keeper,/obj/item/bedsheet/furs,/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"Ft" = (/obj/item/flame/candle/handmade,/obj/structure/table/woodentable_reinforced/ebony,/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"Fv" = (/turf/floor/natural/sand,/area/nebelstrand/outside)
+"Fy" = (/obj/effect/floor_decal/spline/plain/yellow,/obj/effect/floor_decal/spline/plain/beige,/obj/abstract/landmark/start/nebelstrand/traveller/learned,/turf/floor/wood/maple,/area/nebelstrand/outside)
+"FK" = (/obj/structure/railing/mapped/wooden/ebony{dir = 8},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/lighthouse)
+"FL" = (/turf/wall/brick/basalt,/area/nebelstrand/outside)
+"Gl" = (/obj/structure/table/woodentable/ebony,/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"Gt" = (/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"GJ" = (/obj/structure/table/woodentable_reinforced/mahogany,/turf/floor/carpet/red,/area/nebelstrand/outside)
+"GR" = (/obj/structure/railing/mapped/wooden/walnut{dir = 4},/obj/item/chems/glass/bucket/wood,/turf/floor/natural/mud,/area/nebelstrand/outside)
+"GY" = (/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10},/obj/structure/bed/chair/wood/ebony,/turf/floor/natural/path/running_bond/basalt,/area/nebelstrand/outside)
+"Hg" = (/obj/effect/floor_decal/spline/plain/beige{dir = 1; layer = 2.5},/obj/effect/floor_decal/floordetail{dir = 4; icon = 'icons/obj/stairs.dmi'; icon_state = null; color = "#d2bc9d"},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"Hm" = (/obj/structure/flora/stump/tree/dead,/turf/floor/natural/grass,/area/nebelstrand/outside)
+"Hq" = (/obj/structure/bed/chair/wood/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside)
+"HA" = (/obj/effect/floor_decal/spline/plain/beige{dir = 6},/obj/effect/floor_decal/corner/beige/bordercorner{dir = 2},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"HI" = (/turf/wall/log/ebony/shutter,/area/nebelstrand/farmhouse)
+"HQ" = (/obj/structure/working/spinning_wheel/ebony,/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"HR" = (/obj/structure/table/marble,/obj/item/chems/condiment/sugar,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/inn)
+"HV" = (/turf/floor/wood/maple,/area/nebelstrand/outside)
+"HZ" = (/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10},/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"; dir = 10},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"Ib" = (/obj/structure/table/woodentable/ebony,/obj/item/stack/material/bundle/grass/dry,/obj/abstract/exterior_marker/inside,/turf/floor/wood/maple,/area/nebelstrand/outside)
+"Ic" = (/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10},/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"Ij" = (/obj/structure/noticeboard{default_pixel_y = 27},/turf/floor/wood/maple,/area/nebelstrand/storehouse)
+"Il" = (/obj/structure/wall_sconce/lantern{dir = 8},/obj/structure/closet/crate/chest/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/castle_walls)
+"Im" = (/obj/structure/table/woodentable/ebony,/obj/item/ancient_surgery/bonesaw,/obj/item/ancient_surgery/forceps,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/outside)
+"Iy" = (/obj/effect/floor_decal/spline/plain/beige{dir = 10},/turf/floor/wood/maple,/area/nebelstrand/outside/ocean)
+"IB" = (/obj/structure/table/woodentable/ebony,/turf/floor/natural/mud,/area/nebelstrand/outside)
+"IE" = (/obj/structure/flora/stump/tree/ebony,/turf/floor/natural/grass/wild,/area/nebelstrand/outside)
+"IF" = (/obj/structure/railing/mapped/wooden/walnut{dir = 4},/obj/structure/reagent_dispensers/barrel/ebony,/obj/item/seeds/extracted/foxglove,/obj/item/seeds/extracted/foxglove,/obj/item/seeds/extracted/ginseng,/obj/item/seeds/extracted/ginseng,/obj/item/seeds/extracted/valerian,/obj/item/seeds/extracted/valerian,/obj/item/seeds/extracted/yarrow,/obj/item/seeds/extracted/yarrow,/turf/floor/natural/dirt,/area/nebelstrand/outside)
+"IO" = (/obj/structure/meat_hook,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"IW" = (/obj/structure/bed/chair/wood/ebony{dir = 1},/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/castle_walls)
+"Jd" = (/obj/abstract/landmark/lock_preset/nebelstrand/inn_interior,/obj/structure/door/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"Jq" = (/obj/structure/flora/stump/tree/maple,/turf/floor/natural/grass/wild,/area/nebelstrand/outside)
+"Js" = (/obj/effect/floor_decal/spline/plain/beige{dir = 8},/obj/effect/floor_decal/spline/plain/beige{dir = 10},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"Jw" = (/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10; start_lit = 1},/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"Jy" = (/obj/structure/door/ebony{dir = 4},/turf/wall/log/ebony,/area/nebelstrand/outside)
+"JN" = (/obj/structure/table/marble,/obj/item/chems/glass/mortar,/obj/item/rock/basalt,/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"JS" = (/turf/floor/wood/maple,/area/nebelstrand/storehouse)
+"Kk" = (/obj/effect/floor_decal/spline/plain/yellow{dir = 1},/obj/effect/floor_decal/spline/plain/beige{dir = 1},/obj/effect/floor_decal/corner/beige/bordercorner{dir = 1},/obj/structure/railing/mapped/wooden/ebony{dir = 1},/turf/floor/wood/maple,/area/nebelstrand/outside/ocean)
+"Kr" = (/obj/structure/railing/mapped/wooden/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/castle_walls)
+"KJ" = (/turf/wall/brick/granite,/area/nebelstrand/inn)
+"KO" = (/obj/structure/closet/crate/chest/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/lighthouse)
+"KQ" = (/obj/effect/floor_decal/spline/plain/beige{dir = 10},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"KU" = (/obj/structure/flora/stump/tree/ebony,/turf/floor/natural/grass,/area/nebelstrand/outside)
+"KY" = (/obj/structure/railing/mapped/wooden/ebony{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"Lh" = (/obj/structure/closet/cabinet/wooden/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/castle_walls)
+"Lm" = (/obj/structure/bed/chair/wood/ebony{dir = 8},/obj/abstract/landmark/start/nebelstrand/mistseer,/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"Ly" = (/obj/structure/wall_sconce/lantern{dir = 4; start_lit = 1},/turf/floor/natural/path/basalt,/area/nebelstrand/outside)
+"LA" = (/obj/structure/wall_sconce/lantern{dir = 4},/turf/floor/natural/mud,/area/nebelstrand/outside)
+"LE" = (/obj/structure/table/woodentable/ebony,/obj/item/chems/condiment/large/salt,/obj/item/chems/condiment/flour,/obj/item/chems/condiment/sugar,/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"LF" = (/obj/structure/table/woodentable/ebony,/obj/item/ancient_surgery/bonesetter,/obj/item/ancient_surgery/retractor,/obj/item/ancient_surgery/sutures,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/outside)
+"LO" = (/obj/structure/barricade{icon = 'maps/nebelstrand/icons/misc.dmi'; icon_state = "ship-tile"; max_health = 500; current_health = 500; name = "retaining wall"; material_alteration = /decl/material/solid/stone/granite; material = /decl/material/solid/stone/granite; dir = 1},/turf/floor/natural/sand/water/deep,/area/nebelstrand/outside/ocean)
+"LP" = (/obj/structure/bed/simple/ebony,/obj/item/bedsheet/yellowed,/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"LU" = (/obj/structure/reagent_dispensers/barrel/ebony,/obj/item/seeds/extracted/cabbage,/obj/item/seeds/extracted/cabbage,/obj/item/seeds/extracted/carrot,/obj/item/seeds/extracted/carrot,/obj/item/seeds/extracted/wheat,/obj/item/seeds/extracted/wheat,/obj/item/seeds/extracted/rice,/obj/item/seeds/extracted/rice,/obj/item/seeds/extracted/potato,/obj/item/seeds/extracted/potato,/obj/structure/railing/mapped/wooden/walnut{dir = 4},/turf/floor/natural/mud,/area/nebelstrand/outside)
+"LW" = (/obj/effect/floor_decal/industrial/outline/red,/obj/structure/reagent_dispensers/barrel/ebony/beer,/turf/floor/wood/maple,/area/nebelstrand/storehouse)
+"LX" = (/obj/structure/fire_source/stove,/obj/item/stack/material/log/mapped/walnut/twenty,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/outside)
+"Ma" = (/obj/effect/floor_decal/floordetail{dir = 4; icon = 'icons/obj/stairs.dmi'; icon_state = null; color = "#d2bc9d"},/obj/effect/floor_decal/spline/plain/beige{dir = 1; layer = 2.5},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"Mf" = (/obj/effect/floor_decal/spline/plain/beige{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"Mm" = (/obj/structure/door/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/castle_walls)
+"My" = (/obj/structure/closet/cabinet/wooden/ebony,/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"MA" = (/obj/structure/door/ebony{dir = 4},/turf/floor/natural/path/basalt,/area/nebelstrand/castle_walls)
+"MB" = (/obj/structure/bed/chair/wood/ebony,/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"MH" = (/obj/structure/bed/simple/ebony/cloth,/obj/item/bedsheet/yellowed,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"MK" = (/obj/structure/pit/closed/grave,/turf/floor/natural/grass,/area/nebelstrand/outside)
+"Nd" = (/turf/wall/brick/basalt,/area/nebelstrand/castle_walls)
+"Ng" = (/turf/floor/natural/path/granite,/area/nebelstrand/outside)
+"Ni" = (/obj/structure/table/woodentable/ebony,/obj/item/stack/material/plank/mapped/maple/ten,/turf/floor/natural/mud,/area/nebelstrand/outside)
+"Nm" = (/obj/structure/door/walnut,/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"Nx" = (/obj/structure/wall_sconce/lantern,/turf/floor/natural/path/basalt,/area/nebelstrand/outside)
+"Ny" = (/obj/structure/bed/simple/ebony/cloth,/obj/item/bedsheet/yellowed,/turf/floor/wood/maple,/area/nebelstrand/outside)
+"NA" = (/obj/structure/table/woodentable/ebony,/turf/floor/wood/maple,/area/nebelstrand/fog_finders/porch)
+"NM" = (/obj/structure/table/woodentable_reinforced/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/lighthouse)
+"NO" = (/turf/wall/log/ebony,/area/nebelstrand/harbormaster)
+"Ob" = (/obj/structure/table/woodentable/ebony,/obj/item/chems/glass/handmade/bottle,/obj/item/chems/glass/handmade/bottle/tall,/obj/item/chems/glass/handmade/bottle/wide,/obj/abstract/landmark/organize/horizontal,/obj/item/chems/glass/handmade/bottle/wide/whiskey,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"Oe" = (/obj/structure/reagent_dispensers/barrel/ebony/wine,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"OJ" = (/obj/structure/railing/mapped/wooden/walnut{dir = 8},/obj/structure/railing/mapped/wooden/walnut{dir = 1},/turf/floor/natural/grass,/area/nebelstrand/outside)
+"OO" = (/obj/structure/closet/cabinet/wooden/ebony,/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"OP" = (/obj/effect/floor_decal/spline/plain/beige,/obj/effect/floor_decal/spline/plain/beige{dir = 1},/obj/effect/floor_decal/floordetail{dir = 4; icon = 'icons/obj/stairs.dmi'; icon_state = null; color = "#d2bc9d"},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"Pk" = (/obj/structure/table/woodentable/ebony,/obj/item/chems/cooking_vessel/baking_dish/earthenware,/obj/item/chems/cooking_vessel/baking_dish/earthenware,/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"Pm" = (/obj/structure/reagent_dispensers/barrel/ebony/oil,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/lighthouse)
+"Py" = (/turf/wall/log/ebony,/area/nebelstrand/fishermen_wharf)
+"Pz" = (/obj/structure/bed/chair/wood/ebony,/turf/floor/natural/path/running_bond/basalt,/area/nebelstrand/outside)
+"PA" = (/obj/structure/pillar/narrow{color = "#615f5f"},/turf/floor/natural/path/running_bond/basalt,/area/nebelstrand/outside)
+"PM" = (/obj/effect/floor_decal/spline/plain/beige{dir = 1; layer = 2.5},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"PN" = (/turf/wall/log/ebony/shutter,/area/nebelstrand/outside)
+"PO" = (/obj/structure/closet/cabinet/wooden/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside)
+"PP" = (/obj/structure/bed/simple/ebony,/obj/item/bedsheet/furs,/turf/floor/wood/maple,/area/nebelstrand/fishermen_wharf)
+"PR" = (/turf/floor/wood/maple,/area/nebelstrand/harbormaster)
+"PS" = (/turf/wall/log/ebony,/area/nebelstrand/storehouse)
+"Ql" = (/turf/wall/log/walnut/shutter{shutter_state = 1},/area/nebelstrand/outside)
+"Qm" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/pen/fancy/quill,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/lighthouse)
+"Qo" = (/obj/structure/railing/mapped/wooden/walnut,/turf/floor/natural/mud,/area/nebelstrand/outside)
+"Qp" = (/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"; dir = 6},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"Qx" = (/obj/structure/wall_sconce/lantern{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"Qz" = (/obj/abstract/landmark/start/nebelstrand/shipwright,/turf/floor/wood/maple,/area/nebelstrand/outside)
+"QK" = (/turf/wall/brick/granite/shutter,/area/nebelstrand/storehouse)
+"QR" = (/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"Rc" = (/obj/abstract/landmark/lock_preset/nebelstrand/inn_exterior,/obj/structure/door/ebony,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"Re" = (/obj/structure/door/ebony{dir = 4},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/lighthouse)
+"Rp" = (/obj/effect/floor_decal/spline/plain/beige{dir = 10},/obj/effect/floor_decal/corner/beige/bordercorner{dir = 8},/obj/structure/railing/mapped/wooden/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside/ocean)
+"RE" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/cash/imperial/regalis,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"Se" = (/obj/structure/stairs/north{color = "#39342c"},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"Sh" = (/obj/structure/bed/chair/wood/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/castle_walls)
+"Sm" = (/turf/floor/natural/path/basalt,/area/nebelstrand/outside)
+"Sn" = (/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/harbormaster)
+"Sr" = (/obj/abstract/landmark/lock_preset/nebelstrand/inn_interior,/obj/structure/door/ebony{dir = 4},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"Ss" = (/obj/structure/bed/chair/wood/ebony{dir = 1},/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"Sx" = (/obj/structure/table/woodentable/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"SD" = (/obj/structure/table/woodentable_reinforced/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/castle_walls)
+"SF" = (/obj/effect/floor_decal/spline/plain/beige{dir = 9},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"SI" = (/obj/structure/table/woodentable/ebony,/turf/floor/natural/path/running_bond/basalt,/area/nebelstrand/outside)
+"Tg" = (/obj/item/stack/material/plank/mapped/maple/ten,/turf/floor/natural/dirt,/area/nebelstrand/outside)
+"Ts" = (/obj/effect/floor_decal/spline/plain/beige{dir = 8},/obj/effect/floor_decal/corner/beige/bordercorner{dir = 1},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"TD" = (/turf/floor/wood/maple,/area/nebelstrand/inn)
+"TJ" = (/turf/wall/brick/granite,/area/nebelstrand/lighthouse)
+"TM" = (/obj/structure/wall_sconce/lantern{dir = 4},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"TX" = (/obj/structure/door/ebony{dir = 4},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/castle_walls)
+"Ud" = (/obj/structure/barricade{icon = 'maps/nebelstrand/icons/misc.dmi'; icon_state = "ship-tile"; max_health = 500; current_health = 500; name = "retaining wall"; material_alteration = /decl/material/solid/stone/granite; material = /decl/material/solid/stone/granite; dir = 4},/turf/floor/natural/sand/water/deep,/area/nebelstrand/outside/ocean)
+"Uu" = (/obj/structure/table/woodentable/ebony,/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"; dir = 8},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"Ux" = (/obj/structure/closet/crate/chest/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/castle_walls)
+"UE" = (/obj/effect/floor_decal/spline/plain/beige{dir = 1},/obj/structure/railing/mapped/wooden/ebony{dir = 1},/turf/floor/wood/maple,/area/nebelstrand/outside/ocean)
+"UF" = (/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/outside)
+"UI" = (/obj/structure/fire_source/stove,/obj/item/stack/material/log/mapped/walnut/ten,/turf/floor/natural/path/basalt,/area/nebelstrand/fishermen_wharf)
+"UN" = (/obj/structure/table/marble,/obj/item/chems/cooking_vessel/pot/iron,/obj/item/chems/cooking_vessel/skillet/iron,/obj/item/chems/cooking_vessel/baking_dish/earthenware,/obj/item/chems/cooking_vessel/baking_dish/earthenware,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"UP" = (/obj/effect/floor_decal/spline/plain/yellow{dir = 9},/obj/effect/floor_decal/spline/plain/beige{dir = 9},/obj/effect/floor_decal/corner/beige/bordercorner{dir = 1},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"UV" = (/obj/effect/floor_decal/beach{dir = 8},/turf/floor/natural/sand/water,/area/nebelstrand/outside/ocean)
+"Vc" = (/obj/structure/flora/tree/dead/ebony,/turf/floor/natural/dirt,/area/nebelstrand/outside)
+"Vu" = (/obj/structure/table/woodentable/ebony,/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"Vw" = (/obj/structure/bookcase{icon = 'maps/nebelstrand/icons/bookcase.dmi'},/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"VM" = (/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/castle_walls)
+"VN" = (/obj/structure/table/woodentable/ebony,/obj/item/chems/glass/handmade/bottle/tall/wine,/obj/item/chems/glass/handmade/bottle/tall/wine,/obj/item/chems/glass/handmade/bottle/tall/wine,/obj/abstract/landmark/organize/horizontal,/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10; start_lit = 1},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"VT" = (/obj/structure/table/woodentable/ebony,/obj/item/chems/glass/mortar,/obj/item/rock/basalt,/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"Wp" = (/obj/effect/floor_decal/spline/plain/yellow{dir = 10},/obj/effect/floor_decal/spline/plain/beige{dir = 10},/obj/effect/floor_decal/corner/beige/bordercorner{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"Wy" = (/obj/structure/table/woodentable/ebony,/obj/item/ancient_surgery/cautery,/obj/item/ancient_surgery/scalpel,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/outside)
+"Wz" = (/obj/structure/closet/crate/chest/ebony,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/outside)
+"WA" = (/obj/structure/wall_sconce/lantern{dir = 4; start_lit = 1},/obj/structure/bed/chair/bench/ebony{dir = 8},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/castle_walls)
+"WH" = (/obj/structure/door/ebony{dir = 4},/turf/floor/natural/path/basalt,/area/nebelstrand/fishermen_wharf)
+"WL" = (/obj/effect/floor_decal/spline/plain/yellow{dir = 1},/obj/effect/floor_decal/spline/plain/beige{dir = 1},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"WU" = (/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/outside)
+"WZ" = (/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"; dir = 10},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"Xa" = (/obj/structure/door/walnut{dir = 4},/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"Xh" = (/obj/structure/bed/chair/wood/ebony,/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"; dir = 4},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"Xj" = (/obj/structure/fire_source/fireplace/basalt,/obj/item/stack/material/log/mapped/walnut/twenty,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/fog_finders)
+"Xo" = (/obj/effect/floor_decal/spline/plain/beige{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"Xt" = (/obj/structure/bed/chair/wood/ebony{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"Xv" = (/obj/structure/railing/mapped/wooden/walnut,/obj/structure/railing/mapped/wooden/walnut{dir = 4},/obj/structure/reagent_dispensers/compost_bin,/turf/floor/natural/dirt,/area/nebelstrand/outside)
+"XE" = (/obj/effect/floor_decal/spline/plain/black{icon_state = "spline_fancy"; dir = 6},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"XP" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/cash/imperial/regalis,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/turf/floor/wood/maple,/area/nebelstrand/outside)
+"Yd" = (/obj/structure/table/marble,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/outside)
+"Yf" = (/turf/floor/natural/sand/water,/area/nebelstrand/outside/ocean)
+"Yh" = (/obj/structure/table/marble,/obj/item/stack/medical/bandage/crafted/five,/obj/item/stack/medical/ointment/crafted/five,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/outside)
+"Yk" = (/obj/structure/table/marble,/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/outside)
+"Yo" = (/obj/structure/table/woodentable_reinforced/ebony,/turf/floor/wood/maple,/area/nebelstrand/fog_finders)
+"Yr" = (/obj/structure/bed/simple/ebony,/turf/floor/straw,/area/nebelstrand/farmhouse)
+"Yv" = (/obj/abstract/map_data/nebelstrand,/turf/floor/natural/sand/water/deep,/area/nebelstrand/outside/ocean)
+"YB" = (/turf/wall/brick/granite/shutter,/area/nebelstrand/lighthouse)
+"YK" = (/obj/structure/table/marble,/obj/item/food/cherrypie,/obj/item/food/meatpie,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"YM" = (/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10},/obj/structure/bed/simple/ebony,/obj/item/bedsheet/furs,/turf/floor/wood/maple,/area/nebelstrand/outside)
+"YZ" = (/obj/structure/table/marble,/obj/item/rock/hematite,/obj/item/rock/flint,/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/inn)
+"Zf" = (/obj/structure/table/marble,/obj/item/chems/condiment/flour,/obj/item/chems/condiment/large/salt,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"Zk" = (/obj/structure/bed/chair/bench/pew/mahogany{dir = 1},/obj/abstract/landmark/start/nebelstrand/cleric,/turf/floor/wood/walnut,/area/nebelstrand/outside)
+"Zn" = (/obj/effect/floor_decal/spline/plain/yellow,/obj/effect/floor_decal/spline/plain/beige,/obj/effect/floor_decal/corner/beige/bordercorner{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/outside)
+"ZD" = (/obj/structure/door/ebony,/turf/floor/wood/maple,/area/nebelstrand/harbormaster)
+"ZJ" = (/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/natural/path/basalt,/area/nebelstrand/castle_walls)
+"ZL" = (/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/cash/imperial/regalis,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/structure/table/woodentable_reinforced/ebony,/turf/floor/wood/maple,/area/nebelstrand/harbormaster)
+"ZU" = (/obj/structure/closet/crate/chest,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/pen/fancy/quill,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/castle_walls)
+"ZV" = (/turf/wall/log/walnut,/area/nebelstrand/outside)
+
+(1,1,1) = {"
+mZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfFvFvFvFvFvFvFvlElElElElElElElElElElElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxlElElElElElElElElElElElElElElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfYfFvFvFvFvFvFvlEFvlElElElElElElElElElElElElElElElElElElEBxBxBxBxBxBxBxlElElEOJCsCsCsCsCsCsCslECsCsCsCsCsCsCsCslhlEBxBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfYfFvFvFvFvFvFvFvlElElElElElElElElElElElElElElElElElElElElElElEBxBxBxlElElElEbolEMKlEMKlElElEBhlElEMKlElElElElEaWlElEBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfFvFvFvFvFvFvFvlElElElElElElElElElElElElElElElElElElElElElElElElEBxlElElElEbolElElElElElElEBhlElElElElElEMKlEaWlElEBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfFvFvFvFvFvFvlElElElElElElElElElElElElElElElElElElElElElElElElElElElElElElEbolElEMKlEMKlEBhBhlElEMKlEMKlElElEaWlElElEBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfFvFvFvFvFvFvFvlElElElElElElElElElElElElElElElElElElElElElElElElElElElElElEbolElElElElElEBhBhBhlElElElElElElEaWlElElEBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfFvFvFvFvFvFvlEFvlElElElElElElElElElElElElElElElElElElElElElElElElElElElElEboMKlEMKlEMKlElEBhBhlElElElEBhBhVcBhpdlElElEBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfFvFvFvFvFvFvFvlElElElElElElElElElElElElElElElElElElElElElElElElElElElElElEbolElElElElElElEBhBhlEBhBhBhBhBhBhVcBhlElElEBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfFvFvFvFvFvFvlElElElElElElElElElElElElElElElElElElElElElElElElElElElElEBhBhFLFLFLFLFLFLFLFLBhBhBhBhFLFLFLBhBdBhBhlElElEBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfFvFvFvFvFvFvFvlElElElElElElElElElElElElElElElElElElElElElElElElElElElEBhZVZVZVZVZVFLBhBhBhBhFLFLFLFLBhBhBhBhBhlElElEBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfFvFvFvFvFvFvFvlElElElElElElElElElElElElElElElElElElElElElElElElElElElElEQlxSFnOOZVBhBhBhBhBhBhBhBhBhlEBhBhlElElElElEBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfFvFvFvFvFvFvlEFvlElElElElElElElElElElElElElElElElElElElElElElElElElElEBhZVywcfcfXaBhBhBhBhBhBhBhBhlEBhBhlEBhBhlElElEBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfYfFvFvFvFvFvFvlElElElElElElElElElElElElElElElElElElElElElElElElElElEBhFLZVZVZVNmZVQlZVFLyvFLrSZVQlZVZVZVucQlZVlElElEBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfYfFvFvFvFvFvFvFvlElEakFvBhBhakakakBhBhakakaklElElElElElElElElElElElElEBhBhlEZVcfXacfOOFLvGLXWUhEcfqhZVYdWUWzZVlElElElEBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfYfYfYfYfbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfYfYfFvFvFvFvFvFvBhakakNdNdNdNdNdNdNdNdNdNdNdNdNdNdakBhlElElElElElElElElElEBhlEZVcfZVErzpZVWUWUWUcfcfEPZVYkWUvdZVlElElElEBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfYfYfYfYfYfYfYfYfbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfYfFvFvFvNdNdNdNdNdNdNdNdbnbnbnbnbnbnbnbnbnbnbnbnNdNdNdBhlElElElElElElElElEBhlEQlhqZVZVZVZVcfLEAQfkcfpMZVYhWUDPZVlElElElEBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfYfFvFvFvFvFvBbYfYfYfYfbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfNdNdNdNdNdNdbnbnbnbnbnbnbnbnNdNdNdNdNdNdNdNdNdNdbnbnbnNdNdNdaklElElElElElEBhFLBhZVcfXacfOOZVcfPkVTnQcfHQZVWUWUImZVlElElElEBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfFvFvFvFvFvFvFvFvFvFvYfYfYfbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtNdNdNdNdNdbnbnbnbnbnbnNdNdNdNdNdNdNdNdakakBhakFvakBhBhNdNdNdbnbnbnNdNdBhlElElElEBhBhFLBhZVcfZVErzpZVcfcfcfcfcfaPZVWUWyLFZVlElElElEBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfFvFvFvFvFvlElElElEFvFvFvFvYfYfYfbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtNdNdNdNdbnbnbnbnbnNdNdNdNdNdNdFvFvlEBhakFvBhlElElElElElElElEakakNdNdNdbnbnNdNdBhlElElEBhFLFLBhZVAMZVZVZVZVZVAMZVAMQlZVZVrSZVQlZVlElElElEBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfFvFvFvlElElElElElElElElEFvFvFvYfYfYfYfYfbtbtbtbtbtbtbtbtbtbtbtbtbtbtNdbnbnbnbnNdNdNdNdNdFvFvFvFvFvFvFvFvlElElElElElElElElElElElElElElEBhNdNdbnbnNdNdaklElElEBhBhBhZVcfcfcfJwcfcfcfZVakakakakakakIFBhlElElEBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfFvFvlElETJTJYBTJTJlElElElEFvFvYfYfYfYfYfYfYfYfbtbtbtbtbtbtbtbtbtYfYfNdNdNdNdNdNdFvFvFvFvFvFvFvFvFvFvFvFvlEFvlElElElElElElElElElElElElElEakNdNdbnbnNdBhlElElElEBhBhQlcfqmqmqmqmqmcfQlakrDrDrDrDakLUBhlElElEBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfFvFvlElETJTJNMqvQmTJTJlElElElEFvFvYfYfYfYfYfYfYfYfYfbtbtbtbtYfYfYfYfYfYfYfYfYfYfYfFvFvFvFvFvFvFvFvFvFvFvFvlEFvlElElElElElElElElElElElElElElEakNdNdbnNdNdlElElElEBhlEZVAvqmymGJymqmhqZVakaIaIaIaIakwrlElElElEBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfFvFvlETJTJgBxzmKxzgBTJTJlElElEFvFvYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfFvFvFvFvFvFvFvFvFvFvFvFvFvFvlElElElElElElElElElElElElElElElElEBhNdbnbnNdaklElEBhBhlEZVcfqmqmqmqmqmcfZVakrDrDrDrDakGRBhlElElEBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfFvFvlETJejgBsBukFKgBgBTJSmSmSFeueueueueueueutyYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfFvFvFvFvFvFvFvFvFvFvFLFvxjFvFvFvlEFvlElElElElElElElElElElElElElElElENdNdbnNdaklElEBhFLBhZVcfndZkqmndndcfZVakQoQoQoQoQoXvlElElElEBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfFvFvlEYBgBgBgBgBgBgBgBReSmSmMfHVHVHVHVHVHVHVHVeueueueueutyYfYfYfYfYfYfYfYfYfFvFvFvFvFvFvFvFvFLFLFLFLFvFvFvFvlElElEFvlElElElElElElElElElElElElElEBhNdbnNdaklElEBhFLBhZVcfcfcfqmcfcfcfZVakakBhBhBhBhlElElElElEBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfFvFvlETJgBgBgBgBgBgBgBTJbpSmKQggggggggggggHVHVHVHVHVHVHVHVeueueueueutyYfFvFvFvFvFvFvFvFvFvFvSFwbqyNONONONOzBNONOlElElElElElElElElElElElElElElElEakNdbnNdBhlElEBhBhBhZVcfndndqmndndcfZVakBhlElElElElElElElElEBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfFvFvlETJTJKOgBgBgBheTJTJlElEFvFvYfYfYfYfYfKQggggggggggHVHVHVHVHVHVHVHVeueueueueutyFvFvFvFvBJtpXoqyNOSnpfPRPRBcNOAzAzAzlElElElElElElElElElElElElEakNdbnNdNdaklEBhFLBhZVcfcfcfcfcfcfcfZVBhlElElElElElElElElElEBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfFvFvlElETJTJPmgBheTJTJlElEFvFvFvYfYfYfYfYfYfYfYfYfYfYfKQggggggggggHVHVHVHVHVHVHVHVeueueueuMfHVXoqyzBPRdAuUPRPRNOeTNyAzlElElElElElElElElElElElElEakNdbnbnNdaklElEBhBhZVZVQlZVNmZVQlZVZVlEBhlElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfFvFvlElETJTJYBTJTJlElEFvFvFvYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfKQggggggggggHVHVHVHVHVHVMfHVXoOPDoPRdAZLDkPRDoHVPOPNlElElElElElElElElElElElElElENdNdbnNdBhlElElElElElElElElElElElElElElElElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfFvFvFvlElElElElElElEFvFvFvYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfFvFvKQggggggggggMfHVXoqyzBPRdAelPRPRNOvYXPAzBhBhlElElElElElElElElElElElEakNdbnNdBhlElElElElElElElElElElElElElElElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfFvFvFvFvFvFvFvFvFvFvFvYfYfYfYfYfYfYfYfYfYfYfbtbtbtbtbtbtYfYfYfYfYfYfYfYfYfFvFvFvFvFvFvmmteXoqyNONOZDzBNOZDNOAzAzAzBhBhBhBhBhlElElElElElElElElEBhNdbnNdNdBhlElElElElElElElElElElElElElElElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfFvFvFvFvFvFvFvFvYfYfYfYfYfYfYfYfYfbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfYfYfYfFvFvFvFvFvMfXoqyxraXSmSmSmSmSmSmSmSmSmSmSmSmSmSmSmaklElElElElElElENdbnbnNdBhlElElElElElElElElElElElElElElElElElElElElElElElEBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfFvFvFvFvFvYfYfYfYfYfYfbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfYfYfFvFvFvMfXoqyxrNgSmSmSmSmSmNxSmSmSmSmSmSmSmSmSmSmlElElElElElElENdNdbnNdNdaklElElElElElElElElElElElElElElElElElElElElElElElElElElEBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfYfYfYfYfYfYfYfbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfYfYfFvMfXoqyxrNgSmPSPSuePSvQvQvQBhBhBhakakSmSmSmlElElElElElElEakNdbnbnNdlElElElElElElElElElElElElElElElElElElElElElElElElElElElElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfYfYfYfbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfYfUVMfXoqyxrNgSmgFJSJSIjcyEEvQakBhBhBhBhakSmSmlElElElElElElEBhNdNdbnfIfIlElElElElElElElElElElElElElElElElElElElElElElElElElElElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfUVMfXoqyxrNgSmPSdBJSJScycyQKakakBhBhBhBhSmSmlElElElElElElElEBhNdfIfIfIfIBhaklElElElElElElElElElElElElElElElElElElElElElElElElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfUVMfXoqyxrNgSmPSJSJSJSJSJSPSBhakakBhakakSmSmlElElElElElElElEakfIfIfIfINdNdNdBhBhaklElElElElElElElElElElElElElElElElElElElElElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfUVMfXoqyxrNgSmPSPSzLzLPSuePSPSPSgFPSPSPSSmSmlElElElElElElElElElEfIfIbnbnbnNdNdNdNdNdakBhakBhlElElElElElElElElElElElElElElElElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfUVMfXoqyxrNgSmgFJScvJSJSJSJSJSJSJSJSJSPSSmSmlElElElElElElElElElEakNdNdNdbnbnbnbnbnNdNdNdNdNdNdakakakakakBhBhBhakBhlElElElElElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfUVMfXoqyxrNgSmPSfHfHfHJSdioodiJSdioMoMgFSmSmaklElElElElElElElElElElEakNdNdNdNdNdbnbnbnbnbnbnNdNdNdNdNdNdNdNdNdNdNdNdNdakakBhakakakBhBhkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfUVMfXoqyxrNgSmPSdBJSJSJSJSJSJSJSJSJSiPPSSmSmaklElElElElElElElElElElElElEakBhBhNdNdNdNdNdNdbnbnbnbnbnbnbnbnbnbnbnbnbnNdNdNdNdNdNdNdNdNdkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfUVMfXoqyxrNgLyPScJapLWJSoooodiJSdioMoMgFSmSmBhlElElElElElElElElElElElElElElElElEakakBhakNdNdNdNdNdNdNdNdNdNdNdNdNdbnbnbnbnbnbnbnbnbnbnkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfUVMfXoqyxrNgSmDfJSJSJSJSJSJSJSJSJSJSJSgFSmSmBhaklElElElElElElElElElElElElElElElElElElElElElEBhBhBhakBhakakBhBhBhNdNdNdNdNdNdNdNdNdNdNdkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfUVMfXoqyxrNgSmPSPSPSPSgFPSPSPSPSgFPSPSPSBhSmBhBhlElElElElElElElElElElElElElElElElElElElElElElElElElElElElElElElElElEakakBhBhakakBhakBhkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfUVMfXoqyxrNgSmeeiUXhakakeeUuXhakakeeiUXhakakBhBhBhlElElElElElElElElElElElElElElElElElElElElElElElElElElElElElElElElElElElElElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfUPtpXoqyxrNgSmWZCtQpakBhWZCtQpBhBhWZCtQpBhBhakBhakBhBhlElElElElElElElElElElElElElElElElElEakaklEBhBhlElElElElElElElElElElElElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtBJWLWLWLjiWLWLWLjiWLWLWLjiWLtqTsHVXoMaNgNgSmSmSmSmSmSmSmSmSmSmSmSmSmSmSmSmSmSmSmakakBhBhBhlElElElElElElElElEakakakaklEBhBhBhBhBhBhBhlElElElElElElElElElElElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtmmfrfrfrZnfrfrfrZnfrfrfrZnfrfrnIHVXonaNgNgSmNxSmSmSmSmSmSmSmSmSmSmSmSmNxNgNgSmSmSmSmSmSmSmSmSmSmSmSmSmSmBhBhBhBhBhBhBhSmSmSmBhBhakakaklElElElElElElElElElElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfYfWpteXoqyxrNgSmlflflfBhBhBhakBhBhBhBhlflflfNgNgNgSmSmSmSmSmSmSmSmSmSmSmSmSmSmSmSmSmSmSmSmSmSmSmBhBhakaklElElElElElEBxBxlElElElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfUVMfXoqyxrNgSmlfBhBhFvFvBhakBhBhFvFvFvBhlfSmNgfOSmakakakBhBhbNbNvtbNvtbNvtbNhLCPCPbNbNbNbNbNbNSmBhBhaklElElElElEBxBxBxBxlElElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfUVMfXoqyxrNgSmlfFvFvFvBhakBhBhakakBhFvFvlffONgSmakakBhBhBhakiqHRCxZfbLJNYKUNcZTMKJTDTDFjTDMHiqSmSmBhlElElElElEBxBxBxBxBxBxlElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfUVMfXoqyxrNgSmFvFvakakakBhBhakakTgakakFvFvfOUFSmKJKJKJKJKJKJiqYZcZcZcZcZcZcZcZlSKJTDTDiqTDBSiqSmSmBhlElElElElEBxBxBxBxBxBxBxlElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfUVMfXoqyxrNgSmFvakIBIBakakakakBhakIBIBakFvfOUFfOKJSxdmrqnHcZSrcZcZCBcZcZcZcZcZBpKJTDTDiqtVEVEeSmSmlElElElElEBxBxBxBxBxBxBxBxlElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfUVMfXoqyxrNgSmFvBhakakakakakakBhBhakakakBhfOUFNgKJkucZcZcZTMiqiqiqiqiqiqDJdCcZcZKJTDTDiqiqiqiqSmaklElElElElEBxBxBxBxBxBxBxBxBxlElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfUVMfXoqyxrNgSmBhakBhoFakBhakBhBhBhBhakBhBhfOUFNgKJgQcZcZcZeCiqiqObVNBkiqiqiqJdiqKJQRTDFjTDMHiqSmBhlElElElEBxBxBxBxBxBxBxBxBxBxlElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfUVMfXoqyxrNgSmakakoFBhBhBhakBhBhBhBhBhakakSmNgNgKJcZcZcZcZcZSrcZcZcZcZcZcZcZcZSxiqTDTDiqTDBSiqSmaklElElElEBxBxBxBxBxBxBxBxBxlElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfUVMfXoqyxrNgSmBhzrakakBhzrakakIBakakzrIBIBSmNgfOKJCTIOELOeghiqcZcZcZCBcZcZcZCBjLiqTDTDiqtVEVEeSmaklElElElEBxBxBxBxBxBxBxBxBxlElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfUVMfXoqyxrNgSmakzrakakakzrBhakIBakBhakakakNgNgfOiqiqiqiqiqiqiqTDvbmXvbvbvbvbmXmXiqTDTDiqiqiqiqSmSmlElElElElEBxBxBxBxBxBxBxlElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtwBaZaZaZUdbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfUVMfXoqyxrNgSmBhzrakakBhzrakakzrzrBhBhakBhNgNgfOiqEVXtTDTDTDiqTDjjjjjjjjjjjjjjjjiqiqmciqtVEViqSmSmBhlElElElElEBxBxBxBxBxBxlElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtwBaZaZaZaZaZUdbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfUVMfXoqyxrNgSmBhBhakBhBhBhBhakakBhakakBhFvNgUFSmiqiqKYTDTDQxiqQRTDTDTDTDTDTDTDTDFjTDTDTDTDBSiqSmSmBhlElElElElElEBxBxBxBxlElElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtaZaZaZaZaZaZaZbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfUVMfXoqyxrNgSmFvBhBhakakakBhBhakakakBhFvlfNgUFSmEeSeKYTDTDTDFjTDTDTDTDTDTDTDcZcZKJQRTDTDTDMHEeSmSmakaklElElElElElElElElElElElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtaZaZaZaZaZaZaZbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfUVMfXoqyxrNgSmlfFvakkCIBakBhBhakNiIBlfhjhjNgUFfOiqTDTDtVhMXtiqtVncXttVdNXtTDcZseKJMHBSTDMHBSiqSmSmBhakBhlElElElElElElElElElElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtaZaZaZaZaZaZaZbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfUVMfXoqyxrNgSmlfFvBhakakBhBhakakakaklfhjtMfOUFSmiqiqiqiqEeiqiqiqiqEeEeiqiqRcKJKJKJiqEeiqiqiqiqSmSmBhBhBhakBhlElElElElElElElElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtaZaZaZaZaZaZaZbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfUVMfXoqyxrNgSmlflflfBhakBhBhakFvlflflfhjhjfOUFfOSmHZgeEdEdyApUyAEdEdyApUIcpUyAEdEdyAEdEdyAIcXESmSmBhBhakakakBhBhBhlElElElEBhBhlEakakakkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtaZaZaZaZaZaZaZbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfUPtpXoqyxrNgSmGYSISIPzSmSmSmSmPzSISIGYSmPAfOUFfOPASmSmfOfOfOfOfOSmSmSmSmSmSmfOfOSmSmSmSmSmSmSmSmSmSmSmSmSmSmBhBhBhBhBhakakakSmSmSmBhakkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtaZaZaZaZaZaZaZBJogWLWLjiWLWLWLjiWLWLWLjiWLtqTsHVXoHgNgNgNgNgNgNgNgNgUFUFNgNgNgNgUFUFUFUFUFUFUFUFUFUFNgNgNgNgNgUFUFUFNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtuiaZaZaZaZaZaZaZmmFyfrfrZnfrfrfrZnfrfrfrZnfrfrnIHVXonaNgNgNgNgNgNgNgNgNgNgNgNgUFUFUFNgUFUFUFUFUFUFNgNgNgNgUFUFNgNgNgUFUFNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgNgkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtaZaZaZaZaZaZaZbtbtbtbtbtbtbtbtbtbtYfYfYfYfYfWpteXoqyxrNgSmNxfOfOSmjFSISIjFSmSmSmNxfOPAfOUFfOPASmfOfOfOfOSmSmNxSmfOfOfOfOfOSmSmSmSmSmSmSmSmSmSmSmSmBhBhBhBhSmSmSmBhBhBhBhBhSmSmSmakkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtaZaZaZaZaZaZaZbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfUVMfXoqyxrNgSmlflflfBhBhlflfBhBhlflflfhjhjSmUFfObNbNvtbNbNbNbNvtbNAVvtvtbNbNbNbNvtbNbNSmSmSmakBhBhBhaklElElElElElElElElElElEBhBhBhakBhkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtaZaZaZaZaZaZaZbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfUVMfXoqyxrNgSmlfBhBhBhBhBhBhBhBhBhlllfhjtMSmUFSmbNVuqrVuqrbNulululqrePululbNMyjaVuMybNSmSmakakBhaklElElElElElElElElElElEBxBxBxlElElEakkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtaZaZaZaZaZaZaZbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfUVMfXoqyxrNgSmlfBhBhFvFvBhBhBhFvFvBhlfhjhjfOUFSmbNSsqrSseAbNqrqrqrqrqrqrqrbNqrqrqrqrbNBhSmakBhlElElElElElElElElElElEBxBxBxBxBxBxlElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtaZaZaZaZaZaZaZbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfUVMfXoqyxrNgSmFvFvFvFvBhAzAzAzBhFvFvFvBhlffOUFfOvtqrqrqrqrkOqrqrYoYoYoqrqrkOqrqrqrVwvtSmSmBhlElElElElElElElElElElEBxBxBxBxBxBxBxBxlElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtiyaZaZaZaZaZLObtbtbtbtbtbtbtbtbtbtbtbtbtYfYfUVMfXoqyxrNgSmBhFvFvBhBhbJIbCoakBhBhFvFvBhSmUFfObNbNbNqrqrbNqrqriEvnqrxCxCCPMBqrqrVwbNSmSmBhlElElElElElElElElElElEBxBxBxBxBxBxBxBxlElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtaZaZaZaZaZbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfUVMfXoqyxrNgSmakakBhBhakhjhjhjakBhBhBhBhBhSmUFSmbNVujkqrqrbNoeaQqrqrqrxCXjCPVuzXqrVubNSmSmakaklElElElElElElElElElEBxBxBxBxBxBxBxBxBxlEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtiyaZaZaZLObtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfUVMfXoqyxrNgSmBhakakakakakakakakakBhBhakakSmUFSmbNVujkqrqrbNbNbNvtAVvtCPCPCPbNbNAVbNbNBhSmBhakaklElEpWpWpWHIpWpWlEBxBxBxBxBxBxBxBxBxlEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtiyaZLObtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfUVMfXoqyxrNgSmFvFvBhakakBhBhakakBhBhFvFvakfOUFSmbNbNbNqreAbNSmSmNgNgNgSmSmbNRELmqrMybNBhSmSmBhBhaklEpWzknLzkzkpWlElEBxBxBxBxBxBxBxBxlEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfUVMfXoqyxrNgSmFvAzlUhjBhFvFvBhBhBhFvFvBhBhfOUFfObNuVuLqrqrvtSmNgsSBhpBNgSmvtbMqrqreAbNSmSmSmSmSmSmSmiTzkzkzkYrpWlElEBxBxBxBxBxBxBxBxlEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfUVMfXoqyxrNgSmBhAzlUhjBhFvakakakPyPyshPyPyfOUFfObNqrqrqrqrkOSmNgBhpBBhNgSmbNYoFtqrzGbNSmSmBhBhBhaklEpWzkzkzkzkpWlElElEBxBxBxBxBxBxBxlEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfUVMfXoqyxrNgSmBhAznyhjakBhakakBhPyAwAwPPPySmUFfObNLPuLqrqrvtSmNgBhBhBhuySmbNbNbNvtbNbNSmBhBhlElElElEpWzkYrzknLpWlElElEBxBxBxBxBxBxlElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfUVMfXoqyxrNgSmBhAznyhjakBhLAlflfPyAwbhgsPyfOUFSmbNbNbNqrqrbNSmnDNgNgNgSmSmbNBhakBhakBhBhBhlElElElElEpWHIpWpWpWpWlElElElEBxBxBxlElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfUVMfXoqyxrNgSmBhFvFvakBhakSmDRUIdTAwAwPPPyfOUFSmvtLPuLqrqrbNbNbNvtAVvtbNbNbNakakBhSmSmakBhBhlElElElElElElElElElElElElElElElElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfUVMfXoqyxrNgSmlfBhFvFvFvakSmWHdTdTAwwSgsPyfONgfObNqrqrqrqrbNwhhhdRdRdRnlDXhhakBhBhSmBhlEBhBhBhlElElElElElElElElElElElElElElElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfUVMfXoqyxrNgSmlfBhBhFvakakSmshAwAwvWAwPPPySmNgNgbNLPuLaQqrbNwtBGhndRDsBGNAewakBhSmBhaklElEBhakBhlElElElElElElElElElElElElElElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfUPtpXoqyxrNgSmlflflfBhBhakakPyPyPyPyshPyPySmNgNgbNbNbNbNbNbNBNqGdRdRdRfxmJqGBhSmBhBhlElElElEakakBhlElElElElElElElElElElElElElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtBJWLWLWLjiWLWLWLjiWLWLWLjiWLtqTsHVXoMaNgNgSmxcSmSmSmSmSmSmSmSmSmSmSmSmxcNgNgSmSmSmSmSmSmSmSmSmSmSmSmSmSmSmSmSmaklElElElElElEBhBhBhBhlElElElElEBhBhlElElElElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtmmfrfrfrZnfrfrfrZnfrfrfrZnfrfrnIHVXonaNgNgSmSmSmSmSmSmSmSmSmSmSmSmSmSmSmSmNgSmSmSmSmSmSmSmSmSmSmSmSmSmSmSmSmBhlElElElElElElElEakakBhBhlElEBhakNdBhakakBhBhBhBhlElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfYfWpteXoqyxrNgSmlflfvXlflflflfSmSmAzAzPNAzAzAzAzAzAzAzAzSmSmSmBhakakBhBhBhlElElElElElElElEakakakNdakBhakakBhBhakNdNdNdNdNdNdNdNdNdNdNdNdkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfUVMfXoqyxrNgSmlfkWkWlfHVkWlfSmSmAzFgHVFgGtFgAzHVHVHqAzSmSmBhakBhlElElElElEakakBhBhNdNdNdNdNdNdNdNdNdBhNdBhBhNdNdNdNdbnbnbnbnbnbnbnbnbnkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfUVMfXoqyxrNgSmvXHVHVlfHVHVlfSmSmPNHVHVHVHVHVnOHVHViUPNSmSmBhBhlElEakNdNdNdNdNdNdNdNdbnbnbnbnbnbnNdNdNdBhBhBhBhNdNdNdNdNdNdNdNdNdNdNdNdkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfUVJskpqyxrNgNxlfHVHVGtHVHVlfSmSmAzFgHVFgHVFgJyHqHVEGAzbpSmBhBhlEakNdNdbnbnbnbnbnbnbnbnNdNdNdNdNdNdNdNdNdBhBhNdNdNdNdakakakakakBhBhlElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfUVFLFLFLlfeLlflfHVQzlflflflfSmSmAzAzAzAzAzAzAzGlHVHVnOSmSmaklElENdNdbnbnNdNdNdNdNdNdNdNdakBhakakakBhakNdakBhlEBhNdBhlElElElElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfFvFvFLlfHVHViUHVHVlfPOYMlfSmSmAzFgHVFgHVFgAzEGHVHVAzSmSmBhlEakNdbnbnNdNdBhakakakakBhBhBhlElElEBhNdBhakaklElElEBhlElElElElElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfFvFvlfeTHViUtHHVnOHVHVvXSmSmPNHVHVHVHVHVnOHVHViUPNSmBhaklENdNdbnNdNdakBhlElElElElElElElElElElEBhBhlEakaklElElElElElElElElElElElElEkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfFvFvlfHVHVHVHVlflfPOCvlfSmSmAzFgHVFgaqFgAzHVHVEGAzSmBhlElENdbnbnNdBhBhlElElElElElElElElElElElElElEBhaklElElElElElElElElElElElElEBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfFvFvlfeLlfvXlflflflflflfSmSmAzAzPNAzAzAzAzAzAzAzAzSmaklEBhNdbnNdNdBhlElElElElElElEBxBxBxlElElElElEakBhlElElElElElElElElElElEBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtBJeueueujieueuWLjiWLMaWLPMsaPMPMPMPMmFSmSmSmSmSmSmSmSmSmSmSmSmSmSmSmSmlElEBhNdbnNdaklElElElElElElEBxBxBxBxBxlElElElEBhlElElElElElElElElElElEBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtmmfrfrfrZnfrfrfrZnfrnafrgglCggggggggHASmSmSmSmSmSmFvakakBhlElElElElElElEakNdNdbnNdaklElElElElElEBxBxBxIEBxBxlElElEakBhaklElElElElElElElElEBxBxBxJqBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfwGwEYfFvFvFvFvFvFvFvFvFvFvBhBhlElElElElElElElElElElElEakBhNdbnbnNdBhlElElElElEunBxBxBxBxBxBxlElElEBhaklElElElElElElElElEBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfwGwEYfYfFvFvFvFvFvFvFvFvFvBhakFvlElElElElElElElElEakakBhNdNdbnNdNdlElElElElEBxBxBxBxBxBxBxlElElElEBhlElElElElElElElElElEunBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfwGwEYfYfYfFvFvFvFvFvFvFvFvBhakaklElElElElElEakBhFvakBhNdNdbnbnNdaklElElElEBxBxBxBxBxBxBxBxlElElEBhaklElElElElElElElElEBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfwGwEYfYfYfFvFvFvFvFvFvFvFvFvBhakBhFvlEFvBhakakakBhBhNdNdbnbnNdNdlElElElEBxBxBxBxBxBxJqBxBxlElElEBhlElElElElElElElElEBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtNdNdNdaGNdNdYfYfwGwEYfYfYfYfFvFvFvFvFvFvFvFvBhBhakakakBhNdNdNdNdNdNdNdbnbnNdNdaklElElElEBxBxBxBxBxBxBxBxBxlElElEakaklElElElElElElElEBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtNdNdLhLhVMZUNdNdYfwGwEYfYfYfYfYfFvFvFvFvFvFvNdNdNdNdNdNdNdNdbnbnbnbnbnbnbnNdNdaklElElElEBxBxunBxBxBxBxBxBxlElElEakBhlElElElElElElElEBxBxIEBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtNdNdNdbtbtbtbtbtbtbtbtNdShVMVMVMnJmhNdNdIyphYfYfYfYfNdNdNdNdNdNdNdNdbnbnbnbnbnbnbnbnNdNdNdNdNdNdNdaklElElElElEBxBxBxBxBxBxBxBxBxlElElEakaklElElElElElElElEBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtNdNdNdqUNdNdbtbtbtbtbtbtbtaGnJVMVMVMnJVMWANdZJbnaGNdNdNdNdbnbnbnbnbnbnbnbnNdNdNdNdNdNdNdNdakFvFvBhakBhlElElElElEBxBxBxBxBxBxBxBxBxBxlElElEBhaklElElElElElElEBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtNdUxVMVMVMNdvxUEUEUEUEKkDTNdIWVMVMAkSDVMVMMAbnbnbnpebnbnbnbnNdNdNdNdNdNdNdNdBhakakFvBhBhlElElElElElElElElElElEIEBxBxBxBxBxBxBxBxBxlElElEakaklElElElElEHmlElEBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtNdIlVMVMVMTXwGaZaZaZaZaZaZTXVMVMVMVMnJVMquNdNdaGNdNdNdNdNdNdNdFvFvFvFvFvFvlElElEFvlElElElElElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxlElElEBhaklElElElElElElEBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtNdUxVMVMVMNdRpexcbaZcbfzexNdVMVMKrKrVMVMNdNdYfYfYfYfYfYfYfYfFvFvFvFvFvFvFvlEFvlElElElElElElElElElElEyalEBxBxBxBxBxBxBxBxBxBxBxBxBxlElElEBhlElElElElElElElEBxBxBxunBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtNdNdNdqUNdNdbtbtbttAbtbtbtNdNdtQlPVMVMNdNdYfYfYfYfYfYfYfYfYfYfFvFvFvFvFvFvFvlElElElElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxlElElEBhaklElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtNdNdNdbtbtbtbttAbtbtbtbtNdNdNdaGNdNdYfYfYfYfYfYfYfYfYfYfYfFvFvFvFvFvFvlElElElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxIEBxlElElEBhBhlElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbttAccbtbtbtbtbtYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfFvFvFvFvFvFvFvlElElElElEKUlElEBxBxBxBxBxBxBxBxBxBxunBxBxBxBxBxBxBxlElElElEBhlElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtNdaGMmNdaGNdNdbtYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfYfFvFvFvFvFvFvFvlElElElElElElEBxBxBxBxBxunBxBxBxBxBxBxBxBxBxBxBxBxBxlElElEakaklElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtNdVMVMwRVMquNdYfYfYfYfYfYfbtYfYfYfYfYfYfYfYfYfYfFfFvFvFvFvFvlElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxlElElEBhakaklElElElEyalEBxBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtaGnJVMwRVMquaGYfYfYfYfbtbtbtbtYfYfYfYfYfYfYfYfYfFfFvFvFvFvFvlElEFvlElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxlElElEBhaklElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtNdzytTgiVMquNdYfbtbtbtbtbtbtbtbtbtbtYfYfYfYfYfYfFfFvFvFvFvFvFvlElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxlElElEakakBhlElElElElElEBxBxunBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtNdNdNdaGNdNdNdbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfYfYfFvFvFvFvFvlElEFvlElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxunBxBxlElElEakBhlElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfYfFvFvFvFvFvlEFvlElElElElEBxBxBxunBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxlElElElEakBhlElElElElElElEBxBxBxBxBxBxBxBxunBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfFvFvFvFvFvFvlElElElElElElEBxBxBxBxBxBxBxBxBxBxIEBxBxBxBxBxBxBxlElElEakBhlElElElElEHmlEBxBxBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfFvFvFvFvFvlElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxlElElEBhBhlElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfFvFvFvFvFvlEFvlElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxlElEakaklElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfFvFvFvFvFvlElElElElElEHmlElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxlElElEakBhlElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfFvFvFvFvFvFvFvlElElElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxlElElEakaklElElElElElElElEBxBxBxBxJqBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfFvFvFvFvFvFvlElEFvlElElElElElElElElEBxBxBxIEBxBxBxBxBxBxBxBxJqBxBxlElElEakBhlElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfFvFvFvFvFvlElElElElElElElElElElElEBxBxBxBxBxBxBxBxunBxBxBxBxBxBxBxlElElEakBhlElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfFvFvFvFvFvFvFvlElElElElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxlElEBhBhaklElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfFvFvFvFvFvlElElElElElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxlElElElEBhlElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfFvFvFvFvFvFvlEFvlElElEyalElElElElEunBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxlElElEakaklElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfFvFvFvFvFvlEFvFvlElElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxlElElEaklElElElElElElElElEBxBxBxBxBxBxBxBxIEBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfFvFvFvFvFvlElElElElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxIEBxlElElElEakBhlElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfFvFvFvFvFvlEFvlElElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxlElElElEBhBhlElElElElElElElEBxBxunBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfFvFvFvFvFvlElElElElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxlElElEakakBhlElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfFvFvFvFvFvlElElElElElElElElElElEBxIEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxlElElElEakaklElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfFvFvFvFvFvFvlElEFvlElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxunBxBxlElElElEakaklElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtYvbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfFvFvFvFvFvlElElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxlElElElElEBhlElElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtaabtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfFvFvFvFvFvlEFvlElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxlElElElElEBhBhlElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtbtYfYfYfYfFvFvFvFvFvlElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxlElElElElElEakBhlElElElElElElElEBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxBxkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkz
+mZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkzkz
+"}
