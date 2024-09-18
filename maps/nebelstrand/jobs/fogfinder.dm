@@ -36,7 +36,7 @@
 /datum/job/nebelstrand/fogfinders/fogfinder
 	title                   = "Fogfinder"
 	supervisors             = "the mistseer"
-	description             = "You are part of the Fogfinder guild, though your exact expectations are nebulous, the mistseer might have something for you. Fogfinders are often responsible for guilding ships in the fog but also double as a makeshift mercenary guild"
+	description             = "You are part of the Fogfinder guild, though your exact expectations are nebulous, the mistseer might have something for you. Fogfinders are often responsible for guilding ships in the fog but also double as a makeshift mercenary guild."
 	spawn_positions         = 2
 	total_positions         = 2
 	outfit_type             = /decl/outfit/job/nebelstrand/traveller

@@ -55,14 +55,14 @@
 	#include "nebelstrand_testing.dm"
 	#include "nebelstrand_turfs.dm"
 
-	// Caverns are below greyhabor and must be compiled in that order for multiz.
-	#include "nebelstrand-caverns.dmm"
-	#include "nebelstrand-woods.dmm"
-	// Dungeon is under mainstreet and must be compiled in that order for multiz.
+	// Dungeon is below woods and must be compiled in that order for multiz.
 	#include "nebelstrand-dungeon.dmm"
+	#include "nebelstrand-woods.dmm"
+	// Caverns is under mainstreet and must be compiled in that order for multiz.
+	#include "nebelstrand-caverns.dmm"
 	#include "nebelstrand-mainstreet.dmm"
 	// Greyharbor is under above and must be compiled in that order for multiz.
-	#include "nebelstrand-greyhabor.dmm"
+	#include "nebelstrand-greyharbor.dmm"
 	#include "nebelstrand-above.dmm"
 	// Other levels are lateral and compile order doesn't matter.
 	#include "nebelstrand-swamp.dmm"

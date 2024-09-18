@@ -1,5 +1,5 @@
 /obj/abstract/map_data/nebelstrand
-	height = 3
+	height = 2
 
 /datum/level_data/player_level/nebelstrand
 	use_global_exterior_ambience = FALSE
@@ -188,12 +188,13 @@
 	name = "Nebelstrand - Caverns"
 	level_id = "nebelstrand_caverns"
 	connected_levels = list(
-		"nebelstrand_dungeon" = WEST
+		"nebelstrand_dungeon" = EAST
 	)
 	submap_budget = 5
 	submap_category = MAP_TEMPLATE_CATEGORY_SH_CAVERNS
 	submap_area = /area/nebelstrand/caves/deep/poi
 	level_generators = list(
+
 		/datum/random_map/automata/cave_system/nebelstrand,
 		/datum/random_map/noise/ore/rich
 	)
@@ -203,7 +204,7 @@
 	name = "Nebelstrand - Dungeon"
 	level_id = "nebelstrand_dungeon"
 	connected_levels = list(
-		"nebelstrand_caverns" = EAST
+		"nebelstrand_caverns" = WEST
 	)
 	submap_budget = 5
 	submap_category = MAP_TEMPLATE_CATEGORY_SH_DUNGEON

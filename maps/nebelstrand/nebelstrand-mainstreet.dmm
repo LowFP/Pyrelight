@@ -1,400 +1,271 @@
 "ay" = (/obj/structure/railing/mapped/wooden/ebony,/turf/floor/natural/grass,/area/nebelstrand/outside/downlands)
-"az" = (/obj/structure/closet/crate/chest,/obj/item/food/butchery/meat,/obj/item/food/butchery/meat,/obj/item/food/butchery/meat,/obj/item/food/butchery/meat/chicken,/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands/poi)
+"az" = (/obj/structure/closet/crate/chest,/obj/item/food/butchery/meat,/obj/item/food/butchery/meat,/obj/item/food/butchery/meat,/obj/item/food/butchery/meat/chicken,/turf/floor/natural/path/granite,/area/nebelstrand/inn)
 "aD" = (/obj/structure/railing/mapped/wooden/ebony{dir = 8},/obj/structure/railing/mapped/wooden/ebony,/turf/floor/natural/grass,/area/nebelstrand/outside/downlands)
-"aP" = (/obj/structure/flora/tree/dead/ebony,/turf/floor/natural/dirt,/area/nebelstrand/outside/shrine)
+"aP" = (/obj/structure/bed/chair/wood/ebony{dir = 1},/turf/floor/wood/maple,/area/nebelstrand/inn)
 "aU" = (/obj/structure/railing/mapped/wooden/walnut{dir = 4},/obj/structure/railing/mapped/wooden/walnut,/turf/floor/natural/grass,/area/nebelstrand/outside/downlands/poi)
-"bb" = (/obj/structure/fountain/mundane,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/outside/downlands)
-"bv" = (/obj/structure/door/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"bz" = (/turf/floor/natural/dirt,/area/nebelstrand/general_store)
-"bW" = (/obj/structure/table/woodentable/ebony,/obj/item/chems/cooking_vessel/skillet/iron,/obj/item/chems/glass/handmade/bowl/wood,/obj/item/chems/glass/handmade/bowl/wood,/obj/item/chems/glass/handmade/bowl/wood,/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/cup/wood,/turf/floor/wood/walnut,/area/nebelstrand/shrine)
-"cc" = (/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/outside/downlands/poi)
-"cl" = (/turf/floor/straw,/area/nebelstrand/outside/shrine)
-"cq" = (/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10},/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands)
+"bW" = (/obj/structure/reagent_dispensers/barrel/ebony/wine,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"cc" = (/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"cq" = (/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10},/turf/floor/natural/path/granite,/area/nebelstrand/inn)
 "cx" = (/turf/wall/brick/basalt,/area/nebelstrand/outside/downlands)
-"cy" = (/obj/structure/reagent_dispensers/barrel/ebony/water,/turf/floor/wood/walnut,/area/nebelstrand/shrine)
-"cG" = (/obj/structure/bed/chair/bench/ebony{dir = 1},/obj/abstract/landmark/start/nebelstrand/farmer,/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands)
 "cL" = (/obj/structure/railing/mapped/wooden/walnut{dir = 8},/turf/floor/natural/path/basalt,/area/nebelstrand/outside/shrine)
-"cT" = (/obj/structure/railing/mapped/wooden/walnut{dir = 1},/obj/structure/railing/mapped/wooden/walnut{dir = 4},/turf/floor/natural/grass,/area/nebelstrand/outside/shrine)
-"cV" = (/obj/structure/bookcase{icon = 'maps/nebelstrand/icons/bookcase.dmi'},/turf/floor/wood/maple,/area/nebelstrand/outside/downlands/poi)
-"cW" = (/turf/wall/log/ebony/shutter,/area/nebelstrand/storehouse)
-"dr" = (/turf/wall/log/ebony,/area/nebelstrand/outside/shrine)
-"dx" = (/obj/structure/fire_source/kiln/oven,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/shrine)
-"dC" = (/obj/structure/table/marble,/obj/item/chems/glass/handmade/bowl/wood,/obj/item/chems/glass/handmade/bowl/wood,/obj/item/chems/glass/handmade/bowl/wood,/obj/item/chems/glass/handmade/bowl/wood,/obj/item/chems/glass/handmade/bowl/wood,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
-"dH" = (/turf/floor/natural/path/granite,/area/nebelstrand/general_store)
-"dK" = (/obj/structure/bed/chair/wood/ebony{dir = 1},/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
-"dL" = (/obj/structure/flora/tree/dead/mahogany,/turf/floor/natural/grass,/area/nebelstrand/outside/downlands)
-"dN" = (/obj/structure/closet/crate/chest,/obj/item/cash/imperial/regalis,/obj/item/cash/imperial/regalis,/obj/item/cash/imperial/regalis,/obj/item/cash/imperial/regalis,/obj/item/cash/imperial/regalis,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands)
-"dO" = (/obj/effect/floor_decal/floordetail{icon = 'icons/obj/stairs.dmi'; icon_state = null; color = "#d2bc9d"; dir = 8},/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10},/turf/floor/wood/maple,/area/nebelstrand/inn)
-"dW" = (/obj/structure/wall_sconce/lantern{dir = 4},/obj/structure/table/woodentable/ebony,/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands)
-"ev" = (/obj/structure/closet/crate/chest/ebony,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/shrine)
-"eC" = (/obj/structure/table/woodentable/ebony,/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands)
-"eD" = (/turf/floor/natural/path/granite,/area/nebelstrand/storehouse)
-"eG" = (/obj/structure/bed/chair/bench/ebony{dir = 1},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/general_store)
-"eT" = (/obj/structure/rack/ebony,/obj/item/stack/material/ingot/mapped/copper/twenty,/obj/item/stack/material/ingot/mapped/bronze/twenty,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/outside/downlands/poi)
-"fe" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/book/printable_black,/turf/floor/carpet/red,/area/nebelstrand/outside/downlands)
-"fg" = (/obj/structure/railing/mapped/wooden/walnut,/obj/structure/railing/mapped/wooden/walnut{dir = 4},/obj/structure/reagent_dispensers/compost_bin,/turf/floor/natural/dirt,/area/nebelstrand/outside/shrine)
-"fh" = (/obj/structure/table/woodentable/ebony,/obj/item/chems/glass/handmade/bottle/tall/wine,/obj/item/chems/glass/handmade/bottle/tall/wine,/obj/item/chems/glass/handmade/bottle/tall/wine,/obj/abstract/landmark/organize/horizontal,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
+"cT" = (/obj/structure/table/woodentable/ebony,/turf/floor/natural/path/basalt,/area/nebelstrand/outside/downlands)
+"cV" = (/obj/structure/bookcase{icon = 'maps/nebelstrand/icons/bookcase.dmi'},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"cW" = (/obj/structure/bed/chair/wood/ebony{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"dx" = (/obj/structure/bed/chair/bench/ebony{dir = 8},/obj/structure/wall_sconce/lantern{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"dC" = (/obj/abstract/exterior_marker/inside,/turf/floor/natural/dirt,/area/nebelstrand/outside/downlands/poi)
+"dH" = (/obj/structure/table/woodentable/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"dL" = (/obj/structure/closet/crate/chest,/obj/item/pen/fancy/quill,/obj/item/paper,/obj/item/paper,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"dN" = (/obj/structure/closet/crate/chest,/obj/item/cash/imperial/regalis,/obj/item/cash/imperial/regalis,/obj/item/cash/imperial/regalis,/obj/item/cash/imperial/regalis,/obj/item/cash/imperial/regalis,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/turf/floor/natural/path/granite,/area/nebelstrand/inn)
+"dO" = (/obj/structure/closet/crate/chest/ebony,/obj/item/stack/material/ingot/mapped/silver/five,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"dW" = (/obj/structure/table/woodentable_reinforced/ebony,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
+"ev" = (/obj/structure/door/ebony,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"eT" = (/obj/structure/table/marble,/obj/item/chems/glass/bottle,/obj/item/chems/glass/bottle,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"fe" = (/obj/structure/reagent_dispensers/barrel/ebony/beer,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
+"fg" = (/obj/structure/wall_sconce/lantern{start_lit = 1},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"fh" = (/obj/structure/filter_stand/mapped,/obj/structure/table/marble,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
 "ft" = (/turf/floor/natural/mud,/area/nebelstrand/outside/shrine)
-"fw" = (/obj/structure/bed/simple/ebony/cloth,/obj/item/bedsheet/yellowed,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
 "fD" = (/obj/abstract/exterior_marker/inside,/turf/floor/natural/mud,/area/nebelstrand/outside/downlands)
-"fK" = (/obj/structure/wall_sconce/lantern{dir = 4},/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
+"fK" = (/obj/structure/table/woodentable/ebony,/obj/item/chems/glass/mortar,/obj/item/rock/basalt,/turf/floor/wood/walnut,/area/nebelstrand/inn)
 "fO" = (/obj/structure/railing/mapped/wooden/walnut{dir = 4},/obj/structure/railing/mapped/wooden/walnut{dir = 1},/turf/floor/natural/grass,/area/nebelstrand/outside/downlands/poi)
-"fR" = (/turf/floor/carpet/red,/area/nebelstrand/storehouse)
-"fS" = (/obj/structure/fire_source/fireplace,/obj/item/stack/material/log/mapped/walnut/twenty,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/outside/downlands/poi)
+"fR" = (/obj/item/flame/candle/handmade,/obj/item/flame/candle/handmade,/obj/item/flame/candle/handmade,/obj/item/flame/candle/handmade,/obj/item/flame/candle/handmade,/obj/item/flame/candle/handmade,/obj/item/flame/candle/handmade,/obj/item/flame/candle/handmade,/obj/structure/rack/ebony,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"fS" = (/obj/structure/railing/mapped/wooden/walnut{dir = 8},/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands/poi)
 "fW" = (/obj/structure/railing/mapped/wooden/walnut{dir = 8},/obj/structure/railing/mapped/wooden/walnut,/turf/floor/natural/grass,/area/nebelstrand/outside/downlands/poi)
-"fY" = (/obj/structure/reagent_dispensers/barrel/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"gc" = (/obj/structure/table/marble,/obj/item/knife/kitchen/cleaver/bronze,/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
-"gg" = (/obj/structure/wall_sconce/lantern,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"gp" = (/obj/structure/railing/mapped/wooden/walnut{dir = 1},/turf/floor/natural/grass,/area/nebelstrand/outside/downlands)
-"gq" = (/obj/structure/table/woodentable/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"gt" = (/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/wood/walnut,/area/nebelstrand/shrine)
-"gA" = (/obj/structure/railing/mapped/wooden/walnut{dir = 8},/turf/floor/natural/grass,/area/nebelstrand/outside/shrine)
-"gB" = (/turf/floor/natural/grass,/area/nebelstrand/farmhouse)
-"gD" = (/turf/wall/log/ebony/shutter,/area/nebelstrand/outside/shrine)
-"gL" = (/obj/structure/reagent_dispensers/barrel/ebony/oil,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/shrine)
-"gO" = (/obj/structure/railing/mapped/wooden/ebony{dir = 4},/obj/structure/railing/mapped/wooden/ebony{dir = 1},/turf/floor/natural/grass,/area/nebelstrand/outside/downlands)
-"gR" = (/obj/structure/door/ebony,/turf/floor/wood/maple,/area/nebelstrand/inn)
-"hb" = (/obj/structure/closet/cabinet/wooden/ebony,/turf/floor/wood/maple,/area/nebelstrand/inn)
-"hc" = (/turf/floor/natural/path/basalt,/area/nebelstrand/farmhouse/porch)
+"gc" = (/obj/abstract/exterior_marker/inside,/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands)
+"gt" = (/turf/floor/natural/path/basalt,/area/nebelstrand/outside/shrine)
+"gA" = (/obj/structure/closet/crate/chest/ebony,/obj/item/stack/material/plank/mapped/ebony/ten,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"gL" = (/obj/structure/table/woodentable/ebony,/obj/structure/wall_sconce/lantern,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"gO" = (/obj/structure/railing/mapped/wooden/walnut{dir = 4},/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands/poi)
+"gR" = (/obj/structure/flora/tree/dead/mahogany,/turf/floor/natural/grass,/area/nebelstrand/outside/downlands)
 "hu" = (/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
-"hw" = (/obj/structure/closet/cabinet/wooden/ebony,/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands/poi)
+"hw" = (/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/cup/wood,/obj/structure/rack/ebony,/turf/floor/wood/maple,/area/nebelstrand/inn)
 "hE" = (/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"hJ" = (/obj/structure/working/loom/ebony,/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands)
-"hT" = (/obj/structure/wall_sconce/lantern,/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands)
-"hU" = (/turf/wall/log/ebony/shutter,/area/nebelstrand/outside/downlands)
-"hZ" = (/obj/structure/table/woodentable_reinforced/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"id" = (/obj/structure/closet/crate/chest,/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands)
+"hJ" = (/obj/structure/bed/simple/ebony/cloth,/obj/item/bedsheet/yellowed,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"hT" = (/obj/structure/produce_bin/walnut,/turf/floor/natural/dirt,/area/nebelstrand/outside/downlands)
+"id" = (/obj/structure/closet/crate/chest,/turf/floor/natural/path/granite,/area/nebelstrand/inn)
 "if" = (/obj/structure/fire_source/kiln/high_temperature,/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands)
-"ij" = (/obj/structure/door/ebony,/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands/poi)
-"in" = (/obj/structure/rack/ebony,/obj/item/stack/material/ingot/mapped/iron/twentyfive,/obj/item/stack/material/ingot/mapped/tin/ten,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/outside/downlands/poi)
-"ir" = (/obj/structure/bed/chair/bench/ebony{dir = 1},/turf/floor/wood/maple,/area/nebelstrand/inn)
-"iA" = (/obj/structure/bed/simple/ebony/cloth,/obj/item/bedsheet/yellowed,/turf/floor/wood/maple,/area/nebelstrand/inn)
-"iC" = (/obj/structure/rack/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"iH" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/pen/fancy/quill,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands/poi)
-"iK" = (/turf/wall/brick/basalt,/area/nebelstrand/outside/shrine)
+"ij" = (/obj/structure/door/ebony,/turf/floor/natural/path/granite,/area/nebelstrand/inn)
+"in" = (/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"iA" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/pen/fancy/quill,/obj/structure/wall_sconce/lantern{dir = 4; start_lit = 1},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"iC" = (/obj/structure/rack/ebony,/turf/floor/wood/maple,/area/nebelstrand/inn)
 "iX" = (/turf/wall/brick/granite,/area/nebelstrand/inn)
-"iZ" = (/turf/floor/natural/dirt,/area/nebelstrand/inn)
-"jf" = (/turf/wall/brick/granite,/area/nebelstrand/stable)
-"jk" = (/obj/structure/bed/chair/bench/pew/mahogany{dir = 1},/obj/abstract/landmark/start/nebelstrand/cleric,/turf/floor/wood/walnut,/area/nebelstrand/shrine)
-"js" = (/obj/structure/table/marble,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
-"ju" = (/obj/structure/bed/chair/wood/ebony{dir = 4},/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
-"jx" = (/obj/structure/table/woodentable_reinforced/ebony,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
-"jy" = (/obj/structure/bed/chair/bench/ebony{dir = 1},/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands)
-"jz" = (/obj/structure/reagent_dispensers/barrel/ebony/oil,/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands)
-"jA" = (/turf/floor/natural/dirt,/area/nebelstrand/stable)
+"jf" = (/obj/structure/railing/mapped/wooden/ebony{dir = 1},/turf/floor/natural/grass,/area/nebelstrand/outside/downlands)
+"jk" = (/obj/structure/reagent_dispensers/barrel/ebony,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"js" = (/turf/floor/carpet/red,/area/nebelstrand/inn)
+"ju" = (/turf/wall/log/walnut,/area/nebelstrand/inn)
+"jz" = (/obj/structure/reagent_dispensers/barrel/ebony/oil,/turf/floor/natural/path/granite,/area/nebelstrand/inn)
 "jI" = (/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10},/turf/floor/natural/dirt,/area/nebelstrand/outside/shrine)
-"kc" = (/obj/structure/bed/chair/wood/ebony{dir = 1},/obj/abstract/landmark/start/nebelstrand/farmer,/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands)
-"ke" = (/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10},/obj/item/chems/glass/bucket/wood,/turf/floor/natural/dirt,/area/nebelstrand/outside/downlands)
+"kc" = (/obj/structure/bed/chair/wood/ebony{dir = 1},/obj/abstract/landmark/start/nebelstrand/farmer,/turf/floor/wood/walnut,/area/nebelstrand/inn)
 "kv" = (/turf/floor/natural/dirt,/area/nebelstrand/outside/shrine)
-"kE" = (/turf/floor/wood/maple,/area/nebelstrand/outside/shrine)
-"lb" = (/obj/structure/door/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside/shrine)
+"lb" = (/obj/structure/bed/chair/bench/ebony{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/inn)
 "lz" = (/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10},/turf/floor/natural/dirt,/area/nebelstrand/outside/downlands/poi)
 "lC" = (/turf/unsimulated/dark_filler,/area/nebelstrand/outside/downlands)
-"lD" = (/obj/structure/closet/cabinet/wooden/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
 "lE" = (/obj/abstract/level_data_spawner/nebelstrand_mainstreet,/turf/unsimulated/mask,/area/nebelstrand/outside/downlands)
-"lF" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10},/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
 "lL" = (/turf/wall/brick/granite,/area/nebelstrand/outside/downlands/poi)
-"me" = (/turf/wall/brick/granite/shutter,/area/nebelstrand/outside/downlands/poi)
 "mi" = (/obj/structure/table/woodentable/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/outside/downlands)
-"mn" = (/obj/structure/bed/chair/bench/ebony{dir = 8},/turf/floor/carpet/purple,/area/nebelstrand/outside/downlands/poi)
-"mr" = (/obj/structure/produce_bin/walnut,/turf/floor/natural/dirt,/area/nebelstrand/outside/downlands/poi)
-"mG" = (/turf/floor/natural/path/granite,/area/nebelstrand/farmhouse/porch)
-"mL" = (/obj/structure/bed/chair/bench/ebony{dir = 8},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/outside/downlands)
-"nk" = (/obj/structure/wall_sconce/lantern,/obj/structure/working/spinning_wheel/twisting_bench/ebony,/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands/poi)
-"nn" = (/turf/floor/natural/mud,/area/nebelstrand/stable)
-"nz" = (/obj/structure/wall_sconce/lantern{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"nN" = (/turf/wall/log/ebony/shutter,/area/nebelstrand/outside/downlands/poi)
-"oa" = (/obj/structure/rack/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/outside/downlands/poi)
-"oj" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/cash/imperial/regalis,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands/poi)
-"ol" = (/obj/structure/railing/mapped/wooden/walnut,/turf/floor/natural/mud,/area/nebelstrand/outside/shrine)
-"or" = (/obj/structure/closet/cabinet/wooden/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands/poi)
-"oO" = (/obj/structure/railing/mapped/wooden/walnut{dir = 8},/obj/structure/railing/mapped/wooden/walnut{dir = 1},/turf/floor/natural/grass,/area/nebelstrand/outside/downlands)
-"pd" = (/obj/structure/bed/chair/bench/pew/mahogany{dir = 1},/turf/floor/wood/walnut,/area/nebelstrand/shrine)
-"pi" = (/turf/floor/natural/path/basalt,/area/nebelstrand/storehouse)
-"pp" = (/obj/structure/table/woodentable/ebony,/obj/item/chems/glass/mortar,/obj/item/rock/basalt,/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands)
-"pt" = (/obj/structure/bed/simple/ebony,/obj/item/bedsheet/furs,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands/poi)
-"pU" = (/obj/item/cash/imperial/regalis,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/structure/closet/crate/chest/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"qe" = (/obj/structure/bed/simple/ebony,/obj/abstract/landmark/start/nebelstrand/shrine_attendant,/obj/item/bedsheet/furs,/turf/floor/wood/walnut,/area/nebelstrand/shrine)
-"qf" = (/turf/floor/natural/path/basalt,/area/nebelstrand/inn/porch)
-"qG" = (/obj/structure/door/ebony{dir = 4},/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
-"qL" = (/obj/structure/table/woodentable/ebony,/obj/item/ancient_surgery/bonesetter,/obj/item/ancient_surgery/retractor,/obj/item/ancient_surgery/sutures,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/shrine)
-"qO" = (/obj/structure/closet/crate/chest/ebony,/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands/poi)
-"qP" = (/turf/floor/natural/path/basalt,/area/nebelstrand/farmhouse)
-"qR" = (/obj/structure/door/walnut,/obj/abstract/landmark/lock_preset/nebelstrand/farmhouse,/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands)
+"mn" = (/obj/structure/bed/chair/bench/ebony{dir = 8},/turf/floor/carpet/purple,/area/nebelstrand/inn)
+"mG" = (/obj/structure/bed/chair/bench/ebony{dir = 1},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/outside/downlands)
+"mL" = (/obj/abstract/landmark/start/nebelstrand/traveller/learned,/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands/poi)
+"nk" = (/obj/structure/wall_sconce/lantern,/obj/structure/working/spinning_wheel/twisting_bench/ebony,/turf/floor/natural/path/granite,/area/nebelstrand/inn)
+"nz" = (/obj/structure/wall_sconce/lantern{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"oa" = (/obj/structure/rack/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"oj" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/cash/imperial/regalis,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"ol" = (/obj/structure/table/woodentable/ebony,/obj/item/chems/glass/handmade/bottle/tall/wine,/obj/item/chems/glass/handmade/bottle/tall/wine,/obj/item/chems/glass/handmade/bottle/tall/wine,/obj/abstract/landmark/organize/horizontal,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
+"pd" = (/obj/structure/bed/chair/bench/ebony{dir = 1},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"pp" = (/obj/structure/table/marble,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
+"pU" = (/obj/item/cash/imperial/regalis,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/structure/closet/crate/chest/ebony,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"qe" = (/obj/structure/working/spinning_wheel/ebony,/turf/floor/wood/walnut,/area/nebelstrand/inn)
+"qG" = (/obj/structure/door/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"qL" = (/obj/structure/table/marble,/obj/item/chems/filter,/obj/item/chems/filter,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"qP" = (/obj/structure/closet/coffin/wooden,/obj/structure/railing/mapped/wooden/ebony{dir = 1},/turf/floor/natural/grass,/area/nebelstrand/outside/downlands)
+"qR" = (/obj/structure/door/walnut,/obj/abstract/landmark/lock_preset/nebelstrand/farmhouse,/turf/floor/wood/walnut,/area/nebelstrand/inn)
 "qY" = (/turf/wall/brick/basalt,/area/nebelstrand/outside/downlands/poi)
-"ra" = (/obj/structure/table/woodentable/ebony,/obj/item/flame/candle/handmade,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands/poi)
-"rv" = (/obj/structure/railing/mapped/wooden/walnut{dir = 8},/turf/floor/straw,/area/nebelstrand/outside/downlands/poi)
-"ry" = (/turf/floor/natural/grass,/area/nebelstrand/inn/porch)
-"rH" = (/obj/structure/fire_source/fireplace/basalt,/obj/item/stack/material/log/mapped/walnut/twenty,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/outside/downlands/poi)
-"rO" = (/turf/floor/carpet/red,/area/nebelstrand/outside/downlands)
-"rS" = (/obj/structure/wall_sconce/lantern{start_lit = 1},/turf/floor/wood/walnut,/area/nebelstrand/shrine)
+"ra" = (/obj/structure/table/woodentable/ebony,/obj/item/flame/candle/handmade,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"rv" = (/obj/structure/railing/mapped/wooden/walnut{dir = 8},/turf/floor/straw,/area/nebelstrand/inn)
+"rH" = (/obj/structure/fire_source/fireplace/basalt,/obj/item/stack/material/log/mapped/walnut/twenty,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"rS" = (/obj/structure/table/woodentable/ebony,/obj/item/chems/glass/handmade/bottle,/obj/item/chems/glass/handmade/bottle/tall,/obj/item/chems/glass/handmade/bottle/wide,/obj/abstract/landmark/organize/horizontal,/obj/item/chems/glass/handmade/bottle/wide/whiskey,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
 "sJ" = (/turf/wall/brick/granite/shutter,/area/nebelstrand/inn)
-"sM" = (/obj/structure/bed/chair/wood/ebony{dir = 1},/turf/floor/natural/path/granite,/area/nebelstrand/general_store)
+"sM" = (/turf/floor/wood/walnut,/area/nebelstrand/inn)
 "sR" = (/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/natural/mud,/area/nebelstrand/outside/downlands)
 "th" = (/turf/floor/natural/path/granite,/area/nebelstrand/inn)
 "tq" = (/obj/structure/railing/mapped/wooden/walnut{dir = 4},/turf/floor/natural/grass,/area/nebelstrand/outside/downlands/poi)
-"tr" = (/obj/structure/bed/chair/wood/ebony{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/outside/downlands/poi)
 "ts" = (/obj/structure/railing/mapped/wooden/ebony{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
 "tu" = (/obj/effect/floor_decal/floordetail{icon = 'icons/obj/stairs.dmi'; icon_state = null; color = "#d2bc9d"; dir = 8},/obj/structure/wall_sconce/lantern,/turf/floor/wood/maple,/area/nebelstrand/inn)
 "tF" = (/obj/structure/railing/mapped/wooden/walnut{dir = 1},/turf/floor/natural/grass,/area/nebelstrand/outside/downlands/poi)
-"tJ" = (/obj/structure/wall_sconce/lantern{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/outside/downlands/poi)
-"tS" = (/obj/structure/bed/chair/bench/ebony{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"tY" = (/obj/structure/wall_sconce/lantern{dir = 4; start_lit = 1},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/outside/downlands/poi)
-"uu" = (/turf/floor/natural/mud,/area/nebelstrand/farmhouse)
-"uA" = (/obj/structure/reagent_dispensers/barrel/ebony/oil,/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands/poi)
-"uE" = (/turf/wall/brick/granite/shutter,/area/nebelstrand/outside/downlands)
-"uJ" = (/obj/structure/bed/chair/wood/ebony{dir = 4},/turf/floor/natural/path/basalt,/area/nebelstrand/general_store)
-"uK" = (/obj/structure/table/marble,/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/shrine)
-"uM" = (/turf/floor/natural/path/basalt,/area/nebelstrand/general_store)
-"uP" = (/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10},/turf/floor/wood/walnut,/area/nebelstrand/shrine)
-"uX" = (/obj/abstract/landmark/lock_preset/nebelstrand/trader_stockroom,/obj/structure/door/ebony,/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands)
-"vc" = (/obj/structure/table/woodentable/ebony,/turf/floor/natural/path/basalt,/area/nebelstrand/general_store)
-"vf" = (/obj/structure/wall_sconce/lantern{start_lit = 1},/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands)
-"vu" = (/obj/structure/working/spinning_wheel/ebony,/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands)
-"vz" = (/obj/structure/table/woodentable/ebony,/obj/item/chems/cooking_vessel/baking_dish/earthenware,/obj/item/chems/cooking_vessel/baking_dish/earthenware,/turf/floor/wood/walnut,/area/nebelstrand/shrine)
+"tS" = (/obj/structure/bed/chair/bench/ebony{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"tY" = (/obj/structure/wall_sconce/lantern{dir = 4; start_lit = 1},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"uA" = (/obj/structure/reagent_dispensers/barrel/ebony/oil,/turf/floor/wood/walnut,/area/nebelstrand/inn)
+"uJ" = (/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10},/obj/item/chems/glass/bucket/wood,/turf/floor/natural/dirt,/area/nebelstrand/outside/downlands)
+"uK" = (/obj/structure/bed/chair/wood/ebony{dir = 1},/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
+"uX" = (/obj/abstract/landmark/lock_preset/nebelstrand/trader_stockroom,/obj/structure/door/ebony,/turf/floor/natural/path/granite,/area/nebelstrand/inn)
+"vf" = (/obj/structure/wall_sconce/lantern{start_lit = 1},/turf/floor/wood/walnut,/area/nebelstrand/inn)
+"vu" = (/obj/structure/pit/closed/grave,/turf/floor/natural/mud,/area/nebelstrand/outside/downlands)
+"vz" = (/obj/structure/drying_rack/ebony,/turf/floor/natural/mud,/area/nebelstrand/outside/downlands)
 "vA" = (/obj/structure/wall_sconce/lantern,/turf/floor/wood/maple,/area/nebelstrand/inn)
-"vW" = (/obj/structure/railing/mapped/wooden/walnut{dir = 8},/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands)
-"wf" = (/obj/abstract/landmark/lock_preset/nebelstrand/trader,/obj/structure/door/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands/poi)
-"wg" = (/obj/structure/table/woodentable/ebony,/obj/item/ancient_surgery/bonesaw,/obj/item/ancient_surgery/forceps,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/shrine)
-"wh" = (/obj/structure/meat_hook,/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands/poi)
-"wx" = (/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/cup/wood,/obj/structure/rack/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
+"vW" = (/turf/floor/natural/mud/water,/area/nebelstrand/outside/downlands)
+"wf" = (/obj/structure/fire_source/fireplace/basalt,/obj/item/stack/material/log/mapped/walnut/twenty,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
+"wh" = (/obj/structure/meat_hook,/turf/floor/natural/path/granite,/area/nebelstrand/inn)
+"wx" = (/obj/structure/meat_hook,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
 "wA" = (/obj/abstract/exterior_marker/inside,/turf/floor/natural/dirt,/area/nebelstrand/outside/downlands)
-"wN" = (/obj/structure/bed/simple/ebony,/obj/item/bedsheet/furs,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"xa" = (/obj/structure/bed/chair/wood/ebony{dir = 8},/turf/floor/carpet/red,/area/nebelstrand/outside/downlands)
-"xh" = (/obj/structure/table/woodentable/ebony,/obj/item/chems/condiment/large/salt,/obj/item/chems/condiment/flour,/obj/item/chems/condiment/sugar,/turf/floor/wood/walnut,/area/nebelstrand/shrine)
+"wN" = (/obj/structure/bed/simple/ebony,/obj/item/bedsheet/furs,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"xa" = (/obj/structure/bed/chair/wood/ebony{dir = 8},/turf/floor/carpet/red,/area/nebelstrand/inn)
+"xh" = (/obj/structure/wall_sconce/lantern{dir = 4; start_lit = 1},/turf/floor/wood/maple,/area/nebelstrand/inn)
 "xj" = (/obj/structure/table/marble,/obj/item/chems/glass/mortar,/obj/item/rock/basalt,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
-"xk" = (/obj/structure/flora/tree/dead/mahogany,/turf/floor/natural/dirt,/area/nebelstrand/outside/shrine)
-"xH" = (/turf/floor/natural/mud,/area/nebelstrand/slaughterhouse)
-"xU" = (/obj/structure/railing/mapped/wooden/walnut{dir = 4},/turf/floor/natural/grass,/area/nebelstrand/outside/shrine)
+"xk" = (/obj/structure/table/marble,/obj/item/chems/condiment/flour,/obj/item/chems/condiment/large/salt,/obj/item/chems/glass/beaker/bowl,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/inn)
+"xU" = (/turf/unsimulated/mask,/area/nebelstrand/outside/shrine)
 "xW" = (/obj/structure/reagent_dispensers/compost_bin/walnut,/turf/floor/natural/dirt,/area/nebelstrand/outside/downlands)
-"xY" = (/obj/structure/reagent_dispensers/barrel/ebony,/obj/item/seeds/extracted/potato,/obj/item/seeds/extracted/potato,/obj/item/seeds/extracted/potato,/obj/item/seeds/extracted/carrot,/obj/item/seeds/extracted/carrot,/obj/item/seeds/extracted/carrot,/obj/item/seeds/extracted/cabbage,/obj/item/seeds/extracted/cabbage,/obj/item/seeds/extracted/cabbage,/turf/floor/natural/dirt,/area/nebelstrand/outside/downlands/poi)
 "ya" = (/turf/floor/natural/mud/water,/area/nebelstrand/outside/downlands/poi)
-"ye" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/chems/glass/bucket/wood,/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands/poi)
+"ye" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/chems/glass/bucket/wood,/turf/floor/natural/path/granite,/area/nebelstrand/inn)
 "yl" = (/obj/abstract/landmark/start/nebelstrand/traveller/learned,/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands)
 "yn" = (/turf/wall/log/ebony,/area/nebelstrand/inn)
-"yu" = (/obj/structure/door/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands/poi)
-"yx" = (/obj/structure/table/marble,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/shrine)
-"yz" = (/turf/floor/natural/mud,/area/nebelstrand/general_store)
-"yG" = (/obj/structure/wall_sconce/lantern{dir = 8},/obj/structure/table/woodentable_reinforced/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands/poi)
-"yI" = (/obj/structure/door/ebony{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/storehouse)
-"yJ" = (/turf/floor/wood/maple,/area/nebelstrand/outside/downlands/poi)
-"yN" = (/obj/abstract/exterior_marker/inside,/turf/wall/brick/granite,/area/nebelstrand/outside/downlands)
+"yx" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/book/printable_black,/turf/floor/carpet/red,/area/nebelstrand/inn)
+"yI" = (/obj/structure/table/woodentable/ebony,/obj/item/ancient_surgery/cautery,/obj/item/ancient_surgery/scalpel,/obj/item/ancient_surgery/forceps,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"yN" = (/obj/structure/door/ebony,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
 "yY" = (/turf/floor/natural/grass,/area/nebelstrand/outside/downlands/poi)
 "zj" = (/obj/structure/railing/mapped/wooden/ebony{dir = 4},/turf/floor/natural/grass,/area/nebelstrand/outside/downlands)
-"zl" = (/obj/structure/table/woodentable/ebony,/obj/item/pen/fancy/quill,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"zm" = (/obj/structure/railing/mapped/wooden/walnut{dir = 8},/obj/structure/railing/mapped/wooden/walnut{dir = 1},/turf/floor/natural/grass,/area/nebelstrand/outside/shrine)
+"zl" = (/obj/structure/table/woodentable/ebony,/obj/item/pen/fancy/quill,/turf/floor/wood/maple,/area/nebelstrand/inn)
 "zH" = (/obj/item/food/butchery/meat/chicken,/obj/item/food/butchery/meat/chicken,/obj/item/food/butchery/haunch/side,/obj/item/food/butchery/haunch/shoulder,/obj/item/food/butchery/cutlet/raw,/obj/item/food/butchery/cutlet/raw,/obj/structure/reagent_dispensers/barrel/ebony,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
-"zJ" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/pen/fancy/quill,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"zQ" = (/turf/floor/natural/path/granite,/area/nebelstrand/general_store/porch)
-"Aa" = (/obj/structure/table/woodentable/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/outside/downlands/poi)
-"Ah" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/pen/fancy/quill,/obj/structure/wall_sconce/lantern{dir = 4; start_lit = 1},/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
+"zJ" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/pen/fancy/quill,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"Aa" = (/obj/structure/railing/mapped/wooden/ebony{dir = 4},/obj/structure/railing/mapped/wooden/ebony{dir = 1},/turf/floor/natural/grass,/area/nebelstrand/outside/downlands)
+"Ah" = (/obj/structure/wall_sconce/lantern,/obj/structure/reagent_dispensers/barrel/ebony/wine,/turf/floor/wood/maple,/area/nebelstrand/inn)
 "Ak" = (/turf/wall/brick/granite,/area/nebelstrand/outside/downlands)
 "Ap" = (/turf/floor/wood/maple,/area/nebelstrand/inn)
-"Aq" = (/obj/structure/working/loom/ebony,/turf/floor/wood/walnut,/area/nebelstrand/shrine)
-"Aw" = (/obj/structure/railing/mapped/wooden/walnut{dir = 4},/obj/structure/reagent_dispensers/barrel/ebony,/obj/item/seeds/extracted/foxglove,/obj/item/seeds/extracted/foxglove,/obj/item/seeds/extracted/ginseng,/obj/item/seeds/extracted/ginseng,/obj/item/seeds/extracted/valerian,/obj/item/seeds/extracted/valerian,/obj/item/seeds/extracted/yarrow,/obj/item/seeds/extracted/yarrow,/turf/floor/natural/dirt,/area/nebelstrand/outside/shrine)
-"Ay" = (/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10},/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"AE" = (/obj/structure/door/walnut,/obj/abstract/landmark/lock_preset/nebelstrand/shrine,/turf/floor/natural/path/basalt,/area/nebelstrand/shrine)
-"AG" = (/obj/structure/door/ebony{dir = 4},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/outside/downlands/poi)
-"AJ" = (/obj/structure/closet/crate/chest/ebony,/obj/item/stack/material/plank/mapped/ebony/ten,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/outside/downlands/poi)
-"AQ" = (/obj/structure/table/woodentable/ebony,/turf/floor/wood/maple,/area/nebelstrand/storehouse)
-"AX" = (/obj/structure/wall_sconce/lantern{dir = 4},/turf/floor/wood/walnut,/area/nebelstrand/shrine)
-"Bo" = (/obj/abstract/landmark/lock_preset/nebelstrand/trader,/obj/structure/door/ebony{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"Br" = (/obj/structure/reagent_dispensers/barrel/ebony/oil,/obj/structure/wall_sconce/lantern{dir = 4},/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
-"Bx" = (/turf/floor/natural/grass,/area/nebelstrand/slaughterhouse)
+"Aq" = (/obj/structure/bed/simple/ebony,/obj/item/bedsheet/yellowed,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"Aw" = (/obj/item/chems/glass/handmade/jar,/obj/item/chems/glass/handmade/jar,/obj/item/chems/glass/handmade/jar,/obj/structure/table/marble,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"Ay" = (/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"AG" = (/obj/structure/door/ebony{dir = 4},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"AQ" = (/obj/structure/wall_sconce/lantern{dir = 4},/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
+"AX" = (/obj/structure/table/woodentable/ebony,/obj/item/bag/sack,/turf/floor/wood/walnut,/area/nebelstrand/inn)
+"Bo" = (/obj/abstract/landmark/lock_preset/nebelstrand/trader,/obj/structure/door/ebony{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"Br" = (/obj/structure/closet/cabinet/wooden/ebony,/turf/floor/wood/maple,/area/nebelstrand/inn)
 "By" = (/turf/floor/natural/grass,/area/nebelstrand/outside/shrine)
 "BB" = (/obj/abstract/landmark/start/nebelstrand/traveller,/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands)
-"BD" = (/obj/structure/reagent_dispensers/barrel/ebony/wine,/turf/floor/wood/walnut,/area/nebelstrand/shrine)
-"BG" = (/obj/structure/bed/chair/wood/ebony{dir = 1},/turf/floor/wood/maple,/area/nebelstrand/inn)
-"BI" = (/obj/abstract/map_data/nebelstrand,/turf/unsimulated/mask,/area/nebelstrand/outside/downlands)
-"BL" = (/obj/structure/railing/mapped/wooden/ebony{dir = 1},/turf/floor/natural/grass,/area/nebelstrand/outside/downlands)
-"BX" = (/turf/floor/natural/mud,/area/nebelstrand/farmhouse/porch)
-"Cg" = (/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10; start_lit = 1},/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands)
-"Cu" = (/obj/structure/wall_sconce/lantern,/obj/structure/reagent_dispensers/barrel/ebony/wine,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"CI" = (/obj/structure/table/woodentable/ebony,/obj/item/flame/candle/handmade,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"CR" = (/turf/floor/wood/walnut,/area/nebelstrand/shrine)
-"CX" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/knife/kitchen/cleaver/bronze,/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands/poi)
-"Dh" = (/turf/floor/natural/path/basalt,/area/nebelstrand/castle_walls)
-"Dl" = (/obj/structure/bed/chair/wood/ebony{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"Dm" = (/obj/structure/railing/mapped/wooden/walnut{dir = 4},/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands)
+"BD" = (/obj/structure/wall_sconce/lantern{dir = 8},/obj/structure/table/woodentable_reinforced/ebony,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"BG" = (/obj/structure/table/woodentable/ebony,/obj/item/ancient_surgery/bonesetter,/obj/item/ancient_surgery/retractor,/obj/item/ancient_surgery/sutures,/obj/item/ancient_surgery/bonesaw,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"BI" = (/obj/abstract/landmark/latejoin,/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands)
+"CX" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/knife/kitchen/cleaver/bronze,/turf/floor/natural/path/granite,/area/nebelstrand/inn)
+"Dh" = (/turf/floor/natural/grass,/area/nebelstrand/castle_walls)
 "Dn" = (/mob/living/simple_animal/cow,/turf/floor/natural/grass,/area/nebelstrand/outside/downlands/poi)
-"Dr" = (/turf/floor/natural/grass,/area/nebelstrand/inn)
-"Dt" = (/obj/structure/bed/simple/ebony/cloth,/obj/abstract/landmark/start/nebelstrand/shrine_keeper,/obj/item/bedsheet/furs,/turf/floor/wood/walnut,/area/nebelstrand/shrine)
-"DU" = (/obj/structure/wall_sconce/lantern{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/outside/shrine)
-"Ee" = (/obj/structure/reagent_dispensers/barrel/ebony/beer,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
-"Ep" = (/obj/structure/table/woodentable/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands/poi)
-"EC" = (/obj/structure/bed/chair/bench/ebony{dir = 4},/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands)
-"EE" = (/obj/structure/door/ebony,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
-"EJ" = (/obj/structure/railing/mapped/wooden/walnut{dir = 1},/turf/floor/natural/grass,/area/nebelstrand/outside/shrine)
+"Dt" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10},/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
+"DU" = (/obj/abstract/landmark/start/nebelstrand/traveller,/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands/poi)
+"Ee" = (/obj/abstract/exterior_marker/inside,/turf/wall/brick/granite,/area/nebelstrand/outside/downlands/poi)
+"EC" = (/obj/structure/bed/chair/wood/ebony{dir = 4},/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
+"EE" = (/obj/structure/rack/ebony,/obj/item/stack/material/ingot/mapped/copper/twenty,/obj/item/stack/material/ingot/mapped/bronze/twenty,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"EJ" = (/obj/structure/coatrack,/turf/floor/wood/maple,/area/nebelstrand/inn)
 "EK" = (/obj/structure/pit/closed/grave,/obj/structure/railing/mapped/wooden/ebony,/turf/floor/natural/grass,/area/nebelstrand/outside/downlands)
 "EV" = (/turf/floor/natural/path/basalt,/area/nebelstrand/outside/downlands)
-"Fe" = (/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands/poi)
+"Fe" = (/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/natural/path/granite,/area/nebelstrand/inn)
 "Fn" = (/obj/structure/reagent_dispensers/barrel/ebony,/obj/item/food/grown/potato,/obj/item/food/grown/potato,/obj/item/food/grown/potato,/obj/item/food/grown/carrot,/obj/item/food/grown/carrot,/obj/item/food/grown/carrot,/obj/item/food/grown/cabbage,/obj/item/food/grown/cabbage,/obj/item/food/grown/cabbage,/obj/structure/wall_sconce/lantern{dir = 4},/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
 "FD" = (/obj/structure/reagent_dispensers/barrel/ebony,/obj/item/seeds/extracted/rice,/obj/item/seeds/extracted/rice,/obj/item/seeds/extracted/rice,/obj/item/seeds/extracted/rice,/obj/item/seeds/extracted/wheat,/obj/item/seeds/extracted/wheat,/obj/item/seeds/extracted/wheat,/obj/item/seeds/extracted/wheat,/turf/floor/natural/dirt,/area/nebelstrand/outside/downlands)
-"FE" = (/turf/wall/log/walnut,/area/nebelstrand/outside/downlands/poi)
 "FH" = (/obj/structure/railing/mapped/wooden/ebony,/obj/structure/railing/mapped/wooden/ebony{dir = 4},/turf/floor/natural/grass,/area/nebelstrand/outside/downlands)
 "Ga" = (/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands/poi)
-"Gb" = (/obj/structure/table/marble,/obj/item/stack/medical/bandage/crafted/five,/obj/item/stack/medical/ointment/crafted/five,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/shrine)
-"Gj" = (/obj/structure/table/woodentable_reinforced/mahogany,/turf/floor/carpet/red,/area/nebelstrand/shrine)
+"Gb" = (/obj/structure/bed/chair/bench/ebony{dir = 4},/turf/floor/wood/walnut,/area/nebelstrand/inn)
 "Gq" = (/obj/abstract/landmark/start/nebelstrand/traveller/learned,/turf/floor/natural/path/basalt,/area/nebelstrand/outside/downlands)
-"Gs" = (/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/general_store/porch)
-"Gu" = (/obj/structure/reagent_dispensers/barrel/ebony,/obj/item/seeds/extracted/rice,/obj/item/seeds/extracted/rice,/obj/item/seeds/extracted/rice,/obj/item/seeds/extracted/rice,/obj/item/seeds/extracted/wheat,/obj/item/seeds/extracted/wheat,/obj/item/seeds/extracted/wheat,/obj/item/seeds/extracted/wheat,/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands/poi)
-"Gw" = (/turf/floor/straw,/area/nebelstrand/outside/downlands/poi)
+"Gs" = (/obj/structure/table/marble,/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/mug/wood,/obj/item/chems/glass/handmade/mug/wood,/obj/item/chems/glass/handmade/mug/wood,/obj/item/chems/glass/handmade/mug/wood,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
+"Gu" = (/obj/structure/reagent_dispensers/barrel/ebony,/obj/item/seeds/extracted/rice,/obj/item/seeds/extracted/rice,/obj/item/seeds/extracted/rice,/obj/item/seeds/extracted/rice,/obj/item/seeds/extracted/wheat,/obj/item/seeds/extracted/wheat,/obj/item/seeds/extracted/wheat,/obj/item/seeds/extracted/wheat,/turf/floor/wood/walnut,/area/nebelstrand/inn)
+"Gw" = (/turf/floor/straw,/area/nebelstrand/inn)
 "GE" = (/obj/structure/railing/mapped/wooden/ebony{dir = 8},/turf/floor/natural/grass,/area/nebelstrand/outside/downlands)
-"GQ" = (/obj/structure/wall_sconce/lantern{dir = 4},/turf/floor/natural/path/granite,/area/nebelstrand/outside/shrine)
-"GV" = (/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn/porch)
 "GW" = (/obj/structure/pit/closed/grave,/turf/floor/natural/dirt,/area/nebelstrand/outside/downlands)
-"GZ" = (/turf/wall/log/walnut/shutter,/area/nebelstrand/outside/downlands/poi)
-"Ht" = (/turf/wall/brick/basalt,/area/nebelstrand/castle_walls)
+"GZ" = (/turf/wall/log/walnut/shutter,/area/nebelstrand/inn)
+"Ht" = (/turf/unsimulated/mask,/area/nebelstrand/castle_walls)
 "HE" = (/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/outside/downlands)
-"HF" = (/obj/structure/table/woodentable/ebony,/obj/item/bag/sack,/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands)
+"HF" = (/obj/machinery/portable_atmospherics/hydroponics/soil,/turf/floor/natural/mud,/area/nebelstrand/outside/downlands)
 "HI" = (/turf/floor/natural/grass,/area/nebelstrand/outside/downlands)
-"HN" = (/obj/structure/door/walnut,/obj/abstract/landmark/lock_preset/nebelstrand/farmhouse,/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands/poi)
-"HQ" = (/obj/item/flame/candle/handmade,/obj/item/flame/candle/handmade,/obj/item/flame/candle/handmade,/obj/item/flame/candle/handmade,/obj/item/flame/candle/handmade,/obj/item/flame/candle/handmade,/obj/item/flame/candle/handmade,/obj/item/flame/candle/handmade,/obj/structure/rack/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
+"HQ" = (/obj/structure/reagent_dispensers/barrel/ebony/water,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
 "Ic" = (/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/outside/downlands)
-"Il" = (/obj/structure/door/walnut{dir = 4},/turf/floor/wood/walnut,/area/nebelstrand/shrine)
+"Il" = (/obj/structure/bed/chair/wood/ebony{dir = 4},/turf/floor/wood/walnut,/area/nebelstrand/inn)
 "Im" = (/obj/effect/floor_decal/floordetail{icon = 'icons/obj/stairs.dmi'; icon_state = null; color = "#d2bc9d"; dir = 8},/turf/floor/wood/maple,/area/nebelstrand/inn)
-"Ir" = (/obj/structure/fire_source/stove,/obj/item/stack/material/log/mapped/walnut/twenty,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
-"Iz" = (/obj/structure/railing/mapped/wooden/walnut{dir = 8},/turf/floor/straw,/area/nebelstrand/outside/shrine)
-"IB" = (/obj/structure/door/walnut,/obj/abstract/landmark/lock_preset/nebelstrand/shrine,/turf/floor/wood/walnut,/area/nebelstrand/shrine)
-"IJ" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/structure/curtain,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"IL" = (/obj/structure/table/woodentable/ebony,/obj/item/flame/candle/handmade,/turf/floor/wood/maple,/area/nebelstrand/storehouse)
-"IQ" = (/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands)
-"IS" = (/obj/structure/table/woodentable_reinforced/ebony,/turf/floor/carpet/purple,/area/nebelstrand/outside/downlands/poi)
-"IU" = (/obj/structure/table/woodentable/ebony,/obj/item/chems/glass/handmade/bottle,/obj/item/chems/glass/handmade/bottle/tall,/obj/item/chems/glass/handmade/bottle/wide,/obj/abstract/landmark/organize/horizontal,/obj/item/chems/glass/handmade/bottle/wide/whiskey,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
+"Ir" = (/obj/structure/working/spinning_wheel/twisting_bench/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"IB" = (/obj/effect/floor_decal/floordetail{icon = 'icons/obj/stairs.dmi'; icon_state = null; color = "#d2bc9d"; dir = 8},/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"IJ" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/structure/curtain,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"IQ" = (/obj/abstract/map_data/nebelstrand{height = 2},/turf/unsimulated/mask,/area/nebelstrand/outside/downlands)
+"IS" = (/obj/structure/table/woodentable_reinforced/ebony,/turf/floor/carpet/purple,/area/nebelstrand/inn)
 "IV" = (/obj/abstract/landmark/latejoin,/turf/floor/natural/path/basalt,/area/nebelstrand/outside/downlands)
-"Je" = (/obj/structure/pit/closed/grave,/turf/floor/natural/grass,/area/nebelstrand/outside/shrine)
-"Jk" = (/obj/structure/door/ebony{dir = 4},/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/outside/downlands)
-"Jo" = (/turf/floor/natural/path/basalt,/area/nebelstrand/inn)
+"Je" = (/obj/structure/table/marble,/obj/item/chems/glass/handmade/bowl/wood,/obj/item/chems/glass/handmade/bowl/wood,/obj/item/chems/glass/handmade/bowl/wood,/obj/item/chems/glass/handmade/bowl/wood,/obj/item/chems/glass/handmade/bowl/wood,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
+"Jk" = (/obj/structure/door/ebony{dir = 4},/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
 "Jp" = (/obj/abstract/landmark/start/nebelstrand/traveller,/turf/floor/natural/path/basalt,/area/nebelstrand/outside/downlands)
-"Jt" = (/obj/structure/closet/cabinet/wooden/ebony,/turf/floor/wood/walnut,/area/nebelstrand/shrine)
-"Jw" = (/obj/structure/table/woodentable_reinforced/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands/poi)
-"Jx" = (/obj/structure/meat_hook,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
+"Jw" = (/obj/structure/table/woodentable_reinforced/ebony,/turf/floor/wood/maple,/area/nebelstrand/inn)
 "Jz" = (/obj/structure/bed/chair/wood/ebony,/turf/floor/wood/maple,/area/nebelstrand/inn)
-"JK" = (/obj/structure/table/woodentable_reinforced/mahogany,/obj/item/flame/candle/handmade,/turf/floor/carpet/red,/area/nebelstrand/shrine)
-"JM" = (/obj/structure/table/woodentable/ebony,/obj/item/ancient_surgery/cautery,/obj/item/ancient_surgery/scalpel,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/shrine)
-"JR" = (/obj/structure/reagent_dispensers/barrel/ebony/water,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
-"JU" = (/turf/floor/natural/dirt,/area/nebelstrand/inn/porch)
-"JW" = (/obj/structure/table/woodentable/ebony,/obj/item/flame/candle/handmade,/turf/floor/wood/maple,/area/nebelstrand/inn)
-"Ka" = (/obj/structure/bed/chair/wood/ebony{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/inn)
-"Ke" = (/obj/structure/working/spinning_wheel/twisting_bench/ebony,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/shrine)
-"Kh" = (/turf/wall/log/walnut/shutter{shutter_state = 1},/area/nebelstrand/shrine)
-"KG" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/bag/sack,/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands/poi)
+"JK" = (/obj/structure/closet/crate/chest/ebony,/obj/item/chems/glass/handmade/teapot,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"JR" = (/obj/structure/bed/chair/bench/ebony{dir = 8},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/outside/downlands)
+"Ka" = (/turf/wall/log/walnut/shutter{shutter_state = 1},/area/nebelstrand/inn)
+"Ke" = (/obj/structure/fire_source/kiln/oven,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
+"Kh" = (/obj/structure/bed/chair/wood/ebony{dir = 1},/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands)
+"KG" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/bag/sack,/turf/floor/natural/path/granite,/area/nebelstrand/inn)
 "KR" = (/obj/structure/railing/mapped/wooden/ebony{dir = 8},/turf/floor/natural/dirt,/area/nebelstrand/outside/downlands)
-"KU" = (/obj/structure/bed/chair/wood/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"Lj" = (/obj/structure/reagent_dispensers/well/mapped,/obj/abstract/exterior_marker/inside,/turf/floor/natural/dirt,/area/nebelstrand/outside/downlands)
+"Lj" = (/obj/structure/fire_source/stove,/obj/item/stack/material/log/mapped/walnut/twenty,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
 "Ly" = (/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
-"LB" = (/obj/structure/reagent_dispensers/barrel/ebony,/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands/poi)
-"LK" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"LN" = (/turf/floor/natural/path/granite,/area/nebelstrand/farmhouse)
+"LB" = (/obj/structure/reagent_dispensers/barrel/ebony,/turf/floor/wood/walnut,/area/nebelstrand/inn)
+"LK" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/quin,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/obj/item/cash/imperial/crown,/turf/floor/wood/maple,/area/nebelstrand/inn)
 "LW" = (/obj/structure/railing/mapped/wooden/ebony{dir = 8},/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/outside/downlands)
 "Mb" = (/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands)
-"Mf" = (/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"Mi" = (/obj/structure/reagent_dispensers/barrel/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/outside/downlands/poi)
-"Mj" = (/obj/structure/railing/mapped/wooden/walnut{dir = 4},/obj/structure/produce_bin/walnut,/turf/floor/natural/dirt,/area/nebelstrand/outside/shrine)
-"Mo" = (/turf/open,/area/nebelstrand/outside/shrine)
-"Mp" = (/obj/structure/bed/chair/wood/ebony{dir = 4},/obj/structure/wall_sconce/lantern{start_lit = 1},/turf/floor/wood/maple,/area/nebelstrand/outside/downlands/poi)
+"Mi" = (/obj/structure/reagent_dispensers/barrel/ebony,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"Mo" = (/obj/structure/reagent_dispensers/well/mapped,/obj/abstract/exterior_marker/inside,/turf/floor/natural/dirt,/area/nebelstrand/outside/downlands/poi)
+"Mp" = (/obj/structure/bed/chair/wood/ebony{dir = 4},/obj/structure/wall_sconce/lantern{start_lit = 1},/turf/floor/wood/maple,/area/nebelstrand/inn)
 "My" = (/turf/wall/log/ebony/shutter,/area/nebelstrand/inn)
-"MT" = (/turf/wall/log/walnut/shutter{shutter_state = 1},/area/nebelstrand/outside/downlands)
-"No" = (/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/outside/downlands/poi)
-"NE" = (/obj/structure/door/ebony{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/outside/downlands/poi)
 "NH" = (/turf/unsimulated/mask,/area/nebelstrand/outside/downlands/poi)
-"Oa" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/paper,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"Oc" = (/obj/abstract/landmark/lock_preset/nebelstrand/trader,/obj/structure/door/ebony,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"On" = (/obj/structure/table/woodentable/ebony,/obj/structure/wall_sconce/lantern{dir = 4; start_lit = 1},/turf/floor/wood/maple,/area/nebelstrand/outside/downlands/poi)
-"Ot" = (/obj/structure/table/woodentable/ebony,/obj/item/chems/cooking_vessel/pot/iron,/turf/floor/wood/walnut,/area/nebelstrand/shrine)
-"ON" = (/obj/structure/door/ebony{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"Oa" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/paper,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"Oc" = (/obj/abstract/landmark/lock_preset/nebelstrand/trader,/obj/structure/door/ebony,/turf/floor/wood/maple,/area/nebelstrand/inn)
+"On" = (/obj/structure/table/woodentable/ebony,/obj/structure/wall_sconce/lantern{dir = 4; start_lit = 1},/turf/floor/wood/maple,/area/nebelstrand/inn)
+"Ot" = (/obj/structure/drying_rack/ebony,/turf/floor/natural/dirt,/area/nebelstrand/outside/downlands)
+"ON" = (/obj/structure/bed/simple/ebony,/obj/item/bedsheet/furs,/obj/abstract/landmark/start/nebelstrand/farmer,/turf/floor/wood/walnut,/area/nebelstrand/inn)
 "Pa" = (/obj/structure/railing/mapped/wooden/walnut,/turf/floor/natural/grass,/area/nebelstrand/outside/downlands/poi)
 "Pe" = (/turf/floor/natural/mud,/area/nebelstrand/outside/downlands/poi)
-"Pn" = (/obj/structure/bed/chair/bench/ebony{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/inn)
-"PA" = (/turf/floor/natural/grass,/area/nebelstrand/stable)
-"PG" = (/obj/structure/door/walnut,/turf/floor/wood/walnut,/area/nebelstrand/shrine)
-"PI" = (/obj/structure/fire_source/kiln/oven,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
-"PM" = (/obj/structure/reagent_dispensers/barrel/ebony,/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands)
-"PQ" = (/turf/floor/natural/mud,/area/nebelstrand/storehouse)
-"PS" = (/turf/floor/wood/maple,/area/nebelstrand/storehouse)
-"Qs" = (/obj/structure/door/ebony{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"Qy" = (/obj/structure/bookcase{icon = 'maps/nebelstrand/icons/bookcase.dmi'},/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"QB" = (/turf/wall/log/walnut,/area/nebelstrand/shrine)
+"Pn" = (/obj/structure/railing/mapped/wooden/ebony{dir = 4},/turf/floor/natural/dirt,/area/nebelstrand/outside/downlands)
+"PG" = (/obj/structure/reagent_dispensers/barrel/ebony,/obj/item/seeds/extracted/potato,/obj/item/seeds/extracted/potato,/obj/item/seeds/extracted/potato,/obj/item/seeds/extracted/carrot,/obj/item/seeds/extracted/carrot,/obj/item/seeds/extracted/carrot,/obj/item/seeds/extracted/cabbage,/obj/item/seeds/extracted/cabbage,/obj/item/seeds/extracted/cabbage,/turf/floor/natural/dirt,/area/nebelstrand/outside/downlands)
+"PI" = (/obj/structure/table/marble,/obj/item/stack/medical/bandage/crafted/five,/obj/item/stack/medical/ointment/crafted/five,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"PS" = (/obj/structure/table/woodentable/ebony,/obj/item/chems/glass/handmade/bottle/beer,/obj/item/chems/glass/handmade/bottle/beer,/obj/item/chems/glass/handmade/bottle/beer,/obj/item/chems/glass/handmade/bottle/beer,/obj/item/chems/glass/handmade/bottle/beer,/obj/abstract/landmark/organize/horizontal,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
+"Qs" = (/obj/structure/door/ebony{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/inn)
 "QE" = (/obj/structure/table/woodentable/ebony,/turf/floor/natural/mud,/area/nebelstrand/outside/downlands)
-"QL" = (/obj/structure/bed/chair/wood/ebony{dir = 1},/obj/structure/wall_sconce/lantern{dir = 8; start_lit = 1},/turf/floor/wood/walnut,/area/nebelstrand/shrine)
-"QQ" = (/turf/floor/natural/dirt,/area/nebelstrand/storehouse)
-"QS" = (/obj/structure/table/woodentable/ebony,/turf/floor/natural/dirt,/area/nebelstrand/general_store/porch)
-"Rh" = (/obj/structure/closet/crate/chest,/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands/poi)
 "Rl" = (/turf/floor/natural/mud,/area/nebelstrand/outside/downlands)
 "Rz" = (/obj/effect/departure_signpost/east,/turf/floor/natural/dirt,/area/nebelstrand/outside/downlands)
-"RC" = (/turf/wall/log/ebony,/area/nebelstrand/outside/downlands)
-"RG" = (/turf/wall/brick/basalt/shutter{shutter_state = 1},/area/nebelstrand/shrine)
-"RO" = (/obj/structure/bed/chair/bench/ebony{dir = 4},/turf/floor/wood/maple,/area/nebelstrand/inn)
-"Sf" = (/obj/structure/railing/mapped/wooden/walnut{dir = 8},/turf/floor/natural/grass,/area/nebelstrand/outside/downlands)
-"Sj" = (/obj/structure/railing/mapped/wooden/walnut{dir = 4},/obj/item/chems/glass/bucket/wood,/turf/floor/natural/mud,/area/nebelstrand/outside/shrine)
+"RG" = (/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10; start_lit = 1},/turf/floor/wood/walnut,/area/nebelstrand/inn)
+"Sf" = (/obj/structure/wall_sconce/lantern,/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands/poi)
+"Sj" = (/obj/structure/working/loom/ebony,/turf/floor/wood/walnut,/area/nebelstrand/inn)
 "Sl" = (/obj/structure/bed/chair/wood/ebony{dir = 8},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/outside/downlands)
-"St" = (/obj/structure/reagent_dispensers/barrel/ebony,/obj/item/seeds/extracted/potato,/obj/item/seeds/extracted/potato,/obj/item/seeds/extracted/potato,/obj/item/seeds/extracted/carrot,/obj/item/seeds/extracted/carrot,/obj/item/seeds/extracted/carrot,/obj/item/seeds/extracted/cabbage,/obj/item/seeds/extracted/cabbage,/obj/item/seeds/extracted/cabbage,/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands/poi)
-"Sy" = (/obj/structure/working/spinning_wheel/ebony,/turf/floor/wood/walnut,/area/nebelstrand/shrine)
-"SF" = (/turf/floor/natural/grass,/area/nebelstrand/general_store)
+"St" = (/obj/structure/reagent_dispensers/barrel/ebony,/obj/item/seeds/extracted/potato,/obj/item/seeds/extracted/potato,/obj/item/seeds/extracted/potato,/obj/item/seeds/extracted/carrot,/obj/item/seeds/extracted/carrot,/obj/item/seeds/extracted/carrot,/obj/item/seeds/extracted/cabbage,/obj/item/seeds/extracted/cabbage,/obj/item/seeds/extracted/cabbage,/turf/floor/wood/walnut,/area/nebelstrand/inn)
 "SG" = (/turf/floor/natural/path/granite,/area/nebelstrand/outside/shrine)
-"SQ" = (/obj/structure/closet/crate/chest/ebony,/obj/item/stack/material/ingot/mapped/silver/five,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/outside/downlands/poi)
+"SQ" = (/obj/structure/table/marble,/obj/item/knife/kitchen/cleaver/bronze,/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
 "SW" = (/turf/floor/natural/path/basalt,/area/nebelstrand/outside/downlands/poi)
-"SX" = (/obj/structure/drying_rack,/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands/poi)
+"SX" = (/obj/structure/drying_rack,/turf/floor/natural/path/granite,/area/nebelstrand/inn)
 "Td" = (/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands/poi)
-"Ti" = (/obj/structure/closet/coffin/wooden,/obj/structure/railing/mapped/wooden/ebony{dir = 1},/turf/floor/natural/grass,/area/nebelstrand/outside/downlands)
-"To" = (/obj/structure/bed/chair/bench/ebony{dir = 4},/turf/floor/carpet/purple,/area/nebelstrand/outside/downlands/poi)
+"To" = (/obj/structure/bed/chair/bench/ebony{dir = 4},/turf/floor/carpet/purple,/area/nebelstrand/inn)
 "Tr" = (/obj/structure/table/woodentable/ebony,/turf/floor/wood/maple,/area/nebelstrand/inn)
 "Ts" = (/obj/structure/wall_sconce/lantern,/turf/floor/natural/dirt,/area/nebelstrand/outside/downlands)
-"Tu" = (/obj/structure/wall_sconce/lantern{dir = 4},/obj/structure/table/woodentable/ebony,/obj/item/paper,/obj/item/paper,/obj/item/paper,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
+"Tu" = (/obj/structure/wall_sconce/lantern{dir = 4},/obj/structure/table/woodentable/ebony,/obj/item/paper,/obj/item/paper,/obj/item/paper,/turf/floor/wood/maple,/area/nebelstrand/inn)
 "Tz" = (/obj/abstract/landmark/latejoin,/turf/floor/natural/dirt,/area/nebelstrand/outside/downlands)
-"TA" = (/turf/wall/log/ebony,/area/nebelstrand/outside/downlands/poi)
-"TM" = (/obj/structure/table/woodentable/ebony,/obj/item/food/grown/potato,/obj/item/food/grown/potato,/obj/item/food/grown/carrot,/obj/item/food/grown/carrot,/obj/item/food/grown/cabbage,/turf/floor/wood/walnut,/area/nebelstrand/shrine)
+"TM" = (/obj/structure/rack/ebony,/obj/item/stack/material/ingot/mapped/iron/twentyfive,/obj/item/stack/material/ingot/mapped/tin/ten,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
 "TR" = (/turf/floor/natural/dirt,/area/nebelstrand/outside/downlands)
-"TX" = (/obj/structure/bed/simple/ebony,/obj/item/bedsheet/furs,/obj/abstract/landmark/start/nebelstrand/farmer,/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands)
-"TZ" = (/obj/structure/door/walnut,/obj/abstract/landmark/lock_preset/nebelstrand/shrine,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/shrine)
-"UD" = (/obj/structure/table/woodentable/ebony,/obj/item/flame/candle/handmade,/turf/floor/wood/walnut,/area/nebelstrand/shrine)
+"TX" = (/obj/structure/reagent_dispensers/barrel/ebony/oil,/obj/structure/wall_sconce/lantern{dir = 4},/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
+"TZ" = (/obj/structure/wall_sconce/lantern,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"UD" = (/obj/structure/fire_source/fireplace,/obj/item/stack/material/log/mapped/walnut/twenty,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
 "UJ" = (/obj/structure/bed/chair/bench/ebony{dir = 4},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/outside/downlands)
-"US" = (/turf/floor/natural/mud,/area/nebelstrand/inn)
 "UU" = (/obj/structure/bed/chair/wood/ebony{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/inn)
-"UY" = (/turf/wall/log/ebony,/area/nebelstrand/storehouse)
-"Vj" = (/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/shrine)
-"Vq" = (/obj/structure/table/woodentable/ebony,/obj/item/chems/glass/handmade/bottle/beer,/obj/item/chems/glass/handmade/bottle/beer,/obj/item/chems/glass/handmade/bottle/beer,/obj/item/chems/glass/handmade/bottle/beer,/obj/item/chems/glass/handmade/bottle/beer,/obj/abstract/landmark/organize/horizontal,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
-"VE" = (/obj/structure/reagent_dispensers/barrel/ebony/beer,/turf/floor/wood/walnut,/area/nebelstrand/shrine)
-"VF" = (/obj/structure/coatrack,/turf/floor/wood/maple,/area/nebelstrand/inn)
-"VG" = (/obj/structure/bed/chair/wood/ebony{dir = 4},/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands)
-"VM" = (/obj/structure/railing/mapped/wooden/walnut{dir = 4},/turf/floor/natural/dirt,/area/nebelstrand/outside/shrine)
-"VQ" = (/obj/structure/wall_sconce/lantern{dir = 4},/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands/poi)
-"VU" = (/obj/structure/bed/chair/wood/ebony{dir = 1},/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"VW" = (/turf/wall/log/walnut,/area/nebelstrand/outside/downlands)
+"VG" = (/obj/structure/bed/chair/bench/ebony{dir = 1},/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands/poi)
+"VQ" = (/obj/structure/wall_sconce/lantern{dir = 4},/turf/floor/natural/path/granite,/area/nebelstrand/inn)
 "VZ" = (/turf/floor/natural/dirt,/area/nebelstrand/outside/downlands/poi)
-"Wf" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/structure/curtain,/obj/structure/wall_sconce/lantern,/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
+"Wf" = (/obj/structure/table/woodentable_reinforced/ebony,/obj/structure/curtain,/obj/structure/wall_sconce/lantern,/turf/floor/wood/maple,/area/nebelstrand/inn)
 "Wg" = (/obj/structure/railing/mapped/wooden/walnut{dir = 8},/turf/floor/natural/grass,/area/nebelstrand/outside/downlands/poi)
-"Wh" = (/obj/structure/table/woodentable/ebony,/obj/item/chems/glass/mortar,/obj/item/rock/basalt,/turf/floor/wood/walnut,/area/nebelstrand/shrine)
+"Wh" = (/obj/structure/fountain/mundane,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/outside/downlands)
 "Wk" = (/obj/structure/railing/mapped/wooden/ebony{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"Wl" = (/obj/structure/fire_source/fireplace/basalt,/obj/item/stack/material/log/mapped/walnut/twenty,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
+"Wl" = (/obj/structure/bed/chair/bench/ebony{dir = 1},/obj/abstract/landmark/start/nebelstrand/farmer,/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands/poi)
 "Wm" = (/turf/unsimulated/mask,/area/nebelstrand/outside/downlands)
-"WD" = (/turf/floor/natural/path/granite,/area/nebelstrand/inn/porch)
-"WE" = (/obj/structure/reagent_dispensers/barrel/ebony,/obj/item/seeds/extracted/cabbage,/obj/item/seeds/extracted/cabbage,/obj/item/seeds/extracted/carrot,/obj/item/seeds/extracted/carrot,/obj/item/seeds/extracted/wheat,/obj/item/seeds/extracted/wheat,/obj/item/seeds/extracted/rice,/obj/item/seeds/extracted/rice,/obj/item/seeds/extracted/potato,/obj/item/seeds/extracted/potato,/obj/structure/railing/mapped/wooden/walnut{dir = 4},/turf/floor/natural/mud,/area/nebelstrand/outside/shrine)
-"WI" = (/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/general_store)
-"WO" = (/turf/floor/natural/dirt,/area/nebelstrand/farmhouse)
+"WE" = (/obj/structure/bed/chair/wood/ebony{dir = 4},/turf/floor/natural/path/basalt,/area/nebelstrand/outside/downlands)
 "WV" = (/obj/structure/bed/chair/wood/ebony{dir = 4},/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/outside/downlands)
-"WY" = (/obj/structure/pit/closed/grave,/turf/floor/natural/mud,/area/nebelstrand/outside/downlands)
+"WY" = (/obj/abstract/exterior_marker/inside,/turf/floor/natural/mud,/area/nebelstrand/outside/downlands/poi)
 "Xg" = (/mob/living/simple_animal/fowl/chicken,/turf/floor/natural/grass,/area/nebelstrand/outside/downlands/poi)
-"Xl" = (/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/inn)
 "Xr" = (/obj/structure/bed/chair/bench/ebony,/turf/floor/natural/path/granite,/area/nebelstrand/outside/downlands)
-"XF" = (/turf/floor/natural/mud/water/deep,/area/nebelstrand/outside/downlands/poi)
-"XH" = (/obj/structure/fire_source/stove,/obj/item/stack/material/log/mapped/walnut/twenty,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/shrine)
-"XJ" = (/obj/structure/wall_sconce/lantern{dir = 1; pixel_y = 10; start_lit = 1},/turf/floor/wood/walnut,/area/nebelstrand/shrine)
-"XM" = (/turf/floor/carpet/red,/area/nebelstrand/shrine)
-"XY" = (/turf/floor/natural/mud/water,/area/nebelstrand/outside/shrine)
-"Yc" = (/turf/wall/brick/basalt,/area/nebelstrand/shrine)
-"Yg" = (/turf/floor/natural/mud,/area/nebelstrand/inn/porch)
-"Yp" = (/obj/structure/wall_sconce/lantern{start_lit = 1},/turf/floor/wood/maple,/area/nebelstrand/outside/downlands)
-"Yu" = (/obj/machinery/portable_atmospherics/hydroponics/soil,/turf/floor/natural/mud,/area/nebelstrand/outside/downlands/poi)
+"XF" = (/turf/floor/natural/mud/water/deep,/area/nebelstrand/inn)
+"XH" = (/obj/structure/closet/crate/chest/ebony,/turf/floor/wood/walnut,/area/nebelstrand/inn)
+"XM" = (/obj/structure/closet/cabinet/wooden/ebony,/turf/floor/wood/walnut,/area/nebelstrand/inn)
+"XY" = (/obj/structure/wall_sconce/lantern{dir = 4},/obj/structure/table/woodentable/ebony,/turf/floor/wood/walnut,/area/nebelstrand/inn)
 "Yy" = (/obj/structure/railing/mapped/wooden/walnut{dir = 4},/turf/floor/natural/path/basalt,/area/nebelstrand/outside/downlands/poi)
-"Zb" = (/obj/structure/door/walnut{dir = 4},/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands)
 "Zc" = (/obj/structure/pit/closed/grave,/turf/floor/natural/grass,/area/nebelstrand/outside/downlands)
-"Zx" = (/obj/machinery/portable_atmospherics/hydroponics/soil,/turf/floor/natural/mud,/area/nebelstrand/outside/shrine)
-"ZC" = (/obj/structure/table/marble,/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/cup/wood,/obj/item/chems/glass/handmade/mug/wood,/obj/item/chems/glass/handmade/mug/wood,/obj/item/chems/glass/handmade/mug/wood,/obj/item/chems/glass/handmade/mug/wood,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
-"ZE" = (/obj/structure/door/walnut{dir = 4},/turf/floor/wood/walnut,/area/nebelstrand/outside/downlands/poi)
-"ZP" = (/obj/structure/table/marble,/obj/item/chems/condiment/flour,/obj/item/chems/condiment/large/salt,/obj/item/chems/glass/beaker/bowl,/turf/floor/natural/path/herringbone/basalt,/area/nebelstrand/inn)
+"Zx" = (/obj/structure/fire_source/heater/mapped,/obj/structure/table/marble,/turf/floor/natural/path/running_bond/granite,/area/nebelstrand/inn)
+"ZC" = (/obj/structure/table/woodentable/ebony,/turf/floor/wood/walnut,/area/nebelstrand/inn)
+"ZE" = (/obj/structure/door/walnut{dir = 4},/turf/floor/wood/walnut,/area/nebelstrand/inn)
+"ZP" = (/obj/structure/table/woodentable/ebony,/turf/floor/natural/dirt,/area/nebelstrand/outside/downlands)
 "ZY" = (/obj/structure/table/marble,/obj/item/chems/cooking_vessel/pot/iron,/obj/item/chems/cooking_vessel/skillet/iron,/obj/item/chems/cooking_vessel/baking_dish/earthenware,/obj/item/chems/cooking_vessel/baking_dish/earthenware,/turf/floor/natural/path/herringbone/granite,/area/nebelstrand/inn)
-"ZZ" = (/obj/structure/wall_sconce/lantern{dir = 8},/turf/floor/wood/maple,/area/nebelstrand/storehouse)
+"ZZ" = (/obj/structure/railing/mapped/wooden/walnut{dir = 8},/obj/structure/railing/mapped/wooden/walnut{dir = 1},/turf/floor/natural/grass,/area/nebelstrand/outside/downlands/poi)
 
 (1,1,1) = {"
 lClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClC
@@ -408,124 +279,124 @@ lClClClClClClCWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWm
 lClClClClClClCWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
 lClClClClClClCWmWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
 lClClClClClClCWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByByByByByByByByByByByByByByByByByByByByNHNHNHNHNHNHWmWmWmWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByByzmEJEJEJEJEJEJEJByEJEJEJEJEJEJEJEJcTByNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByBygAByJeByJeByByBykvByByJeByByByByByxUByByNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByBygAByByByByByByBykvByByByByByByJeByxUByByNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByBygAByByJeByJeBykvkvByByJeByJeByByByxUByByNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByBygAByByByByByBykvkvkvByByByByByByByxUByByNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByByBygAJeByJeByJeByBykvkvByByByBykvkvaPkvVMByNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByByBygAByByByByByByBykvkvBykvkvkvkvkvMoaPkvByNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByBykvkviKiKiKiKiKiKiKiKkvkvkvkviKiKiKkvxkkvkvByByNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByByBykvQBQBQBQBQBiKkvkvkvkviKiKiKiKkvkvkvkvkvByByByNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByByByByKhUDDtJtQBkvkvkvkvkvkvkvkvkvBykvkvByByByByByNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByByBykvQBQLCRCRIlkvkvkvkvkvkvkvkvBykvkvBykvkvByByNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHBykviKQBQBQBPGQBKhQBYcRGYcTZQBKhQBQBQBAEKhQBByByNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByBykvkvByQBCRIlCRJtYcdxXHVjuPCRcyQByxVjevQBByByNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByByBykvByQBCRQBrSqeQBVjVjVjCRCRVEQBuKVjgLQBByNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByByBykvByKhAXQBQBQBQBCRxhTMOtCRBDQBGbVjKeQBByNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByByBykviKkvQBCRIlCRJtQBCRvzWhbWCRSyQBVjVjwgQBByNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByBykvkviKkvQBCRQBrSqeQBCRCRCRCRCRAqQBVjJMqLQBByByNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByBykviKiKkvQBIBQBQBQBQBQBIBQBIBKhQBQBTZQBKhQBByByNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByByBykvkvkvQBCRCRCRXJCRCRCRQBftftftftftftAwkvByByNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByByByBykvkvKhCRXMXMXMXMXMCRKhftZxZxZxZxftWEkvByByNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByByByBykvByQBgtXMJKGjJKXMAXQBftXYXYXYXYftMjByByNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByBykvkvByQBCRXMXMXMXMXMCRQBftZxZxZxZxftSjkvNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByBykviKkvQBCRpdjkXMpdpdCRQBftolololololfgByNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYVZyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByBykviKkvQBCRCRCRXMCRCRCRQBftftkvkvkvkvByByNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYVZVZVZyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHByBykvkvkvQBCRpdpdXMpdpdCRQBftkvByByByByNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYVZSWVZPeyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHByBykviKkvQBCRCRCRCRCRCRCRQBkvByByByNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYVZSWVZPeyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHByBykvkvQBQBKhQBPGQBKhQBQBBykvByNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYVZSWSWPeVZPeyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHByByByByByByjIkvjIByByByByByByNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYPeSWSWVZVZVZPeVZyYyYyYyYyYVZVZVZyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYByByByBykvkvByByByNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCHIWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYPeSWSWVZPeTATATATATAnNTATATATATAPeyYyYyYyYyYyYyYHIHIHIHIyYyYHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYBykvkvkvByByNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCHIHIWmWmWmWmNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYPeSWSWVZPenNratrTAyJrayJTAyJranNVZyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYBykvkvkvByNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCHIHIHIWmWmWmNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYVZSWSWVZRlRClDhEQshEhEyJNEyJlDRCRlRlTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYBykvkvkvByNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCHIHIHIHIHIWmNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYTRMbEVTRTRRCfwhERChEhEKURChEfwRCTRRlRlRlTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYBykvkvkvByNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHITRMbEVTRTRRCRCRCRCMfhEgqRCRCRCRCRCRCRCAkAkAkHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHyYyYyYBykvkvkvByByNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCTRTRHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYVZPeyYyYyYyYyYyYyYVZVZHIHIHIHIHIHIHIHITREVEVEVTRhUCIDlRChEhEVURChECIRCfwhERChEgqAkTRTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHyYyYyYyYBykvkvkvByByNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCHtHtHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYVZPePePeVZyYyYyYPePePePeTRHIHIHIHIHIHIHITREVMbEVTRRClDhEQshEhEhEQshElDRClDhEQshEVUuERlTRRlTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYByBykvkvByByNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCDhDhHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYTATAnNTATAnNlLlLlLnNTATAnNTARCRlTRHIHIHIHIHIHITREVMbTRTRRCfwhERCKUhEhERChEfwRCCIDlRChEhEAkAkAkAkAkTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYByByByByByyYyYyYByBykvkvkvByByNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCHtHtHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYVZTAcVyJyJTAEpNorHNoEpTAoryJhERCTRTRHIHIHIHIHIHIRlJothUSiZynynynRCgqhEnzRCRCRCRCRCynynXlApiXhbApfwAkRlTRTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYByByByByByByByByyYByByBykvkvByByByNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCTRTRHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYPeTAiHyJyJNEyJNoNoNoyJNEyJyJfwRCTRRlHIHIHIHIHIHIRlJothUSiZMyJWUURCVUhEhERChECIRCfwApynApApONApApAhAkAkAkAkAkHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYByByBykvkvkvkvByByByByByBykvkvByByByNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYPenNojtrtJTAccToISmnyJTAraDlYpRCTRRlHIHIHIHIHIHIRlJothJoiZynhbApQshEhEhEQshElDRClDApONApJziXJWKaLKAkRlRlRlAkHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYTATATAdrdrdrdrdrdrdrdrdrkvByBykvkvkvkvByByNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYVZPeTAJwJwyJTAyJToISmnyJTATARCRCRCTRTRHIHIHIHIHIHIRlJoJoJoiZyniAApynApApApynApiAynJWUUynApTriXiXsJAkAkjAnnnnjfPAPAPAPAPAPAHIHIHIHIHIHIHIHIyYyYyYyYyYnNptyJkEdrSGSGSGIzclcldrkvkvkvkvkvkvByByByNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYVZVZTATATATATAyJToISmnyJTAlDhEhERCRlTRHIHIHIHIHIHIRlthJoJoiZynynynynyngRynynynynynynynynEEiXiXUSUSRlTRjAjAnnjfjAPAPAPAPAPAHIHIHIHIHIHIHIHIyYyYyYyYyYTAyJkEDUdrSGSGSGclclcldrkvkvkvkvByByByByNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYVZlLoaNoNoAGyJyJyJyJyJNEhEhEfwRCRlHIHIHIHIHIHIHITRthJoiZUSiZMyApApApAplFIUfhVqJRLyiXJxLyIriXUSUSTRTRjAjAnnjfjAPAPAPAPAPAHIHIHIHIHIHIHIHIyYyYyYyYyYTAkEkEkEdrSGSGSGIzclcldrkvkvkvByByByByNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYlLMiNotYTAEptryJMpEpTACIDlYpRCTRHIHIHIHIHIHIRlTRthJoynynMyynApROTrApjxLyLyLyLyLyiXgcLyPIiXsJiXAkRlnnjAjAjfjAPAPAPAPAPAHIHIHIHIHIHIHIHIyYyYyYyYyYdrdrkEdrdrSGSGGQTATAdrdrByByByByByByNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYlLlLlLlLTATATAyuTATATARChURCRCHIHIHIHIHIHIHIRlEVthJoynVFJzdOApROTrApjxjxjxjxLyfKiXjsLyZCiXLyBrAksRjAjAjAjfPAPAPAPAPAPAHIHIHIHIHIHIHIHIyYyYyYyYBydrkEkEkEdrSGGaGarvGwGwTAyYyYyYByNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYVZPeVZPeTAoryJorTAVZRlRlTRHIHIHIHIHIHIHIHITREVthJoynApApImApROTrApiriririrLyLyqGLyLyLyqGLyLyJkTRjAjAjAjAPAPAPAPAPAPAHIHIHIHIHIHIHIHIyYyYyYyYBydrkEkEDUdrSGGaGaGwGwGwTAyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYVZVZnNyJyJyJnNVZTRHIHIHIHIHIHIHIHIHIHITREVthhuONApApImApApApApApApApApLyLyiXZPLydCiXLyEeAkTRjAjAjAPAPAPAPAPAPAPAHIHIHIHIHIHIHIHIyYyYyYyYBydrkEkEkEdrGaGaGarvGwGwTAyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYVZTAEpyJOnTAPeHIHIHIHIHIHIHIHIHIHIHITRMbhuhuynJzApImApROTrPnApJzJzApjuLyiXZYLyFniXsJiXAkAkjfjAPAPAPAPAPAPAPAPAHIHIHIHIHIHIHIHIyYyYyYByBydrkEkEkETAGaGaVQTATATATAyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYTATAyuTATATRTRHIHIHIHIHIHIHIHIHIRlTRMbhuJoynTrUUtuApROTrPnApTrTrApLyWliXxjLyzHiXiZiZTRHIPAPAPAPAPAPAPAPAPAPAHIHIHIHIHIHIHIHIyYyYyYByBydrdrlbdrTAGaGaGarvGwGwTAyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYVZlzVZSWEVTRRlRlTRRlTRHIHIHIHIHIRlRlMbhuthynynMyynApROTrPnApBGBGApdKLyiXiXsJiXiXUSUSHIHIPAPAPAPAPAPAPAPAPAPAHIHIHIHIHIcxEVqYyYyYyYByBydrSGSGSGGaGaGaGaGwGwGwTAyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYVZTRTRTRTREVEVEVTRRlRlHIHIHIHITREVIchuthUSiZiZMyApApApApvAApApApLyLyiXiZiZiZDrDrDrHIHIPAPAPAPAPAPAPAPAPAPAHIHIHIHIHIcxEVqYyYyYyYByBydrSGSGSGGaGaGaGarvGwGwTAyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHITRTRTRTREVEVEVRlRlTRHITRTRRlIchuthUSiZiZynynynMyynynynynMyiXiXiXiZUSDrDrDrDrHIHIPAPAPAPAPAPAPAPAPAPAHIHIHIHITRcxEVqYyYyYyYByBydrSGSGSGGaGaGaVQTATATATAyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIHIHITRyYyYyYPeVZVZyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHITRTRTRTRTREVEVRlTRRlEVIchuJoiZiZUSiZiZUSiZDrDrDriZUSiZiZUSDrDrDrDrDrDrHIHIPAPAPAPAPAPAPAPAPAPAHIHIHIHITRcxEVqYyYyYyYyYBydrSGSGSGGaGaGaGarvGwGwTAyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHWmWmWmHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIHIHIHIHITRPeVZVZPePeyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHITRTRTREVEVTRTREVMbhuJoJoiZUSUSDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrDrHIHIPAPAPAPAPAPAPAPAPAPAHIHIHIHIRlcxEVqYVZyYyYyYBydrSGSGSGGaGaGaGaGwGwGwTAyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHWmHIHIHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIHIHIHIHITRyNwAfDfDyNHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHITRTREVTREVMbMbEVGVqfqfJUJUryryryryryryryryryryryryryryryryHIHIHIPAPAPAPAPAPAPAPAPAPAHIHIHITRRlcxEVqYPeyYyYyYBydrSGSGSGGaGaGaGarvGwGwTAyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHyYyYyYHIHIHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIHIHIHITRHIyNwALjwAyNRlRlHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIRlRlEVEVMbIcEVqfWDqfqfYgYgryryryryryryryryryryryryryryryHIHIHIPAPAPAPAPAPAPAPAPAPAHIHIHIRlTRcxEVcxPeVZyYyYBydrdrdrgDijijnNTATATATATAyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIHIHIHIHITRyNfDfDfDyNRlTRTRTRHIHIHIHIHITRTRTRRlRlHIHIHIHIHIHITRTREVEVIcTRIcMbWDJUGVqfqfqfJUJUryryryryryryryryryryryryryHIHIHIPAPAPAPAPAPAPAPAPAPAHIHITRTRTRcxEVcxRlRlTRkvBykvkvjIcLMbEVYylzVZyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHITRTRHIlClClClClClClC
-lClClClClClClCTRRlRlHIHIHITRTRHITRTRRlRlTRTRRlRlTRTRTRTRRlRlRlTRRlRlTRTRRlTRTRRlTRTREVEVEVIcTRTRXrIcXrRlTRIcMbEVEVEVTRRlRlTRTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHITRTRHIHIHITRTRTRRlTRRlcxEVcxRlRlRlTRftBykvkvkvMbEVRlTRVZyYVZVZPeyYyYyYVZPePePeVZVZyYyYVZVZVZyYVZPeVZVZyYyYVZVZPeyYyYyYVZRlRlRlRzTRlClClClClClClC
-lClClClClClClCTRTRRlRlTRTRTRTRTRTRTRTRTRTRTRTRTRTRRlRlRlRlTRTRTRTRTRTRTRTRRlTRTREVEVEVEVMbTRRlQEIcMbIcQERlTREVMbEVEVEVEVRlRlTRTRTRTRTRTRTRTRHIHIHITRTRTRTRTRTRTRTRTRTRTRTRTRTRTRTRcxcxcxTRRlRlTRTRTREVTREVEVMbTREVVZVZVZVZVZVZVZVZVZVZPeVZPePeVZVZSWVZVZVZVZVZSWVZVZVZVZVZVZVZVZVZVZVZRlEVEVTzlClClClClClClC
-lClClClClClClCEVEVEVEVEVTRTRRlRlEVEVEVTRRlEVEVEVEVEVEVEVEVEVTRTRRlRlRlRlEVEVMbMbMbMbWVmiSlIcUJIcIcIcIcMbmLEVMbIcIcMbIcEVEVMbMbMbMbEVEVEVTREVTRTRTRTREVEVEVTRTRRlRlEVTRTRRlRlEVEVEVTRRlEVEVTRTRMbMbEVEVEVEVMbMbEVMbTRPeSWSWSWVZPeSWSWSWPePeSWSWGaGaGaGaGaGaGaGaGaVZPePeSWSWSWVZPeSWSWSWEVEVGqJplClClClClClClC
-lClClClClClClCMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbBBylMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbIcIcIcIcMbMbEVMbMbIcbbIcIcEVMbMbMbIcIcIcIcIcMbMbMbMbMbMbylBBMbMbMbMbEVMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbEVMbMbMbMbMbMbGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaMbMbMbIVlClClClClClClC
-lClClClClClClCMbMbMbMbMbMbMbMbMbMbMbMbMbMbEVMbMbTRMbMbMbMbMbMbMbIcIcMbMbMbMbMbMbMbIcIcEVEVMbUJIcIcIcIcIcmLIcIcIcEVEVEVMbMbMbMbEVEVEVEVMbMbMbMbMbMbMbMbMbMbMbMbmGmGmGmGmGmGMbMbMbMbMbMbEVMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbGaGaSWGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaSWGaGaEVMbylJplClClClClClClC
-lClClClClClClCEVEVTRTRRlRlEVRlRlEVMbEVEVRlRlEVEVEVEVMbEVEVRlTREVIcMbIcEVRlTRRlRlEVEVEVMbMbRlRlQEIcGszQQSRlTRMbEVMbMbEVEVTRTRTRTRTREVEVEVEVEVEVEVEVMbMbMbEVRlEVBXBXBXBXhcBXRlRlEVEVEVRlRlTRTREVRlRlRlEVEVEVEVRlRlEVEVRlRlEVEVEVPePeVZVZSWPeVZVZPePeSWSWSWSWPePeSWSWPePePeSWSWSWPePeVZVZEVEVEVIVlClClClClClClC
-lClClClClClClCTRRlTRTRTRRlRlTRMbMbEVRlRlRlRlRlRlTRTRRlTRRlRlTRRlEVIcEVRlRlRlTRRlRlTREVEVEVIcRlTReGdHeGyzbzWIdHuMuMuMRlTRTRRlRlRlTRTRTRRlRluuuuWOWOqPLNqPWOWOWOWOWOWOWOWOWOTRTRRlTRcxcxcxTRRlTRTRRlRlRlTRTRTRTRRlRlTRTRHITRTRTRPePeVZPeVZVZVZPeVZPePeVZVZVZVZPePeVZVZVZyYVZVZVZPePeVZPePeTRTREVlClClClClClClC
-lClClClClClClCRlRlRlHIHIRlRlLWHEHEHEAkAkuEAkAkTRRlTRHITRTRTRTRTRWkhEtsTsRlTRTRTRRlTRTRRlMbEVIcTRWIdHdHbzWIuMuMuMbzyzRlxHBxBxBxBxBxBxBxHIHIgBuuuuWOWOLNqPWOWOWOgBgBgBWOWOgBTRTRRlRlcxEVcxRlRlTRTRHITRTRTRTRTRTRTRTRTRvWhTIQcGjyDmyYPePelLlLlLlLmeijlLlLyYVZVZyYyYVZyYyYyYyYyYyYyYyYPePeyYRlTRTRlClClClClClClC
-lClClClClClClCHIHIHIHIHIHITRLWifMbHEAkfwhECIAkRlRlHIHIHITRRlRCRChUOchURCRCAkAkAkAkAkAkTRRlEVEVMbuMWIWIuJvcdHuMyzbzyzHIBxBxBxBxBxBxBxBxHIHIgBgBWOWOLNqPWOuugBgBgBgBgBgBgBgBHITRTRRlcxEVcxTRRlTRHIVWVWVWMTVWVWVWMTVWVWVWVWqRVWMTVWHIyYyYlLwhwhwhXFGaazlLyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIHITRLWMbMbHEAkhEhEVUAkRlTRRlHIHITRRlRChZhEhEhEAyiCAkdNidcqjzAkHITRRlEVEVuMWIdHuMsMdHyzyzSFSFHIBxBxBxBxBxBxBxBxHIHIgBgBgBuuqPWOWOgBgBgBgBgBgBgBgBgBHITRTRRlcxEVcxTRRlHIHIVWTXCgVGeCVWeCeCeCHFVWIQIQECvuVWHIHIyYlLFeGaGaGaGaRhlLyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIHIHILWHEHEHEAklDhEpUAkTRVZVZPeyYyYVZnNJwyJyJhEhEiCAkMbMbMbjzAkHIHITRTREVdHWIdHuMdHbzbzSFSFSFHIBxBxBxBxBxBxBxBxHIHIgBgBgBWOqPuugBgBgBgBgBgBgBgBgBgBHIHITRTRcxEVcxTRTRHIHIVWIQIQIQIQVWIQkcIQIQZbIQIQIQppVWHIHIHIlLKGCXyenkGaSXlLyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIHIHIAkIcIcIcAkAkyulLlLlLlLlLlLyYyYVZTAyGyJyJJwhZhZAkAkuXAkAkAkHIHITRTRRldHWIdHdHyzbzSFSFSFSFHIBxBxBxBxBxBxBxBxHIHIgBgBWOqPWOgBgBgBgBgBgBgBgBgBgBgBHIHITRTRcxEVcxTRHIHIHIFETdTdTdTdZbIQIQIQIQVWIQIQIQdWVWHIHIHIlLlLlLlLmeijlLlLyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIHIHIAkIcIcIcIcNoNoNolLeTinAJlLyYyYPenNJwyJyJJwyJhEBohEhEhEKURCHIHIHITRRldHdHdHyzyzbzbzSFSFSFHIHIHIHIHIHIHIHIHIHIHITRRlEVTRRlHIHIHIHIHIHIHIHIHIHIHIHIHIRlcxcxEVcxTRHIyYyYFETdTdTdhwFEqOqOvfPMVWIQIQEChJVWTRHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIHIHIuEmiIcNoNoNoNoNoAGNoNoNolLPeyYVZTAJwyJyJyJyJtJTAlDfwzlTuRCHIHIHIRlRlMbMbMbRlRlRlRlTRHIHIHIHIHIHIHIHIHIHIHITRRlRlTRTRRlHIHIHIHIHIHIHIHIHIHIHIHIHIHITRcxEVEVcxHIHIyYyYFEFEHNFEFEFEFEFEFEFEVWMTqRVWVWVWTRHIHIoOgptFtFtFtFtFfOyYyYFEFEFEGZFEFEFEyYyYyYyYyYyYyYyYHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIHIHIAkAaAaAaNoNofSNolLSQNoMilLVZPeVZTAnNTAwfnNTATATATARCRCRCRCHIHIHIHIRlpieDeDQQQQPQQQPQPQRlTRHIHIHIHITRTRRlRlTRRCRCRChURCRCHIHIHIHIHIHIHIHIHIHIHIHIHITRcxEVcxcxHIyYyYyYyYyYVZVZVZVZVZVZVZmrxYFDTRxWkeTRTRHIHISfHIHIyYyYyYyYtqyYyYFETdTdTdTduAFEyYyYyYyYyYyYyYyYHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIHIHIAklLlLlLmelLlLlLlLlLlLlLlLVZVZVZVZVZVZPePeyYyYyYyYHIHIHIHIHIHIHIHIHIpieDeDQQQQQQPQPQPQTRTRTRRlRlTRTRTRTRRlTRRCwNhEzJOaRCHIHIHIHIHIHIHIHIHIHIHIHIHIHIcxEVcxHIHIyYyYyYyYVZVZVZPePePePePePePePeRlRlTRTRHIHIHISfHIHIyYyayayYtqyYyYGZTdTdTdTdLBFEyYyYyYyYyYyYyYyYHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYPeVZVZVZVZPeVZVZPeyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIpieDpiQQPQQQQQQQQQTRRChURCRChURCRChURCRlRCMfhEhEVURCHIHIHIHIHIHIHIHIHIHIHIHIHIcxcxEVcxHIHIyYyYyYyYyYVZPeYuYuYuYuPeYuYuPeYuRlRlTRTRHIHISfHIyYyayayayYtqyYyYFETdTdTdTdTdFEyYyYyYyYyYyYyYyYHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYPeVZyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIpieDpiPQPQPQUYUYUYRCRChEhEhEhEhEAyhERChURCCIDlhElDRCHIHIHIHIHIHIHIHIHIHIHIHIHIcxEVEVcxHIHIyYyYyYyYyYVZPePeyayayayayayayayayaRlTRTRTRHISfHIyYyYyaDnyYtqyYyYZETdTdTdTdTdGZyYyYyYyYyYyYyYyYHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHITReDeDpiPQUYcWUYAQILRCAyhEtSrOtSrOtSrOgqCIRCRCRCbvRCRCTiTiTiBLgOHIHIHIHIHIHIHIHIcxEVcxcxHIHIHIyYyYyYyYVZVZPeYuPeYuYuYuPePeYuYuPeRlTRTRHISfyYDnyYyYyYyYtqyYyYFETdTdTdTdTdFEyYyYyYyYyYyYyYyYHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHITReDeDpieDUYZZPSPSPSRChEhEtSrOtSrOtSrOhEhEhERCQyhEfYRCHIGWHIdLzjHIHIHIHIHIHIHIHIcxEVcxHIHIHIHIyYyYyYVZVZPePeYuYuYuYuYuYuYuYuYuPeTRTRHIHISfyYyYyYXgyYyYtqyYyYGZTdTdTdTdTdFEyYyYyYyYyYyYyYHIHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHITReDeDeDeDyIfRfRfRfRQsrOrOrOrOrOrOrOrOfexahEQshEhEhEQsRlTRTRHIzjHIHIHIHIHIHIHIcxcxEVcxHIHIHIHIyYyYyYVZVZPeyayayayayayayayayayaPeVZTRTRHIWgyYXgyYyYXgyYtqyYyYFETdTdStGuuAFEyYyYyYyYyYyYyYHIHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHITReDeDpieDUYPSPSPSPSRChEhEtSrOtSrOtSrOhEhEhERCHQwxCuRCRlRlTRWYzjHIHIHIHIHIHIcxcxEVEVcxHIHIHIHIyYyYVZVZVZVZPePeYuYuYuPePeYuPeYuPePeTRTRHIfWPaPaPaPaPaPaaUyYyYFEFEFEGZFEFEFEyYyYyYyYyYyYyYHIHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHITRpieDpiQQUYcWUYAQILRCgghEtSrOtSrOtSrOgqCIRCRCRChURCRCRlTRTRRlzjHIHIHIHIcxHIcxcxEVcxcxHIHIHIHIyYyYyYVZVZVZVZPePeYuPePeYuYuYuPePePeVZVZyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIlClClClClClClC
-lClClClClClClCTRTRHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIEVMbEVRlRlRlRCRCRCRCRChEhEhEhEhEgghERChURCRlRlRlTRGWTRTRTRGWzjHIHIcxHIHIcxcxcxcxcxHIHIHIHIHIyYyYyYyYVZVZPeyayayayayayayayayaPeVZVZVZyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIlClClClClClClC
-lClClClClClClCHtHtHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHITRRlMbEVRlRlTRTRHIRlTRRChURCbvRCbvRChURCTRKRTRRlTRTRTRTRRlRlTRzjHIHIHIcxcxcxcxHIHIHIcxcxHIHIHIyYyYyYyYVZVZVZPeYuYuYuYuPeYuYuYuVZVZVZyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYHIHIHIHIHIlClClClClClClC
-lClClClClClClCDhDhHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHITRRlEVEVRlRlHIHIHIHIRlRlTRRChEIJhERCTRRlRlGEHITRGWTRTRRlRlRlZczjHIHIHIHIcxcxHIcxcxHIHIHIHIHIyYyYyYyYyYyYVZVZVZPePePePePePePePeVZVZyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCHtHtHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHITRRlEVEVTRRlHIHIHIHIHIHIRlRCVUWfVURCTRHIHIGEHIHIRlTRTRRlHIHIHIzjHIHIHIHIHIHIHIHIcxHIcxHIHIHIyYyYyYyYyYyYyYVZVZVZVZVZVZVZVZVZVZVZyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCTRTRHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIRlEVEVTRHIHIHIHIHIHIHITRRChURChURCRlHIHIaDayayayayEKayEKayEKFHHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYVZVZVZVZVZVZVZyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIRlRlEVEVTRHIHIHIHIHIHIHIHIHIRlRlRlHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIRlRlEVEVTRRlHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIRlTREVEVRlRlHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIcxHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHITRTREVEVRlHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIcxcxHIHIHIHIcxHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHITRRlEVRlRlHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIqYqYyYqYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYTRTREVTRTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYqYqYyYqYqYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYTREVTRTRHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYqYqYqYyYqYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYVZVZVZyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYqYqYqYSWSWqYqYyYyYqYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYqYqYqYqYqYqYqYSWSWSWSWSWqYqYyYqYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCHIHIHIWmWmNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYSWSWSWSWSWSWSWSWSWSWqYqYqYqYqYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCHIWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYqYqYqYqYqYqYqYqYqYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHxUxUxUxUxUxUxUxUxUxUxUxUxUxUxUxUxUxUxUxUNHNHNHNHNHNHWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHxUxUxUxUxUxUxUxUxUxUxUxUxUxUxUxUxUxUxUxUxUNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYqYqYqYqYqYqYqYqYqYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYqYqYSWSWSWSWSWSWSWSWSWqYqYqYqYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYqYqYSWSWSWSWqYqYqYqYqYqYqYSWSWSWSWqYqYqYqYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYqYqYSWSWSWSWqYqYqYqYyYyYyYyYyYqYqYqYqYSWSWSWSWqYqYqYqYyYyYyYyYyYyYyYyYNHNHNHNHNHWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYqYqYSWSWSWSWqYqYqYqYyYyYyYyYyYyYyYyYyYyYyYqYqYqYqYSWSWSWSWqYqYqYyYyYyYyYyYyYNHNHNHNHNHWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYqYqYSWSWSWSWqYqYqYqYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYqYqYSWSWSWqYqYqYyYyYyYyYyYNHNHNHNHWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYqYqYSWSWSWSWqYqYqYqYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYqYSWSWSWqYqYyYyYyYyYyYNHNHNHWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYqYqYSWSWSWSWqYqYqYqYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYqYSWSWqYyYyYyYyYyYNHNHNHWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYqYqYSWSWSWSWqYqYqYqYVZPeyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYSWqYqYyYyYyYyYyYNHNHWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYqYqYSWSWSWSWqYqYqYqYyYVZSWVZPeyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYSWSWqYyYyYyYyYyYNHNHWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYqYqYSWSWSWSWqYqYqYqYyYyYyYyYVZSWSWPeVZPeyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYSWqYqYyYyYyYyYyYNHWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCWmWmWmWmWmyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYqYqYSWSWSWSWqYqYqYqYyYyYyYyYyYyYyYPeSWSWVZVZVZPeVZyYyYyYyYyYVZVZVZyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYSWSWqYyYyYyYyYyYyYWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCWmWmHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYqYqYSWSWSWSWqYqYqYqYyYyYyYyYyYyYyYyYyYyYPeSWSWVZPeynynynynynMyynynynynynPeyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYSWqYyYyYyYyYyYyYWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCWmHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYqYqYqYqYSWSWSWSWqYqYqYqYyYyYyYyYyYyYyYyYyYyYyYyYyYPeSWSWVZPeMyraUUynApraApynApraMyVZyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYSWqYqYyYyYyYyYyYHIWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCHIHIHIHIHIHIyYyYyYyYyYyYyYqYqYqYqYSWSWSWSWqYqYqYqYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYVZSWSWVZPeynBrApQsApApApQsApBrynPePeVZyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYSWSWqYyYyYyYyYyYHIHIWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCHIHIHIHIHIHIyYyYyYqYqYqYqYqYSWSWSWSWqYqYqYqYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYVZGaSWVZVZynhJApynApApJzynAphJynVZPePePeVZyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYSWqYyYyYyYyYyYHIHIHIWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCHITRRlRlTRcxqYqYqYqYSWSWSWSWSWqYqYqYqYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYVZGaSWVZVZynynynynccApTrynynynynynynyniXiXiXyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYSWqYqYyYyYyYyYHIHIHIHIWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCTRcxcxcxcxcxSWSWSWSWSWqYqYqYqYqYyYyYyYyYyYyYVZPeyYyYyYyYyYyYyYVZVZyYyYyYyYyYyYyYyYVZSWSWSWVZMyraUUynApApaPynApraynhJApynApTriXVZVZyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYqYSWSWqYyYyYyYyYHIHIHIHIHIHIWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCcxcxEVEVEVEVSWqYqYqYqYqYyYyYyYyYyYyYyYyYyYVZPePePeVZyYyYyYPePePePeVZyYyYyYyYyYyYyYVZSWGaSWVZynBrApQsApApApQsApBrynBrApQsApaPsJPeVZPeVZyYyYyYyYyYyYyYyYyYyYyYyYyYqYqYSWqYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCEVEVEVcxcxcxqYqYyYyYyYyYyYyYyYyYyYyYynynMyynynMyiXiXiXMyynynMyynynPeVZyYyYyYyYyYyYVZSWGaVZVZynhJApynJzApApynAphJynraUUynApApiXiXiXiXiXVZyYyYyYyYyYyYyYyYyYyYyYyYyYqYSWqYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCcxcxcxcxRlHIyYyYyYyYyYyYyYyYyYyYyYVZyncVApApynTrhurHhuTrynBrApApynVZVZyYyYyYyYyYyYPeSWGaPeVZynynynynTrApnzynynynynynynynccApiXBrAphJiXPeVZVZyYyYyYyYyYyYyYyYyYyYyYqYSWqYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCTRRlHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYPeynzJApApQsAphuhuhuApQsApAphJynVZPeyYyYyYyYyYyYPeSWGaPeVZMyraUUynaPApApynApraynhJApynApApQsApApiAiXlLlLlLlLyYyYyYyYyYyYyYyYyYyYqYSWqYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYPeMyojUUnzynccToISmnApynraUUfgynVZPeyYyYyYyYyYyYPeSWGaSWVZynBrApQsApApApQsApBrynBrApQsApJziXracWLKiXRlRlPelLHIyYyYyYyYyYyYyYyYyYqYSWqYyYyYyYyYHIHIynynynynynynynynynynynynHIWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYVZPeynJwJwApynApToISmnApynynynynynVZVZyYyYyYyYyYyYPeSWSWSWVZynhJApynApApApynAphJynraUUynApTriXiXsJiXiXTRRlRlAkHIHIyYyYyYyYyYyYyYyYqYSWqYyYyYyYyYHIHIMywNApApynthththrvGwGwynHIHIWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYVZVZynynynynynApToISmnApynBrApApynPeVZyYyYyYyYyYyYPeGaSWSWTRynynynynynevynynynynynynynynyNiXiXRlRlRlTRTRTRRlAkTRHIHIHIHIHIHIHIHIHIcxSWqYyYyYyYyYHIHIynApApnzynthththGwGwGwynHIHIWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYVZiXoahuhuAGApApApApApQsApAphJynPeyYyYyYyYyYyYyYTRMbEVTRRlTRMyApApApApDtrSolPSHQLyiXwxLyLjiXRlRlTRTRTRTRRlAkTRHIHIHIHIHIHIHIHIHIcxEVqYyYyYyYyYHIHIynApApApynthththrvGwGwynHIHIWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYiXMihutYynTrUUApMpTrynraUUfgynVZyYyYyYyYyYHIRlTRMbEVynynMyynAptSTrApdWLyLyLyLyLyiXSQLyKeiXsJiXiXRlRlTRTRAkTRHIHIHIHIHIHIHIHIHIcxEVcxyYyYyYyYHIHIynynApynynththVQynynynynHIHIHIWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYiXiXiXiXynynynevynynynynMyynynHIHIHIHIHIHIHIRlEVMbEVynEJJzIBAptSTrApdWdWdWdWLyAQiXppLyGsiXLyTXiXsRTRTRTRAkHIHIHIHIHIHIHIHIHIHIcxEVcxHIyYyYyYHIHIynApApApynthththrvGwGwynHIHIHIHIWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCDhDhHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYVZPeVZPeynBrApBrynVZPePeVZyYHIHIHIHIHIHIHITREVMbEVynApApImAptSTrAppdpdpdpdLyLyJkLyLyLyJkLyLyJkTRTRTRTRTRHIHIHIHIHIHIHIHIHIHIcxEVcxHIHIyYyYHIHIynApApnzynthththGwGwGwynHIHIHIHIHIWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCDhDhHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYVZVZMyApApApMyVZVZyYyYHIHIHIHIHIHIHIHITREVMbIcQsApApImApApApApApApApApLyLyiXxkLyJeiXLyfeiXTRTRTRTRHIHIHIHIHIHIHIHIHIHIHIcxEVcxHIyYyYyYHIHIynApApApynthththrvGwGwynHIHIHIHIHIHIHIWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCDhDhHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYVZynTrApOnynPeyYyYHIHIHIHIHIHIHIHIHITRMbIcIcynJzApImAptSTrlbApJzJzApECLyiXZYLyFniXsJiXiXAkAkTRHIHIHIHIHIHIHIHIHIHIHIHIcxEVcxHIyYyYyYHIHIynApApApynththVQynynynynHIHIHIHIHIHIHIHIWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYynynevynynVZVZyYHIHIHIHIHIHIHIHIRlTRMbIcEVynTrUUtuAptSTrlbApTrTrApLywfiXxjLyzHiXTRTRTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIcxEVcxcxyYyYyYHIHIynynevynynthththrvGwGwynHIHIHIHIHIHIHIHIHIHIWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYVZlzVZSWSWVZPeRlTRRlTRHIHIHIHIHIRlRlMbIcMbynynMyynAptSTrlbApaPaPApuKLyiXiXsJiXiXRlRlHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIcxEVEVcxyYyYyYHIHIynthththththththGwGwGwynHIHIHIHIHIHIHIHIHIHIHIWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYVZVZVZVZVZSWEVEVTRRlRlHIHIHIHITREVIcIcMbRlTRTRMyApApApApvAApApApLyLyiXTRTRTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIcxcxEVcxyYyYyYyYyYynthththththththrvGwGwynByByByByByByByByByyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmHIlClClClClClClC
+lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYVZVZTRTREVEVEVRlRlTRHITRTRRlIcIcMbRlTRTRynynynMyynynynynMyiXiXiXTRRlHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHITRcxEVcxyYyYyYyYyYynththththththVQynynynynByByByByByByByByyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmHIHIlClClClClClClC
+lClClClClClClCHIHIHIHIHIyYyYyYyYyYyYPeVZVZyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHITRTRTRTRTREVEVRlTRRlEVIcIcEVTRTRRlTRTRRlTRHIHIHITRRlTRTRRlHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHITRcxEVcxyYyYyYyYyYynthththththththrvGwGwynByByByByByByByyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHNHNHWmWmWmHIHIHIlClClClClClClC
+lClClClClClClCHIHIHIHIHIyYyYyYyYVZPeVZVZPePeyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHITRTRTREVEVTRTREVMbIcEVEVTRRlRlHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIRlcxEVcxVZyYyYyYyYynthththththththGwGwGwynByByByByByByyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHNHNHNHNHNHWmHIHIHIHIHIlClClClClClClC
+lClClClClClClCHIHIHIHIHIyYyYyYPePeEedCWYWYEePeyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHITRTREVTREVMbMbEVIcEVEVTRTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHITRRlcxEVcxPeyYyYyYByynthththththththrvGwGwynyYyYyYByyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYNHNHNHNHyYyYHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCHIHIHIHIHIyYyYyYPeVZEedCModCEePePeyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIRlRlEVEVMbIcEVEVMbEVEVRlRlHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIRlTRcxEVcxPeVZyYyYByynynynMyijijMyynynynynynyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCHIHIHIHIHIyYyYyYVZVZEeWYWYWYEePeVZVZVZyYyYyYyYyYVZVZVZPePeHIHIHIHIHIHITRTREVEVIcTRIcMbMbTRIcEVEVEVTRTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHITRTRTRcxEVcxPePeVZVZBykvkvjIcLSGSWYylzVZyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHITRTRHIlClClClClClClC
+lClClClClClClCHIRlRlHIHIyYVZVZyYVZVZPePeVZVZPePeVZVZVZVZPePePeVZPePeVZVZRlTRTRRlTRTREVEVEVIcTRTRXrIcXrRlTRIcMbEVEVEVTRRlRlTRTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHITRTRHIHIHITRTRTRRlTRRlcxcxcxPePePekvftBykvkvkvGaSWPeVZVZyYVZVZPeyYyYyYVZPePePeVZVZyYyYVZVZVZyYVZPeVZVZyYyYVZVZPeyYyYyYTRRlRlRlRzTRlClClClClClClC
+lClClClClClClCRlTRRlRlTRVZVZVZVZVZVZVZVZVZVZVZVZVZPePePePeVZVZVZVZVZVZTRTRRlTRTREVEVEVEVMbTRRlQEIcMbIcQERlTREVMbEVEVEVEVRlRlTRTRTRTRTRTRTRTRHIHIHITRTRTRTRTRTRTRTRTRTRTRTRTRTRTRTRRlfDRlVZPePekvkvkvgtkvgtSWGaVZSWVZVZVZVZVZVZVZVZVZVZPeVZPePeVZVZSWVZVZVZVZVZSWVZVZVZVZVZVZVZVZVZTRTRRlEVEVTzlClClClClClClC
+lClClClClClClCRlEVEVEVEVVZVZPePeSWSWSWVZPeSWSWSWSWSWSWSWSWSWVZVZPePeRlRlEVEVMbMbMbMbWVmiSlIcUJIcIcIcIcMbJREVMbIcIcMbIcEVEVMbMbMbMbEVEVEVTREVTRTRTRTREVEVEVTRTRRlRlEVTRTRRlRlEVEVEVTRfDSWSWVZVZSGSGgtgtgtgtGaGaSWGaVZPeSWSWSWVZPeSWSWSWPePeSWSWGaGaGaGaGaGaGaGaGaVZPePeSWSWSWVZPeSWEVEVEVEVGqJplClClClClClClC
+lClClClClClClCMbMbMbMbMbMbGaGaGaGaGaGaGaGaGaDUmLGaGaGaGaGaGaGaGaMbMbMbMbMbMbMbIcIcIcIcMbMbEVMbMbIcWhIcIcEVMbMbMbIcIcIcIcIcMbMbMbMbMbMbylBBMbMbMbMbEVMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbgcGaGaGaGaSGSGSGSGSGSGSWGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaMbMbMbMbMbBIlClClClClClClC
+lClClClClClClCMbMbMbMbMbMbMbGaGaGaGaGaGaGaSWGaGaVZGaGaGaGaMbMbMbIcIcMbMbMbMbMbMbMbIcIcEVEVMbUJIcIcIcIcIcJRIcIcIcEVEVEVMbMbMbMbEVEVEVEVMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbMbgcSWGaGaGaSGSGSGSGSGSGGaGaGaGaGaGaGaGaGaGaGaSWGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaSWMbMbEVMbylBBlClClClClClClC
+lClClClClClClCRlEVTRTRRlRlEVRlPeSWGaSWSWPePeSWSWSWSWGaEVEVRlTREVIcMbIcEVRlTRRlRlEVEVEVMbMbRlRlQEIcIcMbZPRlTRMbEVMbMbEVEVTRTRTRTRTREVEVEVEVEVEVEVEVMbMbMbEVRlEVRlRlRlRlEVRlRlRlEVEVEVfDPeVZVZSWPeftftgtgtgtSWPePeSWSWPePeSWSWSWPePeVZVZSWPeVZVZPePeSWSWSWSWPePeSWSWPePePeSWSWSWPePeTRTREVEVEVIVlClClClClClClC
+lClClClClClClCTRRlTRTRTRRlRlTRMbMbSWPePePePePePeTRTRRlTRRlRlTRRlEVIcEVRlRlRlTRRlRlTREVEVEVIcRlTRmGMbmGRlTRIcMbEVEVEVRlTRTRRlRlRlTRTRTRRlRlRlRlTRTREVMbEVTRTRTRTRTRTRTRTRTRTRTRRlTRTRwAPePeVZVZVZftftftkvkvVZVZPePeVZVZyYVZVZVZPePeVZPeVZVZVZPeVZPePeVZVZVZVZPePeVZVZVZyYVZVZVZPePeTRRlRlTRTREVlClClClClClClC
+lClClClClClClCRlRlRlHIHIRlRlLWHEHEHEiXiXsJiXiXTRRlTRHITRTRTRTRTRWkhEtsTsRlTRTRTRRlTRTRRlMbEVIcTRIcMbMbTRIcEVEVEVTRRlRlRlHIHIHIHIHIHIHIHIHIHIRlRlTRTRMbEVTRTRTRHIHIHITRTRHITRTRRlRlcxcxqYPePeVZVZBykvkvkvkvVZVZVZVZVZfSSfTdWlVGgOyYPePeiXiXiXiXsJijiXiXyYVZVZyYyYVZyYyYyYyYyYyYyYyYPeRlHIRlTRTRlClClClClClClC
+lClClClClClClCHIHIHIHIHIHITRLWifMbHEiXhJApraiXRlRlHIHIHITRRlynynMyOcMyynyniXiXiXiXiXiXTRRlEVEVMbEVIcIcWEcTMbEVRlTRRlHIHIHIHIHIHIHIHIHIHIHIHIHITRTRMbEVTRRlHIHIHIHIHIHIHIHIHITRTRRlcxEVcxVZPeVZyYjujujuKajujujuKajujujujuqRjuKajuyYyYyYiXwhwhwhXFthaziXyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIlClClClClClClC
+lClClClClClClCHIHIHIHIHIHITRLWMbMbHEiXApApaPiXRlTRRlHIHITRRlynJwApApApAyiCiXdNidcqjziXHITRRlEVEVEVIcMbEVKhMbRlRlHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIRlEVTRTRHIHIHIHIHIHIHIHIHIHITRTRRlcxEVcxTRRlHIHIjuONRGIlZCjuZCZCZCAXjusMsMGbqejuHIyYyYiXFeththththidiXyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIlClClClClClClC
+lClClClClClClCHIHIHIHIHIHIHILWHEHEHEiXBrAppUiXTRTRTRRlHIHITRMyJwApApApApiCiXthththjziXHIHITRTREVMbIcMbEVMbTRTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHITREVRlHIHIHIHIHIHIHIHIHIHIHIHITRTRcxEVcxTRTRHIHIjusMsMsMsMjusMkcsMsMZEsMsMsMfKjuHIyYyYiXKGCXyenkthSXiXyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIlClClClClClClC
+lClClClClClClCHIHIHIHIHIHIHIiXhuhuhuiXiXeviXiXiXiXiXiXHIHITRynBDApApJwJwJwiXiXuXiXiXiXHIHITRTRRlMbIcMbMbRlTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHITREVTRHIHIHIHIHIHIHIHIHIHIHIHIHITRTRcxEVcxTRHIHIHIjusMsMsMsMZEsMsMsMsMjusMsMsMXYjuHIyYyYiXiXiXiXsJijiXiXyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIlClClClClClClC
+lClClClClClClCHIHIHIHIHIHIHIiXhuhuhuhuhuhuhuiXEETMgAiXHIHIRlMyJwApApJwApApBoApApApJzynHIHIHITRRlMbMbMbRlRlTRTRHIHIHIHIHIHIHIHIHIHIHIHIHIHITRRlEVTRRlHIHIHIHIHIHIHIHIHIHIHIHIHIRlcxcxEVcxTRHIHIHIjusMsMsMXMjuXHXHvfLBjusMsMGbSjjuTRyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIlClClClClClClC
+lClClClClClClCHIHIHIHIHIHIHIsJdHhuhuhuhuhuhuAGhuhuhuiXRlHITRynJwApApApApnzynBrhJzlTuynHIHIHIRlRlMbMbMbRlRlRlRlTRHIHIHIHIHIHIHIHIHIHIHITRRlRlTRTRRlHIHIHIHIHIHIHIHIHIHIHIHIHITRRlcxEVEVcxTRHIHIHIjujuqRjujujujujujujujuKaqRjujujuTRyYyYZZtFtFtFtFtFtFfOyYyYjujujuGZjujujuyYyYyYyYyYyYyYHIHIHIHIlClClClClClClC
+lClClClClClClCHIHIHIHIHIHIHIiXdHdHdHhuhuUDhuiXdOhuMiiXTRRlTRynMyynOcMyynynynynynynynynHIHIHIHIRlEVMbMbTRTRRlTRRlRlRlTRHIHIHIHITRTRRlRlTRynynynMyynynHIHIHIHIHIHIHIHIHIHIHIHITRTRcxEVcxcxTRHIHIHIHIHITRTRTRTRTRTRTRhTPGFDTRxWuJTRTRyYyYWgyYyYyYyYyYyYtqyYyYjusMsMsMsMuAjuyYyYyYyYyYyYyYHIHIHIHIlClClClClClClC
+lClClClClClClCHIHIHIHIHIHIHIiXiXiXiXsJiXiXiXiXiXiXiXiXTRTRTRTRTRTRRlRlHIHIHIHIHIHIHIHIHIHIHIHIHIEVMbMbTRTRTRRlRlRlTRTRTRRlRlTRTRTRTRRlTRynwNApzJOaynHIHIHIHIHIHIHIHIHIHIHIHITRTRcxEVcxTRHIHIHIHIHITRTRTRRlRlRlRlRlRlRlRlRlRlTRTRHIyYyYWgyYyYyYyayayYtqyYyYGZsMsMsMsMLBjuyYyYyYyYyYyYyYHIHIHIHIlClClClClClClC
+lClClClClClClCHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIRlTRTRTRTRRlTRTRRlHIHIHIHIHIHIHIHIHIHIHIHIHIHIRlEVMbEVTRRlTRTRTRTRTRynMyynynMyynynMyynRlynccApApaPynHIHIHIHIHIHIHIHIHIHIHIRlTRcxcxEVcxTRHIHIHIHIHIHITRRlHFHFHFHFRlHFHFRlHFRlRlTRTRyYyYWgyYyYyayayayYtqyYyYjusMsMsMsMsMjuyYyYyYyYyYyYyYyYHIHIHIlClClClClClClC
+lClClClClClClCHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIRlTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIRlEVMbEVRlRlRlynynynynynApApApApApAyApynMyynraUUApBrynHIHIHIHIHIHIHIHIHIHIHIRlRlcxEVEVcxTRHIHIHIHIHIHITRRlRlvWvWvWvWvWvWvWvWvWRlTRTRVZyYWgyYyYyYyaDnyYtqyYyYZEsMsMsMsMsMGZyYyYyYyYyYyYyYyYHIHIHIlClClClClClClC
+lClClClClClClCHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIRlTRMbMbEVRlynMyynTrraynAyAptSjstSjstSjsTrraynynynevynynqPqPqPjfAaHIHIHIHIHIRlTRTRcxEVcxcxHIHIHIHIHIHIHITRTRRlHFRlHFHFHFRlRlHFHFRlRlTRVZyYWgyYDnyYyYyYyYtqyYyYjusMsMsMsMsMjuyYyYyYyYyYyYyYyYHIHIHIlClClClClClClC
+lClClClClClClCHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIRlTRTREVEVMbEVMbynccApApApynApAptSjstSjstSjsApApApyncVApjkynHIGWHIgRzjHIHIHIHITRRlTRTRcxEVcxTRHIHIHIHIHIHITRTRRlRlHFHFHFHFHFHFHFHFHFRlTRTRHIyYWgyYyYyYXgyYyYtqyYyYGZsMsMsMsMsMjuyYyYyYyYyYyYyYyYHIHIHIlClClClClClClC
+lClClClClClClCHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYHIHIHIHIHIHIHIHIHITRTRHIHIRlRlHITRRlEVEVEVEVMbMbMbMbQsjsjsjsjsQsjsjsjsjsjsjsjsjsyxxaApQsApApApQsRlTRTRHIzjHIHIHIHIRlRlTRcxcxEVcxTRHIHIHIHIHIHITRTRRlvWvWvWvWvWvWvWvWvWvWRlTRTRTRHIWgyYXgyYyYXgyYtqyYyYjusMsMStGuuAjuyYyYyYyYyYyYyYyYHIHIHIlClClClClClClC
+lClClClClClClCHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYHIHIHIHIHIHIHIRliXiXiXsJiXiXiXTRTRWkhEtsMbRlMbMbEVMbynApApApApynApAptSjstSjstSjsApApApynfRhwAhynRlRlTRvuzjHIHITRTRTRTRcxcxEVEVcxTRHIHIHIHIHITRTRTRTRRlRlHFHFHFRlRlHFRlHFRlRlTRTRHIfWPaPaPaPaPaPaaUyYyYjujujuGZjujujuyYyYyYyYyYyYyYyYHIHIHIlClClClClClClC
+lClClClClClClCHITRHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYHIHIHIHIHIHIRlRliXPIinhuhuBGiXynMyynevynynRlEVMbEVTRynMyynTrraynvAAptSjstSjstSjsTrraynynynMyynynRlTRTRRlPnHITRTRTRcxTRcxcxEVcxcxHIHIHIHIHIHIHITRTRTRTRRlRlHFRlRlHFHFHFRlRlRlTRTRHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIlClClClClClClC
+lClClClClClClCTRTRTRTRHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYHIHIHIHIHIynynyniXfhhueThuyIiXdLJwApApTrynTREVMbEVRlRlRlynynynynynApApApApApvAApynMyynRlRlRlTRGWTRTRTRGWPnTRTRcxTRTRcxcxcxcxcxTRHITRHIHIHIHIHIHITRTRRlvWvWvWvWvWvWvWvWvWRlTRTRTRHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIlClClClClClClC
+lClClClClClClCcxcxcxcxTRRlTRTRyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIynhJBriXZxhuAwhuIriXcWJwApApdxynTREVMbEVRlRlTRTRTRRlTRynMyynevynevynMyynTRKRTRRlTRTRTRTRRlRlTRPnTRTRRlcxcxcxcxTRTRRlcxcxRlTRHIHIHIHIHITRTRTRRlHFHFHFHFRlHFHFHFTRTRTRHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIlClClClClClClC
+lClClClClClClCEVEVEVcxcxcxcxcxVZVZyYyYyYyYyYyYyYyYyYHIHIHIHIHIMyApApiXqLhuJKhubWiXApJwApAplbMyTREVEVEVRlRlTRTRTRTRRlRlTRynApIJApynTRRlRlGEHITRGWTRTRRlRlRlZcPnTRTRRlRlcxcxTRcxcxTRTRRlTRHIHIHIHIHIHIHITRTRTRRlRlRlRlRlRlRlRlTRTRHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIlClClClClClClC
+lClClClClClClCcxcxEVEVEVEVcxcxqYqYVZVZPePeyYyYyYyYyYHIHIHIHIHIyngLUUAGhuhuhuhuTZAGApvAApApTrynTRRlEVEVTRRlTRTRHIHIHITRRlynaPWfaPynTRHIHIGEHIHIRlTRTRRlHIHIHIzjTRTRTRTRTRRlRlTRcxTRcxTRTRHIHIHIHIHIHIHIHITRTRTRTRTRTRTRTRTRTRTRHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIlClClClClClClC
+lClClClClClClCRlcxcxcxcxEVEVSWSWqYqYqYqYPePePeVZyYyYHIHIHIHIHIynynyniXiXiXsJqGiXiXynynevynynynTRRlEVEVTRTRTRHIHIHIHIHITRynMyynMyynRlHIHIaDayayayayEKayEKayEKFHHITRTRTRTRTRTRRlRlTRTRTRTRTRHIHIHIHIHIHIHIHIHITRTRTRTRTRTRTRHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIlClClClClClClC
+lClClClClClClCHITRTRTRcxcxcxqYSWSWSWSWqYqYqYqYqYVZVZTRHIRlRlHIHIHIHIAkOtOtvzTRRlynTrJzApJzTrynRlRlEVEVTRTRTRHIHIHIHIHIHIHIRlRlRlHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHITRRlRlTRTRTRTRTRTRTRRlTRTRRlHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIlClClClClClClC
+lClClClClClClCWmWmHIHITRTRRlqYqYqYqYSWSWSWSWqYqYqYqYcxTRRlRlRlHIHIHIAkTRRlRlTRTRQsApApApApxhynRlTREVEVTRRlHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHITRRlTRTRTRTRRlRlTRTRTRTRTRTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmHIyYVZVZVZqYqYqYqYSWSWSWSWqYcxcxcxRlTRTRHIHIHIHITRTRTRTRynBrAqApAqBrynRlEVEVEVRlRlHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIcxTRTRTRTRRlRlRlTRTRTRTRTRTRTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmWmyYyYyYyYVZVZVZqYqYqYqYSWSWEVEVcxcxcxcxTRTRTRHIHIRlTRRlynynynMyynynynTREVEVEVRlHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIcxcxTRRlRlTRcxTRRlTRTRTRTRHIHITRRlTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmWmNHyYyYyYyYyYyYVZVZVZqYqYqYcxEVEVEVEVcxcxcxcxTRTRTRRlTRTRTRTRRlRlRlEVEVEVEVRlRlHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHITRcxcxRlcxTRTRRlTRTRHIHIHIHIHIHIRlRlHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmWmNHNHyYyYyYyYyYyYyYyYVZVZPecxcxcxcxEVEVEVEVcxcxcxcxTRTRTRTRTRTRTRRlRlRlEVEVTRTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHITRTRcxcxTRcxcxRlTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIlClClClClClClC
+lClClClClClClCHtHtWmWmWmWmNHNHNHyYyYyYyYyYyYyYyYPePeRlTRTRcxcxcxcxEVEVEVEVcxcxcxcxRlRlTRTRTRTRRlTREVTRTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHITRTRRlRlTRcxcxcxcxcxTRcxHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYHIHIHIHIHIlClClClClClClC
+lClClClClClClCHtHtWmWmWmNHNHNHNHNHNHyYyYyYyYyYyYyYyYHIHIHITRTRTRcxcxcxcxEVEVEVEVcxcxcxcxRlRlTRTRTRTRTRHIHIHIHIHIHIHIHIHIHIHIHIHIHITRRlRlRlRlRlRlTRTRcxcxcxcxcxEVcxcxcxTRTRcxHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCHtHtWmWmWmNHNHNHNHNHNHNHNHyYyYyYyYyYyYHIHIHIHIHIRlRlTRTRcxcxcxcxEVEVEVEVcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxEVEVEVEVEVcxRlTRcxHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHyYyYyYHIHIHIHIHIHIHIHIHITRRlTRcxcxcxcxEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVEVcxcxcxcxcxTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHyYyYHIHIHIHIHIHIHIHIHIHIHIHITRTRTRcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxcxRlRlRlTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmHIHIHIHIHIHIHIHIHIHIHIHIHIHIHITRTRTRRlRlRlTRTRTRHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHITRTRTRTRTRTRTRTRRlRlHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIWmWmWmWmWmWmWmWmWmWmWmWmHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYNHNHWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
 lClClClClClClCWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
 lClClClClClClCWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
 lClClClClClClCWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
 lClClClClClClCWmWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCWmWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCWmWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCWmWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYyYyYyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHyYyYyYHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHHIHIHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
+lClClClClClClCWmWmWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmHIHIHIHIHIHIHIHIHIHIHIlClClClClClClC
 lClClClClClClCWmWmWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmHIHIHIHIHIHIHIHIlClClClClClClC
-lClClClClClClCWmWmWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmHIHIHIHIHIHIHIlClClClClClClC
 lClClClClClClCWmWmWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmWmWmHIHIHIHIHIlClClClClClClC
 lClClClClClClCWmWmWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmWmWmWmHIHIHIHIlClClClClClClC
 lClClClClClClCWmWmWmWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmWmWmWmHIHIHIHIlClClClClClClC
@@ -537,7 +408,7 @@ lClClClClClClCWmWmWmWmWmWmWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNH
 lClClClClClClCWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
 lClClClClClClCWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
 lClClClClClClCWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHNHWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
-lClClClClClClCWmWmBIWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmNHNHNHNHNHWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
+lClClClClClClCWmWmIQWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmNHNHNHNHNHWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
 lClClClClClClCWmlEWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
 lClClClClClClCWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmlClClClClClClC
 lClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClClC
