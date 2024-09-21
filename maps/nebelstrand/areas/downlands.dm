@@ -15,6 +15,28 @@
 	interior_ambient_light_modifier = -0.3 // night is pitch-black on the porch
 	sound_env = FOREST
 
+/area/nebelstrand/tavern
+	name = "\improper Tavern"
+	fishing_failure_prob = 100
+	fishing_results = list()
+	sound_env = ROOM
+
+/area/nebelstrand/tavern/porch
+	name = "\improper Tavern Porch"
+	interior_ambient_light_modifier = -0.3 // night is pitch-black on the porch
+	sound_env = FOREST
+
+/area/nebelstrand/apothecary
+	name = "\improper Apothecary"
+	fishing_failure_prob = 100
+	fishing_results = list()
+	sound_env = ROOM
+
+/area/nebelstrand/apothecary/porch
+	name = "\improper Apothecary Porch"
+	interior_ambient_light_modifier = -0.3 // night is pitch-black on the porch
+	sound_env = FOREST
+
 /area/nebelstrand/stable
 	name = "\improper Stable"
 	fishing_failure_prob = 100
@@ -38,8 +60,20 @@
 	fishing_results = list()
 	sound_env = ROOM
 
-/area/nebelstrand/storehouse
-	name = "\improper Storehouse"
+/area/nebelstrand/blacksmith
+	name = "\improper Blacksmith"
+	fishing_failure_prob = 100
+	fishing_results = list()
+	sound_env = ROOM
+
+/area/nebelstrand/blacksmith
+	name = "\improper Blacksmith"
+	fishing_failure_prob = 100
+	fishing_results = list()
+	sound_env = ROOM
+
+/area/nebelstrand/miners_quarters
+	name = "\improper Miners Quarters"
 	fishing_failure_prob = 100
 	fishing_results = list()
 	sound_env = ROOM
@@ -55,15 +89,11 @@
 	interior_ambient_light_modifier = -0.3 // night is pitch-black on the porch
 	sound_env = FOREST
 
-/area/nebelstrand/shrine
-	name = "\improper Shrine"
+/area/nebelstrand/church
+	name = "\improper Church"
 	fishing_failure_prob = 100
 	fishing_results = list()
-	area_flags = AREA_FLAG_HOLY
 	sound_env = ROOM
-
-/area/nebelstrand/outside/shrine
-	name = "\improper Shrine Grounds"
 
 /area/nebelstrand/caves
 	name = "\improper Deep Tunnels"

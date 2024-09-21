@@ -1,20 +1,20 @@
-/decl/department/nebelstrand/shrine
-	name          = "Shrine Attendants"
+/decl/department/nebelstrand/church
+	name          = "Acolytes"
 	colour        = "#404e68"
 	display_color = "#8c96c4"
 
-/datum/job/nebelstrand/shrine
-	abstract_type    = /datum/job/nebelstrand/shrine
-	department_types = list(/decl/department/nebelstrand/shrine)
+/datum/job/nebelstrand/church
+	abstract_type    = /datum/job/nebelstrand/church
+	department_types = list(/decl/department/nebelstrand/church)
 	skill_points     = 20
 	lock_keys     = list(
-		"shrine"  = /decl/material/solid/metal/copper
+		"church"  = /decl/material/solid/metal/copper
 	)
 
-/datum/job/nebelstrand/shrine/keeper
-	title                   = "Shrine Keeper"
+/datum/job/nebelstrand/church/priest
+	title                   = "Priest"
 	supervisors             = "your vows, and your faith"
-	description             = "You are the leader of the local religious order, living and working within the shrine. You are expected to see to both the spiritual and physical health of the populace, as well as travellers, if they can offer appropriate tithe."
+	description             = "You are the leader of the local religious order, living and working within the church. You are expected to see to both the spiritual and physical health of the populace, as well as travellers, if they can offer appropriate tithe."
 	spawn_positions         = 1
 	total_positions         = 1
 	outfit_type             = /decl/outfit/job/nebelstrand/shrine/keeper
@@ -35,13 +35,13 @@
 	)
 	skill_points            = 24
 
-/obj/abstract/landmark/start/nebelstrand/shrine_keeper
-	name                    = "Shrine Keeper"
+/obj/abstract/landmark/start/nebelstrand/priest
+	name                    = "Priest"
 
-/datum/job/nebelstrand/shrine/attendant
-	title                   = "Shrine Attendant"
-	supervisors             = "the Shrine Keeper, your vows, and your faith"
-	description             = "You are an acolyte of the local religious order, living and working within the shrine. Under the direction of the shrine keeper, you are expected to tend to the shrine and the grounds, and to produce food or other goods for use or trade to support the clergy."
+/datum/job/nebelstrand/church/acolyte
+	title                   = "Acolyte"
+	supervisors             = "the Priest, your vows, and your faith"
+	description             = "You are an acolyte of the local religious order, living and working within the church. Under the direction of the priest, you are expected to tend to the church and the grounds, and to produce food or other goods for use or trade to support the clergy."
 	spawn_positions         = 2
 	total_positions         = 2
 	outfit_type             = /decl/outfit/job/nebelstrand/shrine
@@ -62,5 +62,5 @@
 		SKILL_ANATOMY       = SKILL_EXPERT,
 	)
 
-/obj/abstract/landmark/start/nebelstrand/shrine_attendant
-	name                    = "Shrine Attendant"
+/obj/abstract/landmark/start/nebelstrand/acolyte
+	name                    = "Acolyte"

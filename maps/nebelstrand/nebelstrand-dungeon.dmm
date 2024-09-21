@@ -357,6 +357,9 @@
 /obj/structure/reagent_dispensers/barrel/ebony,
 /turf/floor/natural/path/running_bond/basalt,
 /area/nebelstrand/caves/dungeon/poi)
+"yz" = (
+/turf/floor/natural/path/granite,
+/area/nebelstrand/caves/dungeon/poi)
 "yM" = (
 /obj/structure/table/woodentable/ebony,
 /obj/item/tool/pickaxe/iron,
@@ -620,7 +623,6 @@
 /area/nebelstrand/caves/dungeon/poi)
 "SX" = (
 /obj/structure/door/ebony,
-/obj/abstract/landmark/lock_preset/nebelstrand/shrine,
 /turf/floor/natural/mud,
 /area/nebelstrand/caves/dungeon)
 "TA" = (
@@ -14414,7 +14416,7 @@ bD
 bD
 bD
 bD
-bD
+yz
 yM
 it
 bD

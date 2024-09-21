@@ -17,8 +17,17 @@
 		/datum/job/nebelstrand/market/miner,
 		/datum/job/nebelstrand/market/herbalist,
 		/datum/job/nebelstrand/market/forester,
+		/datum/job/nebelstrand/market/blacksmith,
+		/datum/job/nebelstrand/market/trader,
 		/datum/job/nebelstrand/fogfinders/mistseer,
-		/datum/job/nebelstrand/fogfinders/fogfinder
+		/datum/job/nebelstrand/fogfinders/fogfinder,
+		/datum/job/nebelstrand/tavern/tavernkeeper,
+		/datum/job/nebelstrand/tavern/tavern_worker,
+		/datum/job/nebelstrand/church/priest,
+		/datum/job/nebelstrand/church/acolyte,
+		/datum/job/nebelstrand/monastery/abbot,
+		/datum/job/nebelstrand/monastery/monk,
+		/datum/job/nebelstrand/apothecary/apothecary
 
 	)
 	default_job_type = /datum/job/nebelstrand/visitor/traveller
@@ -39,7 +48,8 @@
 		/decl/species/kobaloi = list(
 			/datum/job/nebelstrand/visitor/beggar_knight,
 			/datum/job/nebelstrand/inn/innkeeper,
-			/datum/job/nebelstrand/shrine/keeper,
+			/datum/job/nebelstrand/church/priest,
+			/datum/job/nebelstrand/monastery/abbot,
 			/datum/job/nebelstrand/visitor/traveller/cleric
 		)
 	)

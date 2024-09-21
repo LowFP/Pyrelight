@@ -85,3 +85,46 @@
 
 /obj/abstract/landmark/start/nebelstrand/forester
 	name                    = "Forester"
+
+/datum/job/nebelstrand/market/blacksmith
+	title                   = "Blacksmith"
+	description             = "You refine ores from the mountain, and occasionally mine them, too. The only limit to your potential bounty is your own hard work and ingenuity... and the kobaloi in the caves."
+	supervisors             = "the consequences of your actions"
+	spawn_positions         = 1
+	total_positions         = 1
+	outfit_type             = /decl/outfit/job/nebelstrand/miner
+	min_skill               = list(
+		SKILL_HAULING       = SKILL_ADEPT, // general physical activity
+		SKILL_METALWORK     = SKILL_BASIC, // ore smelting, metallurgy
+		SKILL_STONEMASONRY  = SKILL_BASIC, // experienced working with stone
+		SKILL_SCULPTING     = SKILL_BASIC, // producing clay molds, firing pottery
+	)
+	skill_points            = 20
+	lock_keys = list(
+		"blacksmith storeroom" = /decl/material/solid/metal/copper,
+	)
+
+/obj/abstract/landmark/start/nebelstrand/blacksmith
+	name                    = "Blacksmith"
+
+
+/datum/job/nebelstrand/market/trader
+	title                   = "Trader"
+	description             = "You run The Trading Post, where you buy and sell goods ranging from basic supplies to rare treasures. Your skills in negotiation and appraisal help you turn a profit, and you're always on the lookout for valuable wares to add to your collection."
+	supervisors             = "the consequences of your actions"
+	spawn_positions         = 1
+	total_positions         = 1
+	outfit_type             = /decl/outfit/job/nebelstrand/miner
+	min_skill               = list(
+		SKILL_FINANCE       = SKILL_ADEPT, // they run the docks after all
+		SKILL_LITERACY      = SKILL_BASIC, // and should know how to read a liiittle bit
+		SKILL_HAULING       = SKILL_BASIC, // Probably pushing a lot of stuff around
+	)
+	skill_points            = 20
+	lock_keys = list(
+		"general store" = /decl/material/solid/metal/copper,
+		"general store stockroom" = /decl/material/solid/metal/iron
+	)
+
+/obj/abstract/landmark/start/nebelstrand/trader
+	name                    = "Trader"

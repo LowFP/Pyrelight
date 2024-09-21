@@ -10,7 +10,7 @@
 /datum/job/nebelstrand/inn/innkeeper
 	title                   = "Innkeeper"
 	supervisors             = "your business and self-interest"
-	description             = "You are the proprietor of the Misty Mug Tavern, directing your employees and ensuring guests are treated properly, whatever you think that may mean."
+	description             = "You are the proprietor of the Gull’s Wing Inn, directing your employees and ensuring guests are treated properly, whatever you think that may mean."
 	spawn_positions         = 1
 	total_positions         = 1
 	outfit_type             = /decl/outfit/job/nebelstrand/innkeeper
@@ -40,7 +40,7 @@
 /datum/job/nebelstrand/inn/inn_worker
 	title                   = "Inn Worker"
 	supervisors             = "the innkeeper"
-	description             = "You work at the inn, though your exact duties are nebulous. You may be a cook in the kitchen, someone who keeps the lanterns lit and the furniture from falling apart, or something else entirely; either way, you have to earn your keep."
+	description             = "You work at the Gull’s Wing Inn, though your exact duties are nebulous. You may be a cook in the kitchen, someone who keeps the lanterns lit and the furniture from falling apart, or something else entirely; either way, you have to earn your keep."
 	spawn_positions         = 3
 	total_positions         = 3
 	outfit_type             = /decl/outfit/job/nebelstrand/inn_worker
@@ -57,22 +57,3 @@
 
 /obj/abstract/landmark/start/nebelstrand/inn_worker
 	name                    = "Inn Worker"
-
-/datum/job/nebelstrand/inn/bartender
-	title                   = "Bartender"
-	supervisors             = "the innkeeper"
-	description             = "You work the bar at the inn and ensure that patrons are fed, slaked, and merry. If you keep the hearth lit and prepare fresh food and drink, you will certainly earn your keep."
-	spawn_positions         = 2
-	total_positions         = 2
-	outfit_type             = /decl/outfit/job/nebelstrand/bartender
-	min_skill               = list(
-		SKILL_COOKING       = SKILL_EXPERT // skilled with food and drink
-	)
-	skill_points            = 18
-	lock_keys = list(
-		"inn interior" = /decl/material/solid/metal/copper,
-		"inn exterior" = /decl/material/solid/metal/iron
-	)
-
-/obj/abstract/landmark/start/nebelstrand/bartender
-	name                    = "Bartender"

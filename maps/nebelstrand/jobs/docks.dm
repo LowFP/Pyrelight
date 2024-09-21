@@ -26,8 +26,8 @@
 	)
 	skill_points            = 22
 	lock_keys = list(
-		"harbormaster's room" = /decl/material/solid/metal/silver,
-		"storehouse"  = /decl/material/solid/metal/iron
+		"dockmaster" = /decl/material/solid/metal/silver,
+		"dock storeroom"  = /decl/material/solid/metal/iron
 	)
 
 /obj/abstract/landmark/start/nebelstrand/dockmaster
@@ -45,7 +45,7 @@
 	)
 	skill_points            = 18
 	lock_keys = list(
-		"storehouse"  = /decl/material/solid/metal/iron
+		"dock storeroom"  = /decl/material/solid/metal/iron
 	)
 
 /obj/abstract/landmark/start/nebelstrand/wharf_laborer

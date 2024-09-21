@@ -26,8 +26,7 @@
 	)
 	skill_points            = 22
 	lock_keys = list(
-		"mistseer's room" = /decl/material/solid/metal/silver,
-		"fogfinder's guild"  = /decl/material/solid/metal/iron
+		"guard's" = /decl/material/solid/metal/silver,
 	)
 
 /obj/abstract/landmark/start/nebelstrand/mistseer
@@ -45,7 +44,7 @@
 	)
 	skill_points            = 18
 	lock_keys = list(
-		"fogfinder's guild"  = /decl/material/solid/metal/iron
+		"guard's" = /decl/material/solid/metal/silver,
 	)
 
 /obj/abstract/landmark/start/nebelstrand/guard

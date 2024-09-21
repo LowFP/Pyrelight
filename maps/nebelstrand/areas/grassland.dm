@@ -61,8 +61,38 @@
 	interior_ambient_light_modifier = -0.3 // night is pitch-black on the porch
 	sound_env = FOREST
 
+/area/nebelstrand/almshouse
+	name = "\improper Almshouse"
+	fishing_failure_prob = 100
+	fishing_results = list()
+	sound_env = ROOM
+
+/area/nebelstrand/house
+	name = "\improper House"
+	fishing_failure_prob = 100
+	fishing_results = list()
+	sound_env = ROOM
+
+/area/nebelstrand/shack
+	name = "\improper shack"
+	fishing_failure_prob = 100
+	fishing_results = list()
+	sound_env = ROOM
+
+/area/nebelstrand/monastery
+	name = "\improper Monastery"
+	fishing_failure_prob = 100
+	fishing_results = list()
+	sound_env = ROOM
+
 /area/nebelstrand/castle_walls
 	name = "\improper Castle Walls"
+	fishing_failure_prob = 100
+	fishing_results = list()
+	sound_env = ROOM
+
+/area/nebelstrand/guards
+	name = "\improper Guard's Room"
 	fishing_failure_prob = 100
 	fishing_results = list()
 	sound_env = ROOM
