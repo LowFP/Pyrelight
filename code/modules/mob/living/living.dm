@@ -90,7 +90,7 @@ default behaviour is:
 			for(var/mob/living/M in range(tmob, 1))
 				if(LAZYLEN(tmob.pinned) || (locate(/obj/item/grab, LAZYLEN(tmob.grabbed_by))))
 					if ( !(world.time % 5) )
-						to_chat(src, "<span class='warning'>[tmob] is restrained, you cannot push past</span>")
+						to_chat(src, SPAN_WARNING("[tmob] is restrained, you cannot push past."))
 					now_pushing = 0
 					return
 
@@ -897,6 +897,14 @@ default behaviour is:
 /mob/living/proc/has_chemical_effect(var/chem, var/threshold_over, var/threshold_under)
 	var/val = GET_CHEMICAL_EFFECT(src, chem)
 	. = (isnull(threshold_over) || val >= threshold_over) && (isnull(threshold_under) || val <= threshold_under)
+
+/mob/living/proc/remove_chemical_effect(var/effect, var/magnitude)
+	if(!isnull(magnitude))
+		magnitude = LAZYACCESS(chem_effects, effect) - magnitude
+	if(magnitude <= 0)
+		LAZYREMOVE(chem_effects, effect)
+	else
+		LAZYSET(chem_effects, effect, magnitude)
 
 /mob/living/proc/add_chemical_effect(var/effect, var/magnitude = 1)
 	magnitude += GET_CHEMICAL_EFFECT(src, effect)
@@ -1845,3 +1853,39 @@ default behaviour is:
 	. = ..()
 	reset_layer()
 	update_icon()
+
+/mob/living/proc/flee(atom/target, upset = FALSE)
+	var/static/datum/automove_metadata/_flee_automove_metadata = new(
+		_move_delay = null,
+		_acceptable_distance = 7,
+		_avoid_target = TRUE
+	)
+	var/static/datum/automove_metadata/_annoyed_automove_metadata = new(
+		_move_delay = null,
+		_acceptable_distance = 2,
+		_avoid_target = TRUE
+	)
+	if(upset)
+		set_moving_quickly()
+	else
+		set_moving_slowly()
+	start_automove(target, metadata = upset ? _flee_automove_metadata : _annoyed_automove_metadata)
+
+/mob/living/examine(mob/user, distance, infix, suffix)
+
+	. = ..()
+
+	if(has_extension(src, /datum/extension/shearable))
+		var/datum/extension/shearable/shearable = get_extension(src, /datum/extension/shearable)
+		if(world.time >= shearable.next_fleece || shearable.has_fleece)
+			to_chat(user, SPAN_NOTICE("\The [src] can be sheared with shears, or a similar tool."))
+		else
+			to_chat(user, SPAN_WARNING("\The [src] will be ready to be sheared in [ceil((shearable.next_fleece-world.time) / 10)] second\s."))
+
+	if(has_extension(src, /datum/extension/milkable))
+		var/datum/extension/milkable/milkable = get_extension(src, /datum/extension/milkable)
+		if(milkable.udder.total_volume > 0)
+			to_chat(user, SPAN_NOTICE("\The [src] can be milked into a bucket or other container."))
+		else
+			to_chat(user, SPAN_WARNING("\The [src] cannot currently be milked."))
+

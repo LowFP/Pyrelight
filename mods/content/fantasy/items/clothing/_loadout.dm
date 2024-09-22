@@ -12,7 +12,10 @@
 		/decl/material/solid/organic/leather,
 		/decl/material/solid/organic/skin/feathers,
 		/decl/material/solid/organic/skin/fur,
-		/decl/material/solid/organic/cloth
+		/decl/material/solid/organic/cloth,
+		/decl/material/solid/organic/cloth/wool,
+		/decl/material/solid/organic/cloth/hemp,
+		/decl/material/solid/organic/cloth/linen
 	)
 
 /decl/loadout_option/fantasy/get_gear_tweak_options()
@@ -137,7 +140,10 @@
 	path = /obj/item/clothing/gloves/thick
 	available_materials = list(
 		/decl/material/solid/organic/leather,
-		/decl/material/solid/organic/cloth
+		/decl/material/solid/organic/cloth,
+		/decl/material/solid/organic/cloth/wool,
+		/decl/material/solid/organic/cloth/hemp
+
 	)
 	uid = "gear_fantasy_work_gloves"
 
@@ -198,6 +204,18 @@
 		/decl/material/solid/metal/bronze
 	)
 
+/decl/loadout_option/fantasy/utility/quill
+	name = "paper scroll"
+	path = /obj/item/paper/scroll
+	available_materials = null
+	uid = "gear_fantasy_scroll"
+
+/decl/loadout_option/fantasy/utility/scroll
+	name = "quill pen"
+	path = /obj/item/pen/fancy/quill
+	available_materials = null
+	uid = "gear_fantasy_quill"
+
 /decl/loadout_option/fantasy/utility/striker
 	name = "flint striker"
 	path = /obj/item/rock/flint/striker
@@ -238,6 +256,44 @@
 	slot = slot_w_uniform_str
 	available_materials = list(
 		/decl/material/solid/organic/leather,
-		/decl/material/solid/organic/cloth
+		/decl/material/solid/organic/cloth,
+		/decl/material/solid/organic/cloth/wool,
+		/decl/material/solid/organic/cloth/hemp
 	)
 	uid = "gear_fantasy_bandoler"
+
+/decl/loadout_option/fantasy/eyes
+	abstract_type = /decl/loadout_option/fantasy/eyes
+	slot = slot_glasses_str
+	available_materials = list(
+		/decl/material/solid/organic/leather,
+		/decl/material/solid/organic/cloth,
+		/decl/material/solid/organic/cloth/wool,
+		/decl/material/solid/organic/skin/fur,
+		/decl/material/solid/organic/skin/feathers,
+		/decl/material/solid/organic/cloth/linen
+	)
+
+/decl/loadout_option/fantasy/eyes/eyepatch
+	name = "eyepatch"
+	path = /obj/item/clothing/glasses/eyepatch
+	uid = "gear_fantasy_eyes_eyepatch"
+
+/decl/loadout_option/fantasy/eyes/eyepatch_colourable
+	name = "eyepatch, colourable"
+	path = /obj/item/clothing/glasses/eyepatch/colourable
+	uid = "gear_fantasy_eyes_eyepatch_colourable"
+
+/decl/loadout_option/fantasy/eyes/glasses
+	name = "glasses selection"
+	path = /obj/item/clothing/glasses/prescription/pincenez
+	uid = "gear_fantasy_eyes_glasses"
+	available_materials = null
+
+/decl/loadout_option/fantasy/eyes/glasses/get_gear_tweak_options()
+	. = ..()
+	LAZYINITLIST(.[/datum/gear_tweak/path])
+	.[/datum/gear_tweak/path] |= list(
+		"pince-nez glasses" =    /obj/item/clothing/glasses/prescription/pincenez,
+		"monocle" =              /obj/item/clothing/glasses/eyepatch/monocle
+	)
