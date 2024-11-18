@@ -16,8 +16,10 @@
 
 	var/list/accessories
 
+	/// Clothing items with an accessory_slot in this list can be equipped to this item.
 	var/list/valid_accessory_slots
 
+	/// accessory_slot entries in this list will be limited to only one item at a time.
 	var/list/restricted_accessory_slots = list(
 		ACCESSORY_SLOT_UTILITY,
 		ACCESSORY_SLOT_HOLSTER,
@@ -83,10 +85,10 @@
 
 /obj/item/clothing/proc/setup_equip_flags()
 	if(!isnull(bodytype_equip_flags))
-		if(bodytype_equip_flags & BODY_FLAG_EXCLUDE)
-			bodytype_equip_flags |= BODY_FLAG_QUADRUPED
+		if(bodytype_equip_flags & BODY_EQUIP_FLAG_EXCLUDE)
+			bodytype_equip_flags |= BODY_EQUIP_FLAG_QUADRUPED
 		else
-			bodytype_equip_flags &= ~BODY_FLAG_QUADRUPED
+			bodytype_equip_flags &= ~BODY_EQUIP_FLAG_QUADRUPED
 
 /obj/item/clothing/can_contaminate()
 	return TRUE
@@ -258,7 +260,7 @@
 	var/decl/bodytype/root_bodytype = user?.get_bodytype()
 	if(!root_bodytype || isnull(bodytype_equip_flags) || (slot in user.get_held_item_slots()))
 		return
-	if(bodytype_equip_flags & BODY_FLAG_EXCLUDE)
+	if(bodytype_equip_flags & BODY_EQUIP_FLAG_EXCLUDE)
 		. = !(bodytype_equip_flags & root_bodytype.bodytype_flag)
 	else
 		. = (bodytype_equip_flags & root_bodytype.bodytype_flag)

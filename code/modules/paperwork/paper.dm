@@ -290,8 +290,8 @@
 		if(istype(P, /obj/item/flame/fuelled/lighter/zippo))
 			class = "rose"
 
-		var/decl/pronouns/G = user.get_pronouns()
-		user.visible_message("<span class='[class]'>[user] holds \the [P] up to \the [src], it looks like [G.he] [G.is] trying to burn it!</span>", \
+		var/decl/pronouns/pronouns = user.get_pronouns()
+		user.visible_message("<span class='[class]'>[user] holds \the [P] up to \the [src], it looks like [pronouns.he] [pronouns.is] trying to burn it!</span>", \
 		"<span class='[class]'>You hold \the [P] up to \the [src], burning it slowly.</span>")
 
 		spawn(20)
@@ -591,10 +591,11 @@ var/global/datum/topic_state/default/paper_state/paper_topic_state = new
 
 // Stub type for moving teleportation scrolls into a modpack.
 /obj/item/paper/scroll
-	name  = "scroll"
-	desc  = "A length of writing material curled into a scroll."
-	icon  = 'icons/obj/items/paperwork/scroll.dmi'
-	color = "#feeebc"
+	name    = "scroll"
+	desc    = "A length of writing material curled into a scroll."
+	icon    = 'icons/obj/items/paperwork/scroll.dmi'
+	color   = "#feeebc"
+	w_class = ITEM_SIZE_SMALL
 	var/furled = FALSE
 
 /obj/item/paper/scroll/can_bundle()

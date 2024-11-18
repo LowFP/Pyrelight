@@ -12,6 +12,12 @@
 		"bashes",
 		"hammers"
 	)
+	var/demolisher_type = /datum/extension/demolisher/delicate
+
+/obj/item/tool/hammer/Initialize(ml, material_key, _handle_material, _binding_material, override_tool_qualities, override_tool_properties)
+	. = ..()
+	if(demolisher_type)
+		set_extension(src, demolisher_type, null, "demolishing", 'sound/effects/bang.ogg')
 
 /obj/item/tool/hammer/get_initial_tool_properties()
 	var/static/list/tool_properties = list(
@@ -41,6 +47,8 @@
 		"bashes",
 		"hammers"
 	)
+	demolisher_type = /datum/extension/demolisher
+	w_class             = ITEM_SIZE_HUGE
 
 /obj/item/tool/hammer/sledge/get_initial_tool_qualities()
 	var/static/list/tool_qualities = list(
@@ -58,6 +66,7 @@
 	material_alteration = 0
 	can_be_twohanded    = TRUE
 	_base_attack_force  = 15
+	w_class             = ITEM_SIZE_HUGE
 
 /obj/item/tool/hammer/jack/get_initial_tool_qualities()
 	var/static/list/tool_qualities = list(

@@ -17,10 +17,12 @@
 		/decl/move_intent/run/animal
 	)
 
-	var/base_movement_delay = 0 // Added to the delay expected from movement decls.
-	ai = /datum/mob_controller
+	/// Added to the delay expected from movement decls.
+	var/base_movement_delay = 0
 
+	/// Can this mob in theory have a mob riding it?
 	var/can_have_rider = TRUE
+	/// If the mob can be ridden, what is the largest size of rider?
 	var/max_rider_size = MOB_SIZE_SMALL
 
 	/// Does the percentage health show in the stat panel for the mob?
@@ -81,8 +83,12 @@
 	var/scannable_result // Codex page generated when this mob is scanned.
 	var/base_animal_type // set automatically in Initialize(), used for language checking.
 
-	var/attack_delay = DEFAULT_ATTACK_COOLDOWN // How long in ds that a creature winds up before attacking.
-	var/sa_accuracy = 85 //base chance to hit out of 100
+	// By default, simple mobs should attack slightly slower than players, allowing a suitably attentive
+	// player to dodge/kite if they're paying attention, and not letting themselves get cornered/incapacitated.
+	var/attack_delay = DEFAULT_ATTACK_COOLDOWN * 1.3
+
+	// Base percentage chance to hit in melee against another mob, if controlled by an AI.
+	var/telegraphed_melee_accuracy = 85
 
 	// Visible message shown when the mob dies.
 	var/death_message = "dies!"
@@ -341,8 +347,8 @@ var/global/list/simplemob_icon_bitflag_cache = list()
 				visible_message(SPAN_NOTICE("\The [user] applies \the [MED] to \the [src]."))
 				MED.use(1)
 		else
-			var/decl/pronouns/G = get_pronouns()
-			to_chat(user, SPAN_WARNING("\The [src] is dead, medical items won't bring [G.him] back to life."))
+			var/decl/pronouns/pronouns = get_pronouns()
+			to_chat(user, SPAN_WARNING("\The [src] is dead, medical items won't bring [pronouns.him] back to life."))
 		return TRUE
 
 	return ..()
@@ -491,7 +497,7 @@ var/global/list/simplemob_icon_bitflag_cache = list()
 	bodytype_category = "quadrupedal animal body"
 
 /mob/living/simple_animal/get_base_telegraphed_melee_accuracy()
-	return sa_accuracy
+	return telegraphed_melee_accuracy
 
 /mob/living/simple_animal/check_has_mouth()
 	return TRUE
